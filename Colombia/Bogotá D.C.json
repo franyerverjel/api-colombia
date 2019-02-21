@@ -1,0 +1,52 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "34",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-74.18333",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Distrito Capital de Bogotá",
+    "fcl": "A",
+    "numberOfChildren": 1,
+    "name": "Bogota D.C.",
+    "fcode": "ADM1",
+    "geonameId": 3688685,
+    "lat": "4.25",
+    "adminName1": "Bogota D.C.",
+    "population": 6840116
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "11",
+        "code": "11001",
+        "geoname_id": "11001000",
+        "region": "Bogotá, D. C.",
+        "name": "Bogotá, D.C.",
+        "longitude": "-74.107359",
+        "latitude": "4.65017303"
+    }
+  ]
+}

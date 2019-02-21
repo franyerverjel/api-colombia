@@ -1,0 +1,286 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "37",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75.33333",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Caldas",
+    "fcl": "A",
+    "numberOfChildren": 27,
+    "name": "Departamento de Caldas",
+    "fcode": "ADM1",
+    "geonameId": 3687951,
+    "lat": "5.26667",
+    "adminName1": "Caldas",
+    "population": 968740
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "17",
+        "code": "17001",
+        "geoname_id": "17001000",
+        "region": "Caldas",
+        "name": "Manizales",
+        "longitude": "-75.49104898",
+        "latitude": "5.057688197"
+    },
+    {
+        "region_id": "17",
+        "code": "17013",
+        "geoname_id": "17013000",
+        "region": "Caldas",
+        "name": "Aguadas",
+        "longitude": "-75.45486967",
+        "latitude": "5.610244456"
+    },
+    {
+        "region_id": "17",
+        "code": "17042",
+        "geoname_id": "17042000",
+        "region": "Caldas",
+        "name": "Anserma",
+        "longitude": "-75.78434266",
+        "latitude": "5.236474391"
+    },
+    {
+        "region_id": "17",
+        "code": "17050",
+        "geoname_id": "17050000",
+        "region": "Caldas",
+        "name": "Aranzazu",
+        "longitude": "-75.49125461",
+        "latitude": "5.271141768"
+    },
+    {
+        "region_id": "17",
+        "code": "17088",
+        "geoname_id": "17088000",
+        "region": "Caldas",
+        "name": "Belalcázar",
+        "longitude": "-75.8119183",
+        "latitude": "4.9937939"
+    },
+    {
+        "region_id": "17",
+        "code": "17174",
+        "geoname_id": "17174000",
+        "region": "Caldas",
+        "name": "Chinchiná",
+        "longitude": "-75.60748073",
+        "latitude": "4.985812862"
+    },
+    {
+        "region_id": "17",
+        "code": "17272",
+        "geoname_id": "17272000",
+        "region": "Caldas",
+        "name": "Filadelfia",
+        "longitude": "-75.56247406",
+        "latitude": "5.29709071"
+    },
+    {
+        "region_id": "17",
+        "code": "17380",
+        "geoname_id": "17380000",
+        "region": "Caldas",
+        "name": "La Dorada",
+        "longitude": "-74.65820562",
+        "latitude": "5.444406098"
+    },
+    {
+        "region_id": "17",
+        "code": "17388",
+        "geoname_id": "17388000",
+        "region": "Caldas",
+        "name": "La Merced",
+        "longitude": "-75.54790789",
+        "latitude": "5.39477941"
+    },
+    {
+        "region_id": "17",
+        "code": "17433",
+        "geoname_id": "17433000",
+        "region": "Caldas",
+        "name": "Manzanares",
+        "longitude": "-75.15282885",
+        "latitude": "5.255720253"
+    },
+    {
+        "region_id": "17",
+        "code": "17442",
+        "geoname_id": "17442000",
+        "region": "Caldas",
+        "name": "Marmato",
+        "longitude": "-75.60024162",
+        "latitude": "5.47400482"
+    },
+    {
+        "region_id": "17",
+        "code": "17444",
+        "geoname_id": "17444000",
+        "region": "Caldas",
+        "name": "Marquetalia",
+        "longitude": "-75.05309703",
+        "latitude": "5.297524561"
+    },
+    {
+        "region_id": "17",
+        "code": "17446",
+        "geoname_id": "17446000",
+        "region": "Caldas",
+        "name": "Marulanda",
+        "longitude": "-75.25940253",
+        "latitude": "5.284330464"
+    },
+    {
+        "region_id": "17",
+        "code": "17486",
+        "geoname_id": "17486000",
+        "region": "Caldas",
+        "name": "Neira",
+        "longitude": "-75.51984208",
+        "latitude": "5.166705703"
+    },
+    {
+        "region_id": "17",
+        "code": "17495",
+        "geoname_id": "17495000",
+        "region": "Caldas",
+        "name": "Norcasia",
+        "longitude": "-74.88954408",
+        "latitude": "5.574795393"
+    },
+    {
+        "region_id": "17",
+        "code": "17513",
+        "geoname_id": "17513000",
+        "region": "Caldas",
+        "name": "Pácora",
+        "longitude": "-75.45962126",
+        "latitude": "5.527171733"
+    },
+    {
+        "region_id": "17",
+        "code": "17524",
+        "geoname_id": "17524000",
+        "region": "Caldas",
+        "name": "Palestina",
+        "longitude": "-75.62150256",
+        "latitude": "5.020571168"
+    },
+    {
+        "region_id": "17",
+        "code": "17541",
+        "geoname_id": "17541000",
+        "region": "Caldas",
+        "name": "Pensilvania",
+        "longitude": "-75.16029852",
+        "latitude": "5.383280594"
+    },
+    {
+        "region_id": "17",
+        "code": "17614",
+        "geoname_id": "17614000",
+        "region": "Caldas",
+        "name": "Riosucio",
+        "longitude": "-75.70206971",
+        "latitude": "5.423680913"
+    },
+    {
+        "region_id": "17",
+        "code": "17616",
+        "geoname_id": "17616000",
+        "region": "Caldas",
+        "name": "Risaralda",
+        "longitude": "-75.76721954",
+        "latitude": "5.164508957"
+    },
+    {
+        "region_id": "17",
+        "code": "17653",
+        "geoname_id": "17653000",
+        "region": "Caldas",
+        "name": "Salamina",
+        "longitude": "-75.48722244",
+        "latitude": "5.403024515"
+    },
+    {
+        "region_id": "17",
+        "code": "17662",
+        "geoname_id": "17662000",
+        "region": "Caldas",
+        "name": "Samaná",
+        "longitude": "-74.99225776",
+        "latitude": "5.413086301"
+    },
+    {
+        "region_id": "17",
+        "code": "17665",
+        "geoname_id": "17665000",
+        "region": "Caldas",
+        "name": "San José",
+        "longitude": "-75.79200444",
+        "latitude": "5.081569475"
+    },
+    {
+        "region_id": "17",
+        "code": "17777",
+        "geoname_id": "17777000",
+        "region": "Caldas",
+        "name": "Supía",
+        "longitude": "-75.64966031",
+        "latitude": "5.446842982"
+    },
+    {
+        "region_id": "17",
+        "code": "17867",
+        "geoname_id": "17867000",
+        "region": "Caldas",
+        "name": "Victoria",
+        "longitude": "-74.91115304",
+        "latitude": "5.3174202"
+    },
+    {
+        "region_id": "17",
+        "code": "17873",
+        "geoname_id": "17873000",
+        "region": "Caldas",
+        "name": "Villamaría",
+        "longitude": "-75.5137606",
+        "latitude": "5.043806686"
+    },
+    {
+        "region_id": "17",
+        "code": "17877",
+        "geoname_id": "17877000",
+        "region": "Caldas",
+        "name": "Viterbo",
+        "longitude": "-75.87060986",
+        "latitude": "5.062664236"
+    }
+  ]
+}

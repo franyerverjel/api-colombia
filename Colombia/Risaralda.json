@@ -1,0 +1,169 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "24",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-76",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Risaralda",
+    "fcl": "A",
+    "numberOfChildren": 14,
+    "name": "Departamento de Risaralda",
+    "fcode": "ADM1",
+    "geonameId": 3670698,
+    "lat": "5",
+    "adminName1": "Risaralda",
+    "population": 897509
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "66",
+        "code": "66001",
+        "geoname_id": "66001000",
+        "region": "Risaralda",
+        "name": "Pereira",
+        "longitude": "-75.71712306",
+        "latitude": "4.805680265"
+    },
+    {
+        "region_id": "66",
+        "code": "66045",
+        "geoname_id": "66045000",
+        "region": "Risaralda",
+        "name": "Apía",
+        "longitude": "-75.94193069",
+        "latitude": "5.105739367"
+    },
+    {
+        "region_id": "66",
+        "code": "66075",
+        "geoname_id": "66075000",
+        "region": "Risaralda",
+        "name": "Balboa",
+        "longitude": "-75.96022168",
+        "latitude": "4.945769195"
+    },
+    {
+        "region_id": "66",
+        "code": "66088",
+        "geoname_id": "66088000",
+        "region": "Risaralda",
+        "name": "Belén De Umbría",
+        "longitude": "-75.86821852",
+        "latitude": "5.200645376"
+    },
+    {
+        "region_id": "66",
+        "code": "66170",
+        "geoname_id": "66170000",
+        "region": "Risaralda",
+        "name": "Dosquebradas",
+        "longitude": "-75.68246912",
+        "latitude": "4.827187832"
+    },
+    {
+        "region_id": "66",
+        "code": "66318",
+        "geoname_id": "66318000",
+        "region": "Risaralda",
+        "name": "Guática",
+        "longitude": "-75.7993628",
+        "latitude": "5.316209512"
+    },
+    {
+        "region_id": "66",
+        "code": "66383",
+        "geoname_id": "66383000",
+        "region": "Risaralda",
+        "name": "La Celia",
+        "longitude": "-76.00307565",
+        "latitude": "5.002847301"
+    },
+    {
+        "region_id": "66",
+        "code": "66400",
+        "geoname_id": "66400000",
+        "region": "Risaralda",
+        "name": "La Virginia",
+        "longitude": "-75.88405843",
+        "latitude": "4.898666957"
+    },
+    {
+        "region_id": "66",
+        "code": "66440",
+        "geoname_id": "66440000",
+        "region": "Risaralda",
+        "name": "Marsella",
+        "longitude": "-75.73858326",
+        "latitude": "4.935559519"
+    },
+    {
+        "region_id": "66",
+        "code": "66456",
+        "geoname_id": "66456000",
+        "region": "Risaralda",
+        "name": "Mistrató",
+        "longitude": "-75.88286047",
+        "latitude": "5.297059061"
+    },
+    {
+        "region_id": "66",
+        "code": "66572",
+        "geoname_id": "66572000",
+        "region": "Risaralda",
+        "name": "Pueblo Rico",
+        "longitude": "-76.03066815",
+        "latitude": "5.221912104"
+    },
+    {
+        "region_id": "66",
+        "code": "66594",
+        "geoname_id": "66594000",
+        "region": "Risaralda",
+        "name": "Quinchía",
+        "longitude": "-75.7304126",
+        "latitude": "5.34044568"
+    },
+    {
+        "region_id": "66",
+        "code": "66682",
+        "geoname_id": "66682000",
+        "region": "Risaralda",
+        "name": "Santa Rosa De Cabal",
+        "longitude": "-75.62001066",
+        "latitude": "4.867526454"
+    },
+    {
+        "region_id": "66",
+        "code": "66687",
+        "geoname_id": "66687000",
+        "region": "Risaralda",
+        "name": "Santuario",
+        "longitude": "-75.96211553",
+        "latitude": "5.072781139"
+    }
+  ]
+}

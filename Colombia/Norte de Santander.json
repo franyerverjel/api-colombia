@@ -1,0 +1,403 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "21",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-73",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Norte de Santander",
+    "fcl": "A",
+    "numberOfChildren": 40,
+    "name": "Departamento de Norte de Santander",
+    "fcode": "ADM1",
+    "geonameId": 3673798,
+    "lat": "8",
+    "adminName1": "Norte de Santander",
+    "population": 1243975
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "54",
+        "code": "54001",
+        "geoname_id": "54001000",
+        "region": "Norte De Santander",
+        "name": "Cúcuta",
+        "longitude": "-72.5082562",
+        "latitude": "7.905306295"
+    },
+    {
+        "region_id": "54",
+        "code": "54003",
+        "geoname_id": "54003000",
+        "region": "Norte De Santander",
+        "name": "Ábrego",
+        "longitude": "-73.2217344",
+        "latitude": "8.081784141"
+    },
+    {
+        "region_id": "54",
+        "code": "54051",
+        "geoname_id": "54051000",
+        "region": "Norte De Santander",
+        "name": "Arboledas",
+        "longitude": "-72.79887452",
+        "latitude": "7.64297044"
+    },
+    {
+        "region_id": "54",
+        "code": "54099",
+        "geoname_id": "54099000",
+        "region": "Norte De Santander",
+        "name": "Bochalema",
+        "longitude": "-72.64703809",
+        "latitude": "7.612168052"
+    },
+    {
+        "region_id": "54",
+        "code": "54109",
+        "geoname_id": "54109000",
+        "region": "Norte De Santander",
+        "name": "Bucarasica",
+        "longitude": "-72.86795437",
+        "latitude": "8.041167343"
+    },
+    {
+        "region_id": "54",
+        "code": "54125",
+        "geoname_id": "54125000",
+        "region": "Norte De Santander",
+        "name": "Cácota",
+        "longitude": "-72.64205884",
+        "latitude": "7.268705462"
+    },
+    {
+        "region_id": "54",
+        "code": "54128",
+        "geoname_id": "54128000",
+        "region": "Norte De Santander",
+        "name": "Cáchira",
+        "longitude": "-73.04874552",
+        "latitude": "7.740905158"
+    },
+    {
+        "region_id": "54",
+        "code": "54172",
+        "geoname_id": "54172000",
+        "region": "Norte De Santander",
+        "name": "Chinácota",
+        "longitude": "-72.60467824",
+        "latitude": "7.600957669"
+    },
+    {
+        "region_id": "54",
+        "code": "54174",
+        "geoname_id": "54174000",
+        "region": "Norte De Santander",
+        "name": "Chitagá",
+        "longitude": "-72.66543492",
+        "latitude": "7.138122324"
+    },
+    {
+        "region_id": "54",
+        "code": "54206",
+        "geoname_id": "54206000",
+        "region": "Norte De Santander",
+        "name": "Convención",
+        "longitude": "-73.33720845",
+        "latitude": "8.470368933"
+    },
+    {
+        "region_id": "54",
+        "code": "54223",
+        "geoname_id": "54223000",
+        "region": "Norte De Santander",
+        "name": "Cucutilla",
+        "longitude": "-72.77257191",
+        "latitude": "7.538987137"
+    },
+    {
+        "region_id": "54",
+        "code": "54239",
+        "geoname_id": "54239000",
+        "region": "Norte De Santander",
+        "name": "Durania",
+        "longitude": "-72.65860469",
+        "latitude": "7.714779625"
+    },
+    {
+        "region_id": "54",
+        "code": "54245",
+        "geoname_id": "54245000",
+        "region": "Norte De Santander",
+        "name": "El Carmen",
+        "longitude": "-73.44668712",
+        "latitude": "8.510578756"
+    },
+    {
+        "region_id": "54",
+        "code": "54250",
+        "geoname_id": "54250000",
+        "region": "Norte De Santander",
+        "name": "El Tarra",
+        "longitude": "-73.09484592",
+        "latitude": "8.576771365"
+    },
+    {
+        "region_id": "54",
+        "code": "54261",
+        "geoname_id": "54261000",
+        "region": "Norte De Santander",
+        "name": "El Zulia",
+        "longitude": "-72.60466818",
+        "latitude": "7.938229487"
+    },
+    {
+        "region_id": "54",
+        "code": "54313",
+        "geoname_id": "54313000",
+        "region": "Norte De Santander",
+        "name": "Gramalote",
+        "longitude": "-72.78683006",
+        "latitude": "7.916581824"
+    },
+    {
+        "region_id": "54",
+        "code": "54344",
+        "geoname_id": "54344000",
+        "region": "Norte De Santander",
+        "name": "Hacarí",
+        "longitude": "-73.14597535",
+        "latitude": "8.321714562"
+    },
+    {
+        "region_id": "54",
+        "code": "54347",
+        "geoname_id": "54347000",
+        "region": "Norte De Santander",
+        "name": "Herrán",
+        "longitude": "-72.48351934",
+        "latitude": "7.506540865"
+    },
+    {
+        "region_id": "54",
+        "code": "54377",
+        "geoname_id": "54377000",
+        "region": "Norte De Santander",
+        "name": "Labateca",
+        "longitude": "-72.49587415",
+        "latitude": "7.298339256"
+    },
+    {
+        "region_id": "54",
+        "code": "54385",
+        "geoname_id": "54385000",
+        "region": "Norte De Santander",
+        "name": "La Esperanza",
+        "longitude": "-73.32789745",
+        "latitude": "7.639990913"
+    },
+    {
+        "region_id": "54",
+        "code": "54398",
+        "geoname_id": "54398000",
+        "region": "Norte De Santander",
+        "name": "La Playa",
+        "longitude": "-73.23864867",
+        "latitude": "8.212627106"
+    },
+    {
+        "region_id": "54",
+        "code": "54405",
+        "geoname_id": "54405000",
+        "region": "Norte De Santander",
+        "name": "Los Patios",
+        "longitude": "-72.50571256",
+        "latitude": "7.833256289"
+    },
+    {
+        "region_id": "54",
+        "code": "54418",
+        "geoname_id": "54418000",
+        "region": "Norte De Santander",
+        "name": "Lourdes",
+        "longitude": "-72.83251126",
+        "latitude": "7.944519557"
+    },
+    {
+        "region_id": "54",
+        "code": "54480",
+        "geoname_id": "54480000",
+        "region": "Norte De Santander",
+        "name": "Mutiscua",
+        "longitude": "-72.74713854",
+        "latitude": "7.300280499"
+    },
+    {
+        "region_id": "54",
+        "code": "54498",
+        "geoname_id": "54498000",
+        "region": "Norte De Santander",
+        "name": "Ocaña",
+        "longitude": "-73.3558144",
+        "latitude": "8.247453792"
+    },
+    {
+        "region_id": "54",
+        "code": "54518",
+        "geoname_id": "54518000",
+        "region": "Norte De Santander",
+        "name": "Pamplona",
+        "longitude": "-72.64768144",
+        "latitude": "7.37285018"
+    },
+    {
+        "region_id": "54",
+        "code": "54520",
+        "geoname_id": "54520000",
+        "region": "Norte De Santander",
+        "name": "Pamplonita",
+        "longitude": "-72.63920376",
+        "latitude": "7.43674668"
+    },
+    {
+        "region_id": "54",
+        "code": "54553",
+        "geoname_id": "54553000",
+        "region": "Norte De Santander",
+        "name": "Puerto Santander",
+        "longitude": "-72.41031378",
+        "latitude": "8.360945615"
+    },
+    {
+        "region_id": "54",
+        "code": "54599",
+        "geoname_id": "54599000",
+        "region": "Norte De Santander",
+        "name": "Ragonvalia",
+        "longitude": "-72.47670824",
+        "latitude": "7.577861415"
+    },
+    {
+        "region_id": "54",
+        "code": "54660",
+        "geoname_id": "54660000",
+        "region": "Norte De Santander",
+        "name": "Salazar",
+        "longitude": "-72.81312435",
+        "latitude": "7.773671228"
+    },
+    {
+        "region_id": "54",
+        "code": "54670",
+        "geoname_id": "54670000",
+        "region": "Norte De Santander",
+        "name": "San Calixto",
+        "longitude": "-73.20605269",
+        "latitude": "8.40015189"
+    },
+    {
+        "region_id": "54",
+        "code": "54673",
+        "geoname_id": "54673000",
+        "region": "Norte De Santander",
+        "name": "San Cayetano",
+        "longitude": "-72.62541163",
+        "latitude": "7.875532739"
+    },
+    {
+        "region_id": "54",
+        "code": "54680",
+        "geoname_id": "54680000",
+        "region": "Norte De Santander",
+        "name": "Santiago",
+        "longitude": "-72.71661777",
+        "latitude": "7.86516264"
+    },
+    {
+        "region_id": "54",
+        "code": "54720",
+        "geoname_id": "54720000",
+        "region": "Norte De Santander",
+        "name": "Sardinata",
+        "longitude": "-72.80075838",
+        "latitude": "8.082013666"
+    },
+    {
+        "region_id": "54",
+        "code": "54743",
+        "geoname_id": "54743000",
+        "region": "Norte De Santander",
+        "name": "Silos",
+        "longitude": "-72.75706248",
+        "latitude": "7.204786615"
+    },
+    {
+        "region_id": "54",
+        "code": "54800",
+        "geoname_id": "54800000",
+        "region": "Norte De Santander",
+        "name": "Teorama",
+        "longitude": "-73.28740929",
+        "latitude": "8.436377338"
+    },
+    {
+        "region_id": "54",
+        "code": "54810",
+        "geoname_id": "54810000",
+        "region": "Norte De Santander",
+        "name": "Tibú",
+        "longitude": "-72.73591863",
+        "latitude": "8.639548853"
+    },
+    {
+        "region_id": "54",
+        "code": "54820",
+        "geoname_id": "54820000",
+        "region": "Norte De Santander",
+        "name": "Toledo",
+        "longitude": "-72.48510732",
+        "latitude": "7.310031828"
+    },
+    {
+        "region_id": "54",
+        "code": "54871",
+        "geoname_id": "54871000",
+        "region": "Norte De Santander",
+        "name": "Villa Caro",
+        "longitude": "-72.97365239",
+        "latitude": "7.914278305"
+    },
+    {
+        "region_id": "54",
+        "code": "54874",
+        "geoname_id": "54874000",
+        "region": "Norte De Santander",
+        "name": "Villa Del Rosario",
+        "longitude": "-72.47006734",
+        "latitude": "7.847487432"
+    }
+  ]
+}

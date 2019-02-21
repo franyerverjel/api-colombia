@@ -1,0 +1,619 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "20",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-78",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Nariño",
+    "fcl": "A",
+    "numberOfChildren": 64,
+    "name": "Departamento de Nariño",
+    "fcode": "ADM1",
+    "geonameId": 3674021,
+    "lat": "1.5",
+    "adminName1": "Nariño",
+    "population": 1541956
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "52",
+        "code": "52001",
+        "geoname_id": "52001000",
+        "region": "Nariño",
+        "name": "Pasto",
+        "longitude": "-77.27857635",
+        "latitude": "1.212124365"
+    },
+    {
+        "region_id": "52",
+        "code": "52019",
+        "geoname_id": "52019000",
+        "region": "Nariño",
+        "name": "Albán",
+        "longitude": "-77.08071233",
+        "latitude": "1.474978015"
+    },
+    {
+        "region_id": "52",
+        "code": "52022",
+        "geoname_id": "52022000",
+        "region": "Nariño",
+        "name": "Aldana",
+        "longitude": "-77.70035656",
+        "latitude": "0.882181195"
+    },
+    {
+        "region_id": "52",
+        "code": "52036",
+        "geoname_id": "52036000",
+        "region": "Nariño",
+        "name": "Ancuyá",
+        "longitude": "-77.51451329",
+        "latitude": "1.263299977"
+    },
+    {
+        "region_id": "52",
+        "code": "52051",
+        "geoname_id": "52051000",
+        "region": "Nariño",
+        "name": "Arboleda",
+        "longitude": "-77.13539889",
+        "latitude": "1.503536564"
+    },
+    {
+        "region_id": "52",
+        "code": "52079",
+        "geoname_id": "52079000",
+        "region": "Nariño",
+        "name": "Barbacoas",
+        "longitude": "-78.13989493",
+        "latitude": "1.670345194"
+    },
+    {
+        "region_id": "52",
+        "code": "52083",
+        "geoname_id": "52083000",
+        "region": "Nariño",
+        "name": "Belén",
+        "longitude": "-77.01566573",
+        "latitude": "1.595676065"
+    },
+    {
+        "region_id": "52",
+        "code": "52110",
+        "geoname_id": "52110000",
+        "region": "Nariño",
+        "name": "Buesaco",
+        "longitude": "-77.15647975",
+        "latitude": "1.381434415"
+    },
+    {
+        "region_id": "52",
+        "code": "52203",
+        "geoname_id": "52203000",
+        "region": "Nariño",
+        "name": "Colón",
+        "longitude": "-77.01977704",
+        "latitude": "1.643874302"
+    },
+    {
+        "region_id": "52",
+        "code": "52207",
+        "geoname_id": "52207000",
+        "region": "Nariño",
+        "name": "Consacá",
+        "longitude": "-77.46510211",
+        "latitude": "1.207623056"
+    },
+    {
+        "region_id": "52",
+        "code": "52210",
+        "geoname_id": "52210000",
+        "region": "Nariño",
+        "name": "Contadero",
+        "longitude": "-77.54940902",
+        "latitude": "0.910457863"
+    },
+    {
+        "region_id": "52",
+        "code": "52215",
+        "geoname_id": "52215000",
+        "region": "Nariño",
+        "name": "Córdoba",
+        "longitude": "-77.51789656",
+        "latitude": "0.854564418"
+    },
+    {
+        "region_id": "52",
+        "code": "52224",
+        "geoname_id": "52224000",
+        "region": "Nariño",
+        "name": "Cuaspúd",
+        "longitude": "-77.72894683",
+        "latitude": "0.862978103"
+    },
+    {
+        "region_id": "52",
+        "code": "52227",
+        "geoname_id": "52227000",
+        "region": "Nariño",
+        "name": "Cumbal",
+        "longitude": "-77.79227662",
+        "latitude": "0.906185361"
+    },
+    {
+        "region_id": "52",
+        "code": "52233",
+        "geoname_id": "52233000",
+        "region": "Nariño",
+        "name": "Cumbitara",
+        "longitude": "-77.57814673",
+        "latitude": "1.646845971"
+    },
+    {
+        "region_id": "52",
+        "code": "52240",
+        "geoname_id": "52240000",
+        "region": "Nariño",
+        "name": "Chachagüí",
+        "longitude": "-77.28170144",
+        "latitude": "1.36032802"
+    },
+    {
+        "region_id": "52",
+        "code": "52250",
+        "geoname_id": "52250000",
+        "region": "Nariño",
+        "name": "El Charco",
+        "longitude": "-78.109849",
+        "latitude": "2.477550593"
+    },
+    {
+        "region_id": "52",
+        "code": "52254",
+        "geoname_id": "52254000",
+        "region": "Nariño",
+        "name": "El Peñol",
+        "longitude": "-77.43785937",
+        "latitude": "1.452892601"
+    },
+    {
+        "region_id": "52",
+        "code": "52256",
+        "geoname_id": "52256000",
+        "region": "Nariño",
+        "name": "El Rosario",
+        "longitude": "-77.33456556",
+        "latitude": "1.742475705"
+    },
+    {
+        "region_id": "52",
+        "code": "52258",
+        "geoname_id": "52258000",
+        "region": "Nariño",
+        "name": "El Tablón De Gómez",
+        "longitude": "-77.09673083",
+        "latitude": "1.427054031"
+    },
+    {
+        "region_id": "52",
+        "code": "52260",
+        "geoname_id": "52260000",
+        "region": "Nariño",
+        "name": "El Tambo",
+        "longitude": "-77.39020466",
+        "latitude": "1.407643422"
+    },
+    {
+        "region_id": "52",
+        "code": "52287",
+        "geoname_id": "52287000",
+        "region": "Nariño",
+        "name": "Funes",
+        "longitude": "-77.4489786",
+        "latitude": "1.001135181"
+    },
+    {
+        "region_id": "52",
+        "code": "52317",
+        "geoname_id": "52317000",
+        "region": "Nariño",
+        "name": "Guachucal",
+        "longitude": "-77.73158986",
+        "latitude": "0.959743484"
+    },
+    {
+        "region_id": "52",
+        "code": "52320",
+        "geoname_id": "52320000",
+        "region": "Nariño",
+        "name": "Guaitarilla",
+        "longitude": "-77.54968882",
+        "latitude": "1.129632504"
+    },
+    {
+        "region_id": "52",
+        "code": "52323",
+        "geoname_id": "52323000",
+        "region": "Nariño",
+        "name": "Gualmatán",
+        "longitude": "-77.56681512",
+        "latitude": "0.91980291"
+    },
+    {
+        "region_id": "52",
+        "code": "52352",
+        "geoname_id": "52352000",
+        "region": "Nariño",
+        "name": "Iles",
+        "longitude": "-77.5209759",
+        "latitude": "0.969205287"
+    },
+    {
+        "region_id": "52",
+        "code": "52354",
+        "geoname_id": "52354000",
+        "region": "Nariño",
+        "name": "Imués",
+        "longitude": "-77.49617816",
+        "latitude": "1.055137709"
+    },
+    {
+        "region_id": "52",
+        "code": "52356",
+        "geoname_id": "52356000",
+        "region": "Nariño",
+        "name": "Ipiales",
+        "longitude": "-77.64640075",
+        "latitude": "0.827734241"
+    },
+    {
+        "region_id": "52",
+        "code": "52378",
+        "geoname_id": "52378000",
+        "region": "Nariño",
+        "name": "La Cruz",
+        "longitude": "-76.97053174",
+        "latitude": "1.601339314"
+    },
+    {
+        "region_id": "52",
+        "code": "52381",
+        "geoname_id": "52381000",
+        "region": "Nariño",
+        "name": "La Florida",
+        "longitude": "-77.40643084",
+        "latitude": "1.299192232"
+    },
+    {
+        "region_id": "52",
+        "code": "52385",
+        "geoname_id": "52385000",
+        "region": "Nariño",
+        "name": "La Llanada",
+        "longitude": "-77.58071165",
+        "latitude": "1.472636197"
+    },
+    {
+        "region_id": "52",
+        "code": "52390",
+        "geoname_id": "52390000",
+        "region": "Nariño",
+        "name": "La Tola",
+        "longitude": "-78.19039205",
+        "latitude": "2.398212191"
+    },
+    {
+        "region_id": "52",
+        "code": "52399",
+        "geoname_id": "52399000",
+        "region": "Nariño",
+        "name": "La Unión",
+        "longitude": "-77.13115435",
+        "latitude": "1.600268613"
+    },
+    {
+        "region_id": "52",
+        "code": "52405",
+        "geoname_id": "52405000",
+        "region": "Nariño",
+        "name": "Leiva",
+        "longitude": "-77.30621378",
+        "latitude": "1.934516214"
+    },
+    {
+        "region_id": "52",
+        "code": "52411",
+        "geoname_id": "52411000",
+        "region": "Nariño",
+        "name": "Linares",
+        "longitude": "-77.52193996",
+        "latitude": "1.351145073"
+    },
+    {
+        "region_id": "52",
+        "code": "52418",
+        "geoname_id": "52418000",
+        "region": "Nariño",
+        "name": "Los Andes",
+        "longitude": "-77.52132596",
+        "latitude": "1.494547405"
+    },
+    {
+        "region_id": "52",
+        "code": "52427",
+        "geoname_id": "52427000",
+        "region": "Nariño",
+        "name": "Magüí",
+        "longitude": "-78.18106078",
+        "latitude": "1.765313671"
+    },
+    {
+        "region_id": "52",
+        "code": "52435",
+        "geoname_id": "52435000",
+        "region": "Nariño",
+        "name": "Mallama",
+        "longitude": "-77.86442829",
+        "latitude": "1.14083897"
+    },
+    {
+        "region_id": "52",
+        "code": "52473",
+        "geoname_id": "52473000",
+        "region": "Nariño",
+        "name": "Mosquera",
+        "longitude": "-78.45298541",
+        "latitude": "2.507116414"
+    },
+    {
+        "region_id": "52",
+        "code": "52480",
+        "geoname_id": "52480000",
+        "region": "Nariño",
+        "name": "Nariño",
+        "longitude": "-77.35797213",
+        "latitude": "1.288978992"
+    },
+    {
+        "region_id": "52",
+        "code": "52490",
+        "geoname_id": "52490000",
+        "region": "Nariño",
+        "name": "Olaya Herrera",
+        "longitude": "-78.32561871",
+        "latitude": "2.347584488"
+    },
+    {
+        "region_id": "52",
+        "code": "52506",
+        "geoname_id": "52506000",
+        "region": "Nariño",
+        "name": "Ospina",
+        "longitude": "-77.56606698",
+        "latitude": "1.058491691"
+    },
+    {
+        "region_id": "52",
+        "code": "52520",
+        "geoname_id": "52520000",
+        "region": "Nariño",
+        "name": "Francisco Pizarro",
+        "longitude": "-78.65818187",
+        "latitude": "2.040809056"
+    },
+    {
+        "region_id": "52",
+        "code": "52540",
+        "geoname_id": "52540000",
+        "region": "Nariño",
+        "name": "Policarpa",
+        "longitude": "-77.45926539",
+        "latitude": "1.62813872"
+    },
+    {
+        "region_id": "52",
+        "code": "52560",
+        "geoname_id": "52560000",
+        "region": "Nariño",
+        "name": "Potosí",
+        "longitude": "-77.57279178",
+        "latitude": "0.806340417"
+    },
+    {
+        "region_id": "52",
+        "code": "52565",
+        "geoname_id": "52565000",
+        "region": "Nariño",
+        "name": "Providencia",
+        "longitude": "-77.59659215",
+        "latitude": "1.237691504"
+    },
+    {
+        "region_id": "52",
+        "code": "52573",
+        "geoname_id": "52573000",
+        "region": "Nariño",
+        "name": "Puerres",
+        "longitude": "-77.50421065",
+        "latitude": "0.885125175"
+    },
+    {
+        "region_id": "52",
+        "code": "52585",
+        "geoname_id": "52585000",
+        "region": "Nariño",
+        "name": "Pupiales",
+        "longitude": "-77.63350443",
+        "latitude": "0.867139628"
+    },
+    {
+        "region_id": "52",
+        "code": "52612",
+        "geoname_id": "52612000",
+        "region": "Nariño",
+        "name": "Ricaurte",
+        "longitude": "-77.99544487",
+        "latitude": "1.212931458"
+    },
+    {
+        "region_id": "52",
+        "code": "52621",
+        "geoname_id": "52621000",
+        "region": "Nariño",
+        "name": "Roberto Payán",
+        "longitude": "-78.24566252",
+        "latitude": "1.697744768"
+    },
+    {
+        "region_id": "52",
+        "code": "52678",
+        "geoname_id": "52678000",
+        "region": "Nariño",
+        "name": "Samaniego",
+        "longitude": "-77.59445713",
+        "latitude": "1.335351879"
+    },
+    {
+        "region_id": "52",
+        "code": "52683",
+        "geoname_id": "52683000",
+        "region": "Nariño",
+        "name": "Sandoná",
+        "longitude": "-77.46956757",
+        "latitude": "1.28613693"
+    },
+    {
+        "region_id": "52",
+        "code": "52685",
+        "geoname_id": "52685000",
+        "region": "Nariño",
+        "name": "San Bernardo",
+        "longitude": "-77.04740277",
+        "latitude": "1.514253666"
+    },
+    {
+        "region_id": "52",
+        "code": "52687",
+        "geoname_id": "52687000",
+        "region": "Nariño",
+        "name": "San Lorenzo",
+        "longitude": "-77.21523165",
+        "latitude": "1.503340987"
+    },
+    {
+        "region_id": "52",
+        "code": "52693",
+        "geoname_id": "52693000",
+        "region": "Nariño",
+        "name": "San Pablo",
+        "longitude": "-77.01392439",
+        "latitude": "1.669426894"
+    },
+    {
+        "region_id": "52",
+        "code": "52694",
+        "geoname_id": "52694000",
+        "region": "Nariño",
+        "name": "San Pedro De Cartago",
+        "longitude": "-77.1191975",
+        "latitude": "1.551658844"
+    },
+    {
+        "region_id": "52",
+        "code": "52696",
+        "geoname_id": "52696000",
+        "region": "Nariño",
+        "name": "Santa Bárbara",
+        "longitude": "-77.97908278",
+        "latitude": "2.449548194"
+    },
+    {
+        "region_id": "52",
+        "code": "52699",
+        "geoname_id": "52699000",
+        "region": "Nariño",
+        "name": "Santacruz",
+        "longitude": "-77.67702224",
+        "latitude": "1.221985919"
+    },
+    {
+        "region_id": "52",
+        "code": "52720",
+        "geoname_id": "52720000",
+        "region": "Nariño",
+        "name": "Sapuyes",
+        "longitude": "-77.62030027",
+        "latitude": "1.037527856"
+    },
+    {
+        "region_id": "52",
+        "code": "52786",
+        "geoname_id": "52786000",
+        "region": "Nariño",
+        "name": "Taminango",
+        "longitude": "-77.2802216",
+        "latitude": "1.570047767"
+    },
+    {
+        "region_id": "52",
+        "code": "52788",
+        "geoname_id": "52788000",
+        "region": "Nariño",
+        "name": "Tangua",
+        "longitude": "-77.39269418",
+        "latitude": "1.094880515"
+    },
+    {
+        "region_id": "52",
+        "code": "52835",
+        "geoname_id": "52835000",
+        "region": "Nariño",
+        "name": "San Andrés De Tumaco",
+        "longitude": "-78.76385415",
+        "latitude": "1.80711725"
+    },
+    {
+        "region_id": "52",
+        "code": "52838",
+        "geoname_id": "52838000",
+        "region": "Nariño",
+        "name": "Túquerres",
+        "longitude": "-77.61688638",
+        "latitude": "1.085193359"
+    },
+    {
+        "region_id": "52",
+        "code": "52885",
+        "geoname_id": "52885000",
+        "region": "Nariño",
+        "name": "Yacuanquer",
+        "longitude": "-77.40282382",
+        "latitude": "1.114556241"
+    }
+  ]
+}

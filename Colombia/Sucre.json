@@ -1,0 +1,277 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "27",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Sucre",
+    "fcl": "A",
+    "numberOfChildren": 26,
+    "name": "Departamento de Sucre",
+    "fcode": "ADM1",
+    "geonameId": 3667725,
+    "lat": "9",
+    "adminName1": "Sucre",
+    "population": 772010
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "70",
+        "code": "70001",
+        "geoname_id": "70001000",
+        "region": "Sucre",
+        "name": "Sincelejo",
+        "longitude": "-75.39548356",
+        "latitude": "9.302333104"
+    },
+    {
+        "region_id": "70",
+        "code": "70110",
+        "geoname_id": "70110000",
+        "region": "Sucre",
+        "name": "Buenavista",
+        "longitude": "-74.973015",
+        "latitude": "9.319857278"
+    },
+    {
+        "region_id": "70",
+        "code": "70124",
+        "geoname_id": "70124000",
+        "region": "Sucre",
+        "name": "Caimito",
+        "longitude": "-75.11714082",
+        "latitude": "8.789323934"
+    },
+    {
+        "region_id": "70",
+        "code": "70204",
+        "geoname_id": "70204000",
+        "region": "Sucre",
+        "name": "Colosó",
+        "longitude": "-75.35325675",
+        "latitude": "9.494192858"
+    },
+    {
+        "region_id": "70",
+        "code": "70215",
+        "geoname_id": "70215000",
+        "region": "Sucre",
+        "name": "Corozal",
+        "longitude": "-75.29316717",
+        "latitude": "9.319105571"
+    },
+    {
+        "region_id": "70",
+        "code": "70221",
+        "geoname_id": "70221000",
+        "region": "Sucre",
+        "name": "Coveñas",
+        "longitude": "-75.6918671",
+        "latitude": "9.402463394"
+    },
+    {
+        "region_id": "70",
+        "code": "70230",
+        "geoname_id": "70230000",
+        "region": "Sucre",
+        "name": "Chalán",
+        "longitude": "-75.31269631",
+        "latitude": "9.545351624"
+    },
+    {
+        "region_id": "70",
+        "code": "70233",
+        "geoname_id": "70233000",
+        "region": "Sucre",
+        "name": "El Roble",
+        "longitude": "-75.1988311",
+        "latitude": "9.099531847"
+    },
+    {
+        "region_id": "70",
+        "code": "70235",
+        "geoname_id": "70235000",
+        "region": "Sucre",
+        "name": "Galeras",
+        "longitude": "-75.04942002",
+        "latitude": "9.159672619"
+    },
+    {
+        "region_id": "70",
+        "code": "70265",
+        "geoname_id": "70265000",
+        "region": "Sucre",
+        "name": "Guaranda",
+        "longitude": "-74.53834542",
+        "latitude": "8.464847043"
+    },
+    {
+        "region_id": "70",
+        "code": "70400",
+        "geoname_id": "70400000",
+        "region": "Sucre",
+        "name": "La Unión",
+        "longitude": "-75.2760558",
+        "latitude": "8.85397531"
+    },
+    {
+        "region_id": "70",
+        "code": "70418",
+        "geoname_id": "70418000",
+        "region": "Sucre",
+        "name": "Los Palmitos",
+        "longitude": "-75.26874889",
+        "latitude": "9.380228408"
+    },
+    {
+        "region_id": "70",
+        "code": "70429",
+        "geoname_id": "70429000",
+        "region": "Sucre",
+        "name": "Majagual",
+        "longitude": "-74.6281014",
+        "latitude": "8.540712996"
+    },
+    {
+        "region_id": "70",
+        "code": "70473",
+        "geoname_id": "70473000",
+        "region": "Sucre",
+        "name": "Morroa",
+        "longitude": "-75.30619978",
+        "latitude": "9.331319381"
+    },
+    {
+        "region_id": "70",
+        "code": "70508",
+        "geoname_id": "70508000",
+        "region": "Sucre",
+        "name": "Ovejas",
+        "longitude": "-75.22908444",
+        "latitude": "9.526687239"
+    },
+    {
+        "region_id": "70",
+        "code": "70523",
+        "geoname_id": "70523000",
+        "region": "Sucre",
+        "name": "Palmito",
+        "longitude": "-75.54125915",
+        "latitude": "9.333108298"
+    },
+    {
+        "region_id": "70",
+        "code": "70670",
+        "geoname_id": "70670000",
+        "region": "Sucre",
+        "name": "Sampués",
+        "longitude": "-75.38019123",
+        "latitude": "9.183205955"
+    },
+    {
+        "region_id": "70",
+        "code": "70678",
+        "geoname_id": "70678000",
+        "region": "Sucre",
+        "name": "San Benito Abad",
+        "longitude": "-75.03116081",
+        "latitude": "8.92997106"
+    },
+    {
+        "region_id": "70",
+        "code": "70702",
+        "geoname_id": "70702000",
+        "region": "Sucre",
+        "name": "San Juan De Betulia",
+        "longitude": "-75.24356454",
+        "latitude": "9.273065988"
+    },
+    {
+        "region_id": "70",
+        "code": "70708",
+        "geoname_id": "70708000",
+        "region": "Sucre",
+        "name": "San Marcos",
+        "longitude": "-75.1323976",
+        "latitude": "8.664828891"
+    },
+    {
+        "region_id": "70",
+        "code": "70713",
+        "geoname_id": "70713000",
+        "region": "Sucre",
+        "name": "San Onofre",
+        "longitude": "-75.5230307",
+        "latitude": "9.736932014"
+    },
+    {
+        "region_id": "70",
+        "code": "70717",
+        "geoname_id": "70717000",
+        "region": "Sucre",
+        "name": "San Pedro",
+        "longitude": "-75.0634897",
+        "latitude": "9.395963637"
+    },
+    {
+        "region_id": "70",
+        "code": "70742",
+        "geoname_id": "70742000",
+        "region": "Sucre",
+        "name": "San Luis De Sincé",
+        "longitude": "-75.14603305",
+        "latitude": "9.244195993"
+    },
+    {
+        "region_id": "70",
+        "code": "70771",
+        "geoname_id": "70771000",
+        "region": "Sucre",
+        "name": "Sucre",
+        "longitude": "-74.72322511",
+        "latitude": "8.811740746"
+    },
+    {
+        "region_id": "70",
+        "code": "70820",
+        "geoname_id": "70820000",
+        "region": "Sucre",
+        "name": "Santiago De Tolú",
+        "longitude": "-75.58129872",
+        "latitude": "9.525473229"
+    },
+    {
+        "region_id": "70",
+        "code": "70823",
+        "geoname_id": "70823000",
+        "region": "Sucre",
+        "name": "Tolú Viejo",
+        "longitude": "-75.44082177",
+        "latitude": "9.451844699"
+    }
+  ]
+}

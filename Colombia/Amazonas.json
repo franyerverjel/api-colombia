@@ -1,0 +1,61 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "01",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-71.5",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Amazonas",
+    "fcl": "A",
+    "numberOfChildren": 11,
+    "name": "Departamento del Amazonas",
+    "fcode": "ADM1",
+    "geonameId": 3689982,
+    "lat": "-1.16667",
+    "adminName1": "Amazonas",
+    "population": 67726
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "91",
+        "code": "91001",
+        "geoname_id": "91001000",
+        "region": "Amazonas",
+        "name": "Leticia",
+        "longitude": "-69.94142671",
+        "latitude": "-4.199836935"
+    },
+    {
+        "region_id": "91",
+        "code": "91540",
+        "geoname_id": "91540000",
+        "region": "Amazonas",
+        "name": "Puerto Nariño",
+        "longitude": "-70.36451835",
+        "latitude": "-3.780447632"
+    }
+  ]
+}

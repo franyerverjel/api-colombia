@@ -1,0 +1,250 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "04",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Atlántico",
+    "fcl": "A",
+    "numberOfChildren": 23,
+    "name": "Atlántico",
+    "fcode": "ADM1",
+    "geonameId": 3689436,
+    "lat": "10.75",
+    "adminName1": "Atlántico",
+    "population": 2166156
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "08",
+        "code": "08001",
+        "geoname_id": "08001000",
+        "region": "Atlántico",
+        "name": "Barranquilla",
+        "longitude": "-74.79525905",
+        "latitude": "10.97592682"
+    },
+    {
+        "region_id": "08",
+        "code": "08078",
+        "geoname_id": "08078000",
+        "region": "Atlántico",
+        "name": "Baranoa",
+        "longitude": "-74.91609981",
+        "latitude": "10.79488048"
+    },
+    {
+        "region_id": "08",
+        "code": "08137",
+        "geoname_id": "08137000",
+        "region": "Atlántico",
+        "name": "Campo De La Cruz",
+        "longitude": "-74.88315173",
+        "latitude": "10.37924013"
+    },
+    {
+        "region_id": "08",
+        "code": "08141",
+        "geoname_id": "08141000",
+        "region": "Atlántico",
+        "name": "Candelaria",
+        "longitude": "-74.8799126",
+        "latitude": "10.46121723"
+    },
+    {
+        "region_id": "08",
+        "code": "08296",
+        "geoname_id": "08296000",
+        "region": "Atlántico",
+        "name": "Galapa",
+        "longitude": "-74.8669381",
+        "latitude": "10.919641"
+    },
+    {
+        "region_id": "08",
+        "code": "08372",
+        "geoname_id": "08372000",
+        "region": "Atlántico",
+        "name": "Juan De Acosta",
+        "longitude": "-75.04079914",
+        "latitude": "10.83018223"
+    },
+    {
+        "region_id": "08",
+        "code": "08421",
+        "geoname_id": "08421000",
+        "region": "Atlántico",
+        "name": "Luruaco",
+        "longitude": "-75.14224614",
+        "latitude": "10.61111642"
+    },
+    {
+        "region_id": "08",
+        "code": "08433",
+        "geoname_id": "08433000",
+        "region": "Atlántico",
+        "name": "Malambo",
+        "longitude": "-74.77424057",
+        "latitude": "10.85628724"
+    },
+    {
+        "region_id": "08",
+        "code": "08436",
+        "geoname_id": "08436000",
+        "region": "Atlántico",
+        "name": "Manatí",
+        "longitude": "-74.95703499",
+        "latitude": "10.44896238"
+    },
+    {
+        "region_id": "08",
+        "code": "08520",
+        "geoname_id": "08520000",
+        "region": "Atlántico",
+        "name": "Palmar De Varela",
+        "longitude": "-74.75475789",
+        "latitude": "10.73858326"
+    },
+    {
+        "region_id": "08",
+        "code": "08549",
+        "geoname_id": "08549000",
+        "region": "Atlántico",
+        "name": "Piojó",
+        "longitude": "-75.10747012",
+        "latitude": "10.74934442"
+    },
+    {
+        "region_id": "08",
+        "code": "08558",
+        "geoname_id": "08558000",
+        "region": "Atlántico",
+        "name": "Polonuevo",
+        "longitude": "-74.85425725",
+        "latitude": "10.77772451"
+    },
+    {
+        "region_id": "08",
+        "code": "08560",
+        "geoname_id": "08560000",
+        "region": "Atlántico",
+        "name": "Ponedera",
+        "longitude": "-74.75390044",
+        "latitude": "10.64179593"
+    },
+    {
+        "region_id": "08",
+        "code": "08573",
+        "geoname_id": "08573000",
+        "region": "Atlántico",
+        "name": "Puerto Colombia",
+        "longitude": "-74.85196357",
+        "latitude": "11.02294005"
+    },
+    {
+        "region_id": "08",
+        "code": "08606",
+        "geoname_id": "08606000",
+        "region": "Atlántico",
+        "name": "Repelón",
+        "longitude": "-75.12548162",
+        "latitude": "10.49334167"
+    },
+    {
+        "region_id": "08",
+        "code": "08634",
+        "geoname_id": "08634000",
+        "region": "Atlántico",
+        "name": "Sabanagrande",
+        "longitude": "-74.75850721",
+        "latitude": "10.79107595"
+    },
+    {
+        "region_id": "08",
+        "code": "08638",
+        "geoname_id": "08638000",
+        "region": "Atlántico",
+        "name": "Sabanalarga",
+        "longitude": "-74.92109368",
+        "latitude": "10.63283523"
+    },
+    {
+        "region_id": "08",
+        "code": "08675",
+        "geoname_id": "08675000",
+        "region": "Atlántico",
+        "name": "Santa Lucía",
+        "longitude": "-74.95897145",
+        "latitude": "10.32327321"
+    },
+    {
+        "region_id": "08",
+        "code": "08685",
+        "geoname_id": "08685000",
+        "region": "Atlántico",
+        "name": "Santo Tomás",
+        "longitude": "-74.75411186",
+        "latitude": "10.75605629"
+    },
+    {
+        "region_id": "08",
+        "code": "08758",
+        "geoname_id": "08758000",
+        "region": "Atlántico",
+        "name": "Soledad",
+        "longitude": "-74.78483338",
+        "latitude": "10.91017447"
+    },
+    {
+        "region_id": "08",
+        "code": "08770",
+        "geoname_id": "08770000",
+        "region": "Atlántico",
+        "name": "Suan",
+        "longitude": "-74.88168748",
+        "latitude": "10.33543138"
+    },
+    {
+        "region_id": "08",
+        "code": "08832",
+        "geoname_id": "08832000",
+        "region": "Atlántico",
+        "name": "Tubará",
+        "longitude": "-74.97867947",
+        "latitude": "10.87364774"
+    },
+    {
+        "region_id": "08",
+        "code": "08849",
+        "geoname_id": "08849000",
+        "region": "Atlántico",
+        "name": "Usiacurí",
+        "longitude": "-74.97698261",
+        "latitude": "10.74297819"
+    }
+  ]
+}

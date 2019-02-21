@@ -1,0 +1,214 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "32",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-71.5",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Casanare",
+    "fcl": "A",
+    "numberOfChildren": 19,
+    "name": "Departamento de Casanare",
+    "fcode": "ADM1",
+    "geonameId": 3687173,
+    "lat": "5.5",
+    "adminName1": "Casanare",
+    "population": 295353
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "85",
+        "code": "85001",
+        "geoname_id": "85001000",
+        "region": "Casanare",
+        "name": "Yopal",
+        "longitude": "-72.39691516",
+        "latitude": "5.327612651"
+    },
+    {
+        "region_id": "85",
+        "code": "85010",
+        "geoname_id": "85010000",
+        "region": "Casanare",
+        "name": "Aguazul",
+        "longitude": "-72.54630026",
+        "latitude": "5.172690765"
+    },
+    {
+        "region_id": "85",
+        "code": "85015",
+        "geoname_id": "85015000",
+        "region": "Casanare",
+        "name": "Chámeza",
+        "longitude": "-72.87023558",
+        "latitude": "5.214311749"
+    },
+    {
+        "region_id": "85",
+        "code": "85125",
+        "geoname_id": "85125000",
+        "region": "Casanare",
+        "name": "Hato Corozal",
+        "longitude": "-71.76492254",
+        "latitude": "6.156172443"
+    },
+    {
+        "region_id": "85",
+        "code": "85136",
+        "geoname_id": "85136000",
+        "region": "Casanare",
+        "name": "La Salina",
+        "longitude": "-72.33388167",
+        "latitude": "6.127825385"
+    },
+    {
+        "region_id": "85",
+        "code": "85139",
+        "geoname_id": "85139000",
+        "region": "Casanare",
+        "name": "Maní",
+        "longitude": "-72.28139845",
+        "latitude": "4.81682686"
+    },
+    {
+        "region_id": "85",
+        "code": "85162",
+        "geoname_id": "85162000",
+        "region": "Casanare",
+        "name": "Monterrey",
+        "longitude": "-72.89503614",
+        "latitude": "4.876845436"
+    },
+    {
+        "region_id": "85",
+        "code": "85225",
+        "geoname_id": "85225000",
+        "region": "Casanare",
+        "name": "Nunchía",
+        "longitude": "-72.19507104",
+        "latitude": "5.636662597"
+    },
+    {
+        "region_id": "85",
+        "code": "85230",
+        "geoname_id": "85230000",
+        "region": "Casanare",
+        "name": "Orocué",
+        "longitude": "-71.33851792",
+        "latitude": "4.790269665"
+    },
+    {
+        "region_id": "85",
+        "code": "85250",
+        "geoname_id": "85250000",
+        "region": "Casanare",
+        "name": "Paz De Ariporo",
+        "longitude": "-71.89092396",
+        "latitude": "5.88003657"
+    },
+    {
+        "region_id": "85",
+        "code": "85263",
+        "geoname_id": "85263000",
+        "region": "Casanare",
+        "name": "Pore",
+        "longitude": "-71.9928596",
+        "latitude": "5.727729878"
+    },
+    {
+        "region_id": "85",
+        "code": "85279",
+        "geoname_id": "85279000",
+        "region": "Casanare",
+        "name": "Recetor",
+        "longitude": "-72.76114606",
+        "latitude": "5.229493648"
+    },
+    {
+        "region_id": "85",
+        "code": "85300",
+        "geoname_id": "85300000",
+        "region": "Casanare",
+        "name": "Sabanalarga",
+        "longitude": "-73.03872338",
+        "latitude": "4.854617866"
+    },
+    {
+        "region_id": "85",
+        "code": "85315",
+        "geoname_id": "85315000",
+        "region": "Casanare",
+        "name": "Sácama",
+        "longitude": "-72.25027589",
+        "latitude": "6.09697492"
+    },
+    {
+        "region_id": "85",
+        "code": "85325",
+        "geoname_id": "85325000",
+        "region": "Casanare",
+        "name": "San Luis De Palenque",
+        "longitude": "-71.73292506",
+        "latitude": "5.420887071"
+    },
+    {
+        "region_id": "85",
+        "code": "85400",
+        "geoname_id": "85400000",
+        "region": "Casanare",
+        "name": "Támara",
+        "longitude": "-72.16182524",
+        "latitude": "5.829826597"
+    },
+    {
+        "region_id": "85",
+        "code": "85410",
+        "geoname_id": "85410000",
+        "region": "Casanare",
+        "name": "Tauramena",
+        "longitude": "-72.74725192",
+        "latitude": "5.01920526"
+    },
+    {
+        "region_id": "85",
+        "code": "85430",
+        "geoname_id": "85430000",
+        "region": "Casanare",
+        "name": "Trinidad",
+        "longitude": "-71.6633409",
+        "latitude": "5.412214716"
+    },
+    {
+        "region_id": "85",
+        "code": "85440",
+        "geoname_id": "85440000",
+        "region": "Casanare",
+        "name": "Villanueva",
+        "longitude": "-72.92746843",
+        "latitude": "4.609799108"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "29",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-76.5",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Valle del Cauca",
+    "fcl": "A",
+    "numberOfChildren": 42,
+    "name": "Departamento del Valle del Cauca",
+    "fcode": "ADM1",
+    "geonameId": 3666313,
+    "lat": "3.75",
+    "adminName1": "Valle del Cauca",
+    "population": 4161425
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "76",
+        "code": "76001",
+        "geoname_id": "76001000",
+        "region": "Valle Del Cauca",
+        "name": "Cali",
+        "longitude": "-76.52156515",
+        "latitude": "3.414414305"
+    },
+    {
+        "region_id": "76",
+        "code": "76020",
+        "geoname_id": "76020000",
+        "region": "Valle Del Cauca",
+        "name": "Alcalá",
+        "longitude": "-75.77981387",
+        "latitude": "4.674989542"
+    },
+    {
+        "region_id": "76",
+        "code": "76036",
+        "geoname_id": "76036000",
+        "region": "Valle Del Cauca",
+        "name": "Andalucía",
+        "longitude": "-76.1679212",
+        "latitude": "4.171724416"
+    },
+    {
+        "region_id": "76",
+        "code": "76041",
+        "geoname_id": "76041000",
+        "region": "Valle Del Cauca",
+        "name": "Ansermanuevo",
+        "longitude": "-75.99198067",
+        "latitude": "4.794922714"
+    },
+    {
+        "region_id": "76",
+        "code": "76054",
+        "geoname_id": "76054000",
+        "region": "Valle Del Cauca",
+        "name": "Argelia",
+        "longitude": "-76.11990571",
+        "latitude": "4.726946265"
+    },
+    {
+        "region_id": "76",
+        "code": "76100",
+        "geoname_id": "76100000",
+        "region": "Valle Del Cauca",
+        "name": "Bolívar",
+        "longitude": "-76.18357386",
+        "latitude": "4.337842204"
+    },
+    {
+        "region_id": "76",
+        "code": "76109",
+        "geoname_id": "76109000",
+        "region": "Valle Del Cauca",
+        "name": "Buenaventura",
+        "longitude": "-77.0117402",
+        "latitude": "3.875802437"
+    },
+    {
+        "region_id": "76",
+        "code": "76111",
+        "geoname_id": "76111000",
+        "region": "Valle Del Cauca",
+        "name": "Guadalajara De Buga",
+        "longitude": "-76.29896113",
+        "latitude": "3.900823544"
+    },
+    {
+        "region_id": "76",
+        "code": "76113",
+        "geoname_id": "76113000",
+        "region": "Valle Del Cauca",
+        "name": "Bugalagrande",
+        "longitude": "-76.15680774",
+        "latitude": "4.208331592"
+    },
+    {
+        "region_id": "76",
+        "code": "76122",
+        "geoname_id": "76122000",
+        "region": "Valle Del Cauca",
+        "name": "Caicedonia",
+        "longitude": "-75.83031805",
+        "latitude": "4.334609694"
+    },
+    {
+        "region_id": "76",
+        "code": "76126",
+        "geoname_id": "76126000",
+        "region": "Valle Del Cauca",
+        "name": "Calima",
+        "longitude": "-76.48439175",
+        "latitude": "3.933524463"
+    },
+    {
+        "region_id": "76",
+        "code": "76130",
+        "geoname_id": "76130000",
+        "region": "Valle Del Cauca",
+        "name": "Candelaria",
+        "longitude": "-76.34642891",
+        "latitude": "3.407766466"
+    },
+    {
+        "region_id": "76",
+        "code": "76147",
+        "geoname_id": "76147000",
+        "region": "Valle Del Cauca",
+        "name": "Cartago",
+        "longitude": "-75.94226404",
+        "latitude": "4.758755098"
+    },
+    {
+        "region_id": "76",
+        "code": "76233",
+        "geoname_id": "76233000",
+        "region": "Valle Del Cauca",
+        "name": "Dagua",
+        "longitude": "-76.68887101",
+        "latitude": "3.657308485"
+    },
+    {
+        "region_id": "76",
+        "code": "76243",
+        "geoname_id": "76243000",
+        "region": "Valle Del Cauca",
+        "name": "El Águila",
+        "longitude": "-76.04129907",
+        "latitude": "4.90961334"
+    },
+    {
+        "region_id": "76",
+        "code": "76246",
+        "geoname_id": "76246000",
+        "region": "Valle Del Cauca",
+        "name": "El Cairo",
+        "longitude": "-76.22160351",
+        "latitude": "4.7608831"
+    },
+    {
+        "region_id": "76",
+        "code": "76248",
+        "geoname_id": "76248000",
+        "region": "Valle Del Cauca",
+        "name": "El Cerrito",
+        "longitude": "-76.31172554",
+        "latitude": "3.684258941"
+    },
+    {
+        "region_id": "76",
+        "code": "76250",
+        "geoname_id": "76250000",
+        "region": "Valle Del Cauca",
+        "name": "El Dovio",
+        "longitude": "-76.23708411",
+        "latitude": "4.510452885"
+    },
+    {
+        "region_id": "76",
+        "code": "76275",
+        "geoname_id": "76275000",
+        "region": "Valle Del Cauca",
+        "name": "Florida",
+        "longitude": "-76.23450174",
+        "latitude": "3.323918106"
+    },
+    {
+        "region_id": "76",
+        "code": "76306",
+        "geoname_id": "76306000",
+        "region": "Valle Del Cauca",
+        "name": "Ginebra",
+        "longitude": "-76.26806789",
+        "latitude": "3.724181147"
+    },
+    {
+        "region_id": "76",
+        "code": "76318",
+        "geoname_id": "76318000",
+        "region": "Valle Del Cauca",
+        "name": "Guacarí",
+        "longitude": "-76.33136735",
+        "latitude": "3.762909008"
+    },
+    {
+        "region_id": "76",
+        "code": "76364",
+        "geoname_id": "76364000",
+        "region": "Valle Del Cauca",
+        "name": "Jamundí",
+        "longitude": "-76.54245873",
+        "latitude": "3.26227576"
+    },
+    {
+        "region_id": "76",
+        "code": "76377",
+        "geoname_id": "76377000",
+        "region": "Valle Del Cauca",
+        "name": "La Cumbre",
+        "longitude": "-76.56793222",
+        "latitude": "3.649447161"
+    },
+    {
+        "region_id": "76",
+        "code": "76400",
+        "geoname_id": "76400000",
+        "region": "Valle Del Cauca",
+        "name": "La Unión",
+        "longitude": "-76.09960718",
+        "latitude": "4.533783288"
+    },
+    {
+        "region_id": "76",
+        "code": "76403",
+        "geoname_id": "76403000",
+        "region": "Valle Del Cauca",
+        "name": "La Victoria",
+        "longitude": "-76.03652878",
+        "latitude": "4.523603264"
+    },
+    {
+        "region_id": "76",
+        "code": "76497",
+        "geoname_id": "76497000",
+        "region": "Valle Del Cauca",
+        "name": "Obando",
+        "longitude": "-75.97468873",
+        "latitude": "4.575722705"
+    },
+    {
+        "region_id": "76",
+        "code": "76520",
+        "geoname_id": "76520000",
+        "region": "Valle Del Cauca",
+        "name": "Palmira",
+        "longitude": "-76.29858255",
+        "latitude": "3.532349153"
+    },
+    {
+        "region_id": "76",
+        "code": "76563",
+        "geoname_id": "76563000",
+        "region": "Valle Del Cauca",
+        "name": "Pradera",
+        "longitude": "-76.24182023",
+        "latitude": "3.419827409"
+    },
+    {
+        "region_id": "76",
+        "code": "76606",
+        "geoname_id": "76606000",
+        "region": "Valle Del Cauca",
+        "name": "Restrepo",
+        "longitude": "-76.52311704",
+        "latitude": "3.821348382"
+    },
+    {
+        "region_id": "76",
+        "code": "76616",
+        "geoname_id": "76616000",
+        "region": "Valle Del Cauca",
+        "name": "Riofrío",
+        "longitude": "-76.28831268",
+        "latitude": "4.156904989"
+    },
+    {
+        "region_id": "76",
+        "code": "76622",
+        "geoname_id": "76622000",
+        "region": "Valle Del Cauca",
+        "name": "Roldanillo",
+        "longitude": "-76.15228663",
+        "latitude": "4.4135962"
+    },
+    {
+        "region_id": "76",
+        "code": "76670",
+        "geoname_id": "76670000",
+        "region": "Valle Del Cauca",
+        "name": "San Pedro",
+        "longitude": "-76.22853779",
+        "latitude": "3.994992607"
+    },
+    {
+        "region_id": "76",
+        "code": "76736",
+        "geoname_id": "76736000",
+        "region": "Valle Del Cauca",
+        "name": "Sevilla",
+        "longitude": "-75.93094058",
+        "latitude": "4.267033273"
+    },
+    {
+        "region_id": "76",
+        "code": "76823",
+        "geoname_id": "76823000",
+        "region": "Valle Del Cauca",
+        "name": "Toro",
+        "longitude": "-76.0768535",
+        "latitude": "4.608084546"
+    },
+    {
+        "region_id": "76",
+        "code": "76828",
+        "geoname_id": "76828000",
+        "region": "Valle Del Cauca",
+        "name": "Trujillo",
+        "longitude": "-76.31880894",
+        "latitude": "4.212050806"
+    },
+    {
+        "region_id": "76",
+        "code": "76834",
+        "geoname_id": "76834000",
+        "region": "Valle Del Cauca",
+        "name": "Tuluá",
+        "longitude": "-76.19769968",
+        "latitude": "4.085261239"
+    },
+    {
+        "region_id": "76",
+        "code": "76845",
+        "geoname_id": "76845000",
+        "region": "Valle Del Cauca",
+        "name": "Ulloa",
+        "longitude": "-75.73774747",
+        "latitude": "4.702513911"
+    },
+    {
+        "region_id": "76",
+        "code": "76863",
+        "geoname_id": "76863000",
+        "region": "Valle Del Cauca",
+        "name": "Versalles",
+        "longitude": "-76.19920358",
+        "latitude": "4.575018566"
+    },
+    {
+        "region_id": "76",
+        "code": "76869",
+        "geoname_id": "76869000",
+        "region": "Valle Del Cauca",
+        "name": "Vijes",
+        "longitude": "-76.44196521",
+        "latitude": "3.698587929"
+    },
+    {
+        "region_id": "76",
+        "code": "76890",
+        "geoname_id": "76890000",
+        "region": "Valle Del Cauca",
+        "name": "Yotoco",
+        "longitude": "-76.38247445",
+        "latitude": "3.861214584"
+    },
+    {
+        "region_id": "76",
+        "code": "76892",
+        "geoname_id": "76892000",
+        "region": "Valle Del Cauca",
+        "name": "Yumbo",
+        "longitude": "-76.49981978",
+        "latitude": "3.528968908"
+    },
+    {
+        "region_id": "76",
+        "code": "76895",
+        "geoname_id": "76895000",
+        "region": "Valle Del Cauca",
+        "name": "Zarzal",
+        "longitude": "-76.07084935",
+        "latitude": "4.392621473"
+    }
+  ]
+}

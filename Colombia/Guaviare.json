@@ -1,0 +1,79 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "14",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-72",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Guaviare",
+    "fcl": "A",
+    "numberOfChildren": 4,
+    "name": "Departamento del Guaviare",
+    "fcode": "ADM1",
+    "geonameId": 3681344,
+    "lat": "1.91667",
+    "adminName1": "Guaviare",
+    "population": 95551
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "95",
+        "code": "95001",
+        "geoname_id": "95001000",
+        "region": "Guaviare",
+        "name": "San José Del Guaviare",
+        "longitude": "-72.63898622",
+        "latitude": "2.566428399"
+    },
+    {
+        "region_id": "95",
+        "code": "95015",
+        "geoname_id": "95015000",
+        "region": "Guaviare",
+        "name": "Calamar",
+        "longitude": "-72.655172",
+        "latitude": "1.960108633"
+    },
+    {
+        "region_id": "95",
+        "code": "95025",
+        "geoname_id": "95025000",
+        "region": "Guaviare",
+        "name": "El Retorno",
+        "longitude": "-72.62718599",
+        "latitude": "2.330161549"
+    },
+    {
+        "region_id": "95",
+        "code": "95200",
+        "geoname_id": "95200000",
+        "region": "Guaviare",
+        "name": "Miraflores",
+        "longitude": "-71.95054317",
+        "latitude": "1.337574043"
+    }
+  ]
+}

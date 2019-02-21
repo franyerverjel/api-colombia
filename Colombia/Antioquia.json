@@ -1,0 +1,1168 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "02",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75.5",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Antioquia",
+    "fcl": "A",
+    "numberOfChildren": 125,
+    "name": "Antioquia",
+    "fcode": "ADM1",
+    "geonameId": 3689815,
+    "lat": "7",
+    "adminName1": "Antioquia",
+    "population": 6299886
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "05",
+        "code": "05001",
+        "geoname_id": "05001000",
+        "region": "Antioquia",
+        "name": "Medellín",
+        "longitude": "-74.88681662",
+        "latitude": "5.610109776"
+    },
+    {
+        "region_id": "05",
+        "code": "05002",
+        "geoname_id": "05002000",
+        "region": "Antioquia",
+        "name": "Abejorral",
+        "longitude": "-75.4287381",
+        "latitude": "5.789304485"
+    },
+    {
+        "region_id": "05",
+        "code": "05004",
+        "geoname_id": "05004000",
+        "region": "Antioquia",
+        "name": "Abriaquí",
+        "longitude": "-76.06470346",
+        "latitude": "6.631806452"
+    },
+    {
+        "region_id": "05",
+        "code": "05021",
+        "geoname_id": "05021000",
+        "region": "Antioquia",
+        "name": "Alejandría",
+        "longitude": "-75.1413329",
+        "latitude": "6.376065676"
+    },
+    {
+        "region_id": "05",
+        "code": "05030",
+        "geoname_id": "05030000",
+        "region": "Antioquia",
+        "name": "Amagá",
+        "longitude": "-75.70194607",
+        "latitude": "6.038808575"
+    },
+    {
+        "region_id": "05",
+        "code": "05031",
+        "geoname_id": "05031000",
+        "region": "Antioquia",
+        "name": "Amalfi",
+        "longitude": "-75.08252428",
+        "latitude": "6.912304726"
+    },
+    {
+        "region_id": "05",
+        "code": "05034",
+        "geoname_id": "05034000",
+        "region": "Antioquia",
+        "name": "Andes",
+        "longitude": "-75.87879189",
+        "latitude": "5.656774852"
+    },
+    {
+        "region_id": "05",
+        "code": "05036",
+        "geoname_id": "05036000",
+        "region": "Antioquia",
+        "name": "Angelópolis",
+        "longitude": "-75.71135114",
+        "latitude": "6.109614368"
+    },
+    {
+        "region_id": "05",
+        "code": "05038",
+        "geoname_id": "05038000",
+        "region": "Antioquia",
+        "name": "Angostura",
+        "longitude": "-75.33511597",
+        "latitude": "6.885174591"
+    },
+    {
+        "region_id": "05",
+        "code": "05040",
+        "geoname_id": "05040000",
+        "region": "Antioquia",
+        "name": "Anorí",
+        "longitude": "-75.14834842",
+        "latitude": "7.074707669"
+    },
+    {
+        "region_id": "05",
+        "code": "05042",
+        "geoname_id": "05042000",
+        "region": "Antioquia",
+        "name": "Santa Fé De Antioquia",
+        "longitude": "-75.82707907",
+        "latitude": "6.556533296"
+    },
+    {
+        "region_id": "05",
+        "code": "05044",
+        "geoname_id": "05044000",
+        "region": "Antioquia",
+        "name": "Anzá",
+        "longitude": "-75.85444158",
+        "latitude": "6.302658359"
+    },
+    {
+        "region_id": "05",
+        "code": "05045",
+        "geoname_id": "05045000",
+        "region": "Antioquia",
+        "name": "Apartadó",
+        "longitude": "-76.62596065",
+        "latitude": "7.883417406"
+    },
+    {
+        "region_id": "05",
+        "code": "05051",
+        "geoname_id": "05051000",
+        "region": "Antioquia",
+        "name": "Arboletes",
+        "longitude": "-76.4270568",
+        "latitude": "8.850567734"
+    },
+    {
+        "region_id": "05",
+        "code": "05055",
+        "geoname_id": "05055000",
+        "region": "Antioquia",
+        "name": "Argelia",
+        "longitude": "-75.14174146",
+        "latitude": "5.730671879"
+    },
+    {
+        "region_id": "05",
+        "code": "05059",
+        "geoname_id": "05059000",
+        "region": "Antioquia",
+        "name": "Armenia",
+        "longitude": "-75.78683783",
+        "latitude": "6.155818729"
+    },
+    {
+        "region_id": "05",
+        "code": "05079",
+        "geoname_id": "05079000",
+        "region": "Antioquia",
+        "name": "Barbosa",
+        "longitude": "-75.33164423",
+        "latitude": "6.439226882"
+    },
+    {
+        "region_id": "05",
+        "code": "05086",
+        "geoname_id": "05086000",
+        "region": "Antioquia",
+        "name": "Belmira",
+        "longitude": "-75.66737413",
+        "latitude": "6.606159502"
+    },
+    {
+        "region_id": "05",
+        "code": "05088",
+        "geoname_id": "05088000",
+        "region": "Antioquia",
+        "name": "Bello",
+        "longitude": "-75.55466507",
+        "latitude": "6.334068836"
+    },
+    {
+        "region_id": "05",
+        "code": "05091",
+        "geoname_id": "05091000",
+        "region": "Antioquia",
+        "name": "Betania",
+        "longitude": "-75.97554408",
+        "latitude": "5.74474718"
+    },
+    {
+        "region_id": "05",
+        "code": "05093",
+        "geoname_id": "05093000",
+        "region": "Antioquia",
+        "name": "Betulia",
+        "longitude": "-75.98451587",
+        "latitude": "6.115255594"
+    },
+    {
+        "region_id": "05",
+        "code": "05101",
+        "geoname_id": "05101000",
+        "region": "Antioquia",
+        "name": "Ciudad Bolívar",
+        "longitude": "-76.02150921",
+        "latitude": "5.850273232"
+    },
+    {
+        "region_id": "05",
+        "code": "05107",
+        "geoname_id": "05107000",
+        "region": "Antioquia",
+        "name": "Briceño",
+        "longitude": "-75.54813022",
+        "latitude": "7.114882947"
+    },
+    {
+        "region_id": "05",
+        "code": "05113",
+        "geoname_id": "05113000",
+        "region": "Antioquia",
+        "name": "Buriticá",
+        "longitude": "-75.90753473",
+        "latitude": "6.719735175"
+    },
+    {
+        "region_id": "05",
+        "code": "05120",
+        "geoname_id": "05120000",
+        "region": "Antioquia",
+        "name": "Cáceres",
+        "longitude": "-75.35235749",
+        "latitude": "7.578315451"
+    },
+    {
+        "region_id": "05",
+        "code": "05125",
+        "geoname_id": "05125000",
+        "region": "Antioquia",
+        "name": "Caicedo",
+        "longitude": "-75.98281889",
+        "latitude": "6.405567003"
+    },
+    {
+        "region_id": "05",
+        "code": "05129",
+        "geoname_id": "05129000",
+        "region": "Antioquia",
+        "name": "Caldas",
+        "longitude": "-75.63361872",
+        "latitude": "6.091296966"
+    },
+    {
+        "region_id": "05",
+        "code": "05134",
+        "geoname_id": "05134000",
+        "region": "Antioquia",
+        "name": "Campamento",
+        "longitude": "-75.29808843",
+        "latitude": "6.979777682"
+    },
+    {
+        "region_id": "05",
+        "code": "05138",
+        "geoname_id": "05138000",
+        "region": "Antioquia",
+        "name": "Cañasgordas",
+        "longitude": "-76.03220994",
+        "latitude": "6.759477684"
+    },
+    {
+        "region_id": "05",
+        "code": "05142",
+        "geoname_id": "05142000",
+        "region": "Antioquia",
+        "name": "Caracolí",
+        "longitude": "-74.75744944",
+        "latitude": "6.409854727"
+    },
+    {
+        "region_id": "05",
+        "code": "05145",
+        "geoname_id": "05145000",
+        "region": "Antioquia",
+        "name": "Caramanta",
+        "longitude": "-75.64386845",
+        "latitude": "5.548530404"
+    },
+    {
+        "region_id": "05",
+        "code": "05147",
+        "geoname_id": "05147000",
+        "region": "Antioquia",
+        "name": "Carepa",
+        "longitude": "-76.65321034",
+        "latitude": "7.755116346"
+    },
+    {
+        "region_id": "05",
+        "code": "05148",
+        "geoname_id": "05148000",
+        "region": "Antioquia",
+        "name": "El Carmen De Viboral",
+        "longitude": "-75.33536246",
+        "latitude": "6.084551516"
+    },
+    {
+        "region_id": "05",
+        "code": "05150",
+        "geoname_id": "05150000",
+        "region": "Antioquia",
+        "name": "Carolina",
+        "longitude": "-75.28317011",
+        "latitude": "6.725977146"
+    },
+    {
+        "region_id": "05",
+        "code": "05154",
+        "geoname_id": "05154000",
+        "region": "Antioquia",
+        "name": "Caucasia",
+        "longitude": "-75.19829033",
+        "latitude": "7.977362333"
+    },
+    {
+        "region_id": "05",
+        "code": "05172",
+        "geoname_id": "05172000",
+        "region": "Antioquia",
+        "name": "Chigorodó",
+        "longitude": "-76.6812164",
+        "latitude": "7.666300439"
+    },
+    {
+        "region_id": "05",
+        "code": "05190",
+        "geoname_id": "05190000",
+        "region": "Antioquia",
+        "name": "Cisneros",
+        "longitude": "-75.08720761",
+        "latitude": "6.537761957"
+    },
+    {
+        "region_id": "05",
+        "code": "05197",
+        "geoname_id": "05197000",
+        "region": "Antioquia",
+        "name": "Cocorná",
+        "longitude": "-75.18548101",
+        "latitude": "6.058306335"
+    },
+    {
+        "region_id": "05",
+        "code": "05206",
+        "geoname_id": "05206000",
+        "region": "Antioquia",
+        "name": "Concepción",
+        "longitude": "-75.2576027",
+        "latitude": "6.394347095"
+    },
+    {
+        "region_id": "05",
+        "code": "05209",
+        "geoname_id": "05209000",
+        "region": "Antioquia",
+        "name": "Concordia",
+        "longitude": "-75.90750472",
+        "latitude": "6.046568573"
+    },
+    {
+        "region_id": "05",
+        "code": "05212",
+        "geoname_id": "05212000",
+        "region": "Antioquia",
+        "name": "Copacabana",
+        "longitude": "-75.5093439",
+        "latitude": "6.348640545"
+    },
+    {
+        "region_id": "05",
+        "code": "05234",
+        "geoname_id": "05234000",
+        "region": "Antioquia",
+        "name": "Dabeiba",
+        "longitude": "-76.26297665",
+        "latitude": "7.00032194"
+    },
+    {
+        "region_id": "05",
+        "code": "05237",
+        "geoname_id": "05237000",
+        "region": "Antioquia",
+        "name": "Donmatías",
+        "longitude": "-75.39272406",
+        "latitude": "6.484469957"
+    },
+    {
+        "region_id": "05",
+        "code": "05240",
+        "geoname_id": "05240000",
+        "region": "Antioquia",
+        "name": "Ebéjico",
+        "longitude": "-75.76622047",
+        "latitude": "6.326056658"
+    },
+    {
+        "region_id": "05",
+        "code": "05250",
+        "geoname_id": "05250000",
+        "region": "Antioquia",
+        "name": "El Bagre",
+        "longitude": "-74.79909729",
+        "latitude": "7.597521794"
+    },
+    {
+        "region_id": "05",
+        "code": "05264",
+        "geoname_id": "05264000",
+        "region": "Antioquia",
+        "name": "Entrerríos",
+        "longitude": "-75.5178008",
+        "latitude": "6.566481448"
+    },
+    {
+        "region_id": "05",
+        "code": "05266",
+        "geoname_id": "05266000",
+        "region": "Antioquia",
+        "name": "Envigado",
+        "longitude": "-75.58301014",
+        "latitude": "6.167004552"
+    },
+    {
+        "region_id": "05",
+        "code": "05282",
+        "geoname_id": "05282000",
+        "region": "Antioquia",
+        "name": "Fredonia",
+        "longitude": "-75.6705064",
+        "latitude": "5.924368006"
+    },
+    {
+        "region_id": "05",
+        "code": "05284",
+        "geoname_id": "05284000",
+        "region": "Antioquia",
+        "name": "Frontino",
+        "longitude": "-76.13076514",
+        "latitude": "6.776065912"
+    },
+    {
+        "region_id": "05",
+        "code": "05306",
+        "geoname_id": "05306000",
+        "region": "Antioquia",
+        "name": "Giraldo",
+        "longitude": "-75.95215756",
+        "latitude": "6.680808016"
+    },
+    {
+        "region_id": "05",
+        "code": "05308",
+        "geoname_id": "05308000",
+        "region": "Antioquia",
+        "name": "Girardota",
+        "longitude": "-75.44446221",
+        "latitude": "6.379613834"
+    },
+    {
+        "region_id": "05",
+        "code": "05310",
+        "geoname_id": "05310000",
+        "region": "Antioquia",
+        "name": "Gómez Plata",
+        "longitude": "-75.2200382",
+        "latitude": "6.683287586"
+    },
+    {
+        "region_id": "05",
+        "code": "05313",
+        "geoname_id": "05313000",
+        "region": "Antioquia",
+        "name": "Granada",
+        "longitude": "-75.18444508",
+        "latitude": "6.142896667"
+    },
+    {
+        "region_id": "05",
+        "code": "05315",
+        "geoname_id": "05315000",
+        "region": "Antioquia",
+        "name": "Guadalupe",
+        "longitude": "-75.24001859",
+        "latitude": "6.814263455"
+    },
+    {
+        "region_id": "05",
+        "code": "05318",
+        "geoname_id": "05318000",
+        "region": "Antioquia",
+        "name": "Guarne",
+        "longitude": "-75.44165392",
+        "latitude": "6.278064077"
+    },
+    {
+        "region_id": "05",
+        "code": "05321",
+        "geoname_id": "05321000",
+        "region": "Antioquia",
+        "name": "Guatapé",
+        "longitude": "-75.16229259",
+        "latitude": "6.232592707"
+    },
+    {
+        "region_id": "05",
+        "code": "05347",
+        "geoname_id": "05347000",
+        "region": "Antioquia",
+        "name": "Heliconia",
+        "longitude": "-75.73432238",
+        "latitude": "6.206757461"
+    },
+    {
+        "region_id": "05",
+        "code": "05353",
+        "geoname_id": "05353000",
+        "region": "Antioquia",
+        "name": "Hispania",
+        "longitude": "-75.90658827",
+        "latitude": "5.799461575"
+    },
+    {
+        "region_id": "05",
+        "code": "05360",
+        "geoname_id": "05360000",
+        "region": "Antioquia",
+        "name": "Itagüí",
+        "longitude": "-75.61435871",
+        "latitude": "6.169597629"
+    },
+    {
+        "region_id": "05",
+        "code": "05361",
+        "geoname_id": "05361000",
+        "region": "Antioquia",
+        "name": "Ituango",
+        "longitude": "-75.76467317",
+        "latitude": "7.17162903"
+    },
+    {
+        "region_id": "05",
+        "code": "05364",
+        "geoname_id": "05364000",
+        "region": "Antioquia",
+        "name": "Jardín",
+        "longitude": "-75.81898092",
+        "latitude": "5.597541741"
+    },
+    {
+        "region_id": "05",
+        "code": "05368",
+        "geoname_id": "05368000",
+        "region": "Antioquia",
+        "name": "Jericó",
+        "longitude": "-75.78549855",
+        "latitude": "5.789747931"
+    },
+    {
+        "region_id": "05",
+        "code": "05376",
+        "geoname_id": "05376000",
+        "region": "Antioquia",
+        "name": "La Ceja",
+        "longitude": "-75.42943089",
+        "latitude": "6.028055744"
+    },
+    {
+        "region_id": "05",
+        "code": "05380",
+        "geoname_id": "05380000",
+        "region": "Antioquia",
+        "name": "La Estrella",
+        "longitude": "-75.64519038",
+        "latitude": "6.15841974"
+    },
+    {
+        "region_id": "05",
+        "code": "05390",
+        "geoname_id": "05390000",
+        "region": "Antioquia",
+        "name": "La Pintada",
+        "longitude": "-75.60781026",
+        "latitude": "5.743807479"
+    },
+    {
+        "region_id": "05",
+        "code": "05400",
+        "geoname_id": "05400000",
+        "region": "Antioquia",
+        "name": "La Unión",
+        "longitude": "-75.3608659",
+        "latitude": "5.973868218"
+    },
+    {
+        "region_id": "05",
+        "code": "05411",
+        "geoname_id": "05411000",
+        "region": "Antioquia",
+        "name": "Liborina",
+        "longitude": "-75.81283227",
+        "latitude": "6.677323053"
+    },
+    {
+        "region_id": "05",
+        "code": "05425",
+        "geoname_id": "05425000",
+        "region": "Antioquia",
+        "name": "Maceo",
+        "longitude": "-74.78716148",
+        "latitude": "6.552116913"
+    },
+    {
+        "region_id": "05",
+        "code": "05440",
+        "geoname_id": "05440000",
+        "region": "Antioquia",
+        "name": "Marinilla",
+        "longitude": "-75.33947788",
+        "latitude": "6.172269255"
+    },
+    {
+        "region_id": "05",
+        "code": "05467",
+        "geoname_id": "05467000",
+        "region": "Antioquia",
+        "name": "Montebello",
+        "longitude": "-75.52351091",
+        "latitude": "5.946325567"
+    },
+    {
+        "region_id": "05",
+        "code": "05475",
+        "geoname_id": "05475000",
+        "region": "Antioquia",
+        "name": "Murindó",
+        "longitude": "-76.81745806",
+        "latitude": "6.977691853"
+    },
+    {
+        "region_id": "05",
+        "code": "05480",
+        "geoname_id": "05480000",
+        "region": "Antioquia",
+        "name": "Mutatá",
+        "longitude": "-76.4358754",
+        "latitude": "7.242875057"
+    },
+    {
+        "region_id": "05",
+        "code": "05483",
+        "geoname_id": "05483000",
+        "region": "Antioquia",
+        "name": "Nariño",
+        "longitude": "-75.17626132",
+        "latitude": "5.610774585"
+    },
+    {
+        "region_id": "05",
+        "code": "05490",
+        "geoname_id": "05490000",
+        "region": "Antioquia",
+        "name": "Necoclí",
+        "longitude": "-76.7845745",
+        "latitude": "8.426135983"
+    },
+    {
+        "region_id": "05",
+        "code": "05495",
+        "geoname_id": "05495000",
+        "region": "Antioquia",
+        "name": "Nechí",
+        "longitude": "-74.77647012",
+        "latitude": "8.094128661"
+    },
+    {
+        "region_id": "05",
+        "code": "05501",
+        "geoname_id": "05501000",
+        "region": "Antioquia",
+        "name": "Olaya",
+        "longitude": "-75.81229873",
+        "latitude": "6.627525738"
+    },
+    {
+        "region_id": "05",
+        "code": "05541",
+        "geoname_id": "05541000",
+        "region": "Antioquia",
+        "name": "Peñol",
+        "longitude": "-75.24282171",
+        "latitude": "6.219450549"
+    },
+    {
+        "region_id": "05",
+        "code": "05543",
+        "geoname_id": "05543000",
+        "region": "Antioquia",
+        "name": "Peque",
+        "longitude": "-75.91034556",
+        "latitude": "7.021017918"
+    },
+    {
+        "region_id": "05",
+        "code": "05576",
+        "geoname_id": "05576000",
+        "region": "Antioquia",
+        "name": "Pueblorrico",
+        "longitude": "-75.84077355",
+        "latitude": "5.791786032"
+    },
+    {
+        "region_id": "05",
+        "code": "05579",
+        "geoname_id": "05579000",
+        "region": "Antioquia",
+        "name": "Puerto Berrío",
+        "longitude": "-74.40994553",
+        "latitude": "6.48704114"
+    },
+    {
+        "region_id": "05",
+        "code": "05585",
+        "geoname_id": "05585000",
+        "region": "Antioquia",
+        "name": "Puerto Nare",
+        "longitude": "-74.58301201",
+        "latitude": "6.186024828"
+    },
+    {
+        "region_id": "05",
+        "code": "05591",
+        "geoname_id": "05591000",
+        "region": "Antioquia",
+        "name": "Puerto Triunfo",
+        "longitude": "-74.64126293",
+        "latitude": "5.871212959"
+    },
+    {
+        "region_id": "05",
+        "code": "05604",
+        "geoname_id": "05604000",
+        "region": "Antioquia",
+        "name": "Remedios",
+        "longitude": "-74.69594426",
+        "latitude": "7.026094053"
+    },
+    {
+        "region_id": "05",
+        "code": "05607",
+        "geoname_id": "05607000",
+        "region": "Antioquia",
+        "name": "Retiro",
+        "longitude": "-75.50137516",
+        "latitude": "6.063379954"
+    },
+    {
+        "region_id": "05",
+        "code": "05615",
+        "geoname_id": "05615000",
+        "region": "Antioquia",
+        "name": "Rionegro",
+        "longitude": "-75.37676938",
+        "latitude": "6.14722409"
+    },
+    {
+        "region_id": "05",
+        "code": "05628",
+        "geoname_id": "05628000",
+        "region": "Antioquia",
+        "name": "Sabanalarga",
+        "longitude": "-75.81664609",
+        "latitude": "6.85002589"
+    },
+    {
+        "region_id": "05",
+        "code": "05631",
+        "geoname_id": "05631000",
+        "region": "Antioquia",
+        "name": "Sabaneta",
+        "longitude": "-75.61558529",
+        "latitude": "6.150970181"
+    },
+    {
+        "region_id": "05",
+        "code": "05642",
+        "geoname_id": "05642000",
+        "region": "Antioquia",
+        "name": "Salgar",
+        "longitude": "-75.98204854",
+        "latitude": "5.96564031"
+    },
+    {
+        "region_id": "05",
+        "code": "05647",
+        "geoname_id": "05647000",
+        "region": "Antioquia",
+        "name": "San Andrés De Cuerquía",
+        "longitude": "-75.67473253",
+        "latitude": "6.916808512"
+    },
+    {
+        "region_id": "05",
+        "code": "05649",
+        "geoname_id": "05649000",
+        "region": "Antioquia",
+        "name": "San Carlos",
+        "longitude": "-74.98795256",
+        "latitude": "6.187991569"
+    },
+    {
+        "region_id": "05",
+        "code": "05652",
+        "geoname_id": "05652000",
+        "region": "Antioquia",
+        "name": "San Francisco",
+        "longitude": "-75.10268697",
+        "latitude": "5.964079131"
+    },
+    {
+        "region_id": "05",
+        "code": "05656",
+        "geoname_id": "05656000",
+        "region": "Antioquia",
+        "name": "San Jerónimo",
+        "longitude": "-75.72700058",
+        "latitude": "6.448066608"
+    },
+    {
+        "region_id": "05",
+        "code": "05658",
+        "geoname_id": "05658000",
+        "region": "Antioquia",
+        "name": "San José De La Montaña",
+        "longitude": "-75.68335163",
+        "latitude": "6.850090299"
+    },
+    {
+        "region_id": "05",
+        "code": "05659",
+        "geoname_id": "05659000",
+        "region": "Antioquia",
+        "name": "San Juan De Urabá",
+        "longitude": "-76.52879434",
+        "latitude": "8.759341801"
+    },
+    {
+        "region_id": "05",
+        "code": "05660",
+        "geoname_id": "05660000",
+        "region": "Antioquia",
+        "name": "San Luis",
+        "longitude": "-74.993641",
+        "latitude": "6.042983285"
+    },
+    {
+        "region_id": "05",
+        "code": "05664",
+        "geoname_id": "05664000",
+        "region": "Antioquia",
+        "name": "San Pedro De Los Milagros",
+        "longitude": "-75.55671915",
+        "latitude": "6.460138599"
+    },
+    {
+        "region_id": "05",
+        "code": "05665",
+        "geoname_id": "05665000",
+        "region": "Antioquia",
+        "name": "San Pedro De Urabá",
+        "longitude": "-76.38057789",
+        "latitude": "8.276886664"
+    },
+    {
+        "region_id": "05",
+        "code": "05667",
+        "geoname_id": "05667000",
+        "region": "Antioquia",
+        "name": "San Rafael",
+        "longitude": "-75.02798382",
+        "latitude": "6.293754876"
+    },
+    {
+        "region_id": "05",
+        "code": "05670",
+        "geoname_id": "05670000",
+        "region": "Antioquia",
+        "name": "San Roque",
+        "longitude": "-75.01915757",
+        "latitude": "6.485948936"
+    },
+    {
+        "region_id": "05",
+        "code": "05674",
+        "geoname_id": "05674000",
+        "region": "Antioquia",
+        "name": "San Vicente Ferrer",
+        "longitude": "-75.33261381",
+        "latitude": "6.282155852"
+    },
+    {
+        "region_id": "05",
+        "code": "05679",
+        "geoname_id": "05679000",
+        "region": "Antioquia",
+        "name": "Santa Bárbara",
+        "longitude": "-75.56735178",
+        "latitude": "5.875533398"
+    },
+    {
+        "region_id": "05",
+        "code": "05686",
+        "geoname_id": "05686000",
+        "region": "Antioquia",
+        "name": "Santa Rosa De Osos",
+        "longitude": "-75.46074502",
+        "latitude": "6.643326001"
+    },
+    {
+        "region_id": "05",
+        "code": "05690",
+        "geoname_id": "05690000",
+        "region": "Antioquia",
+        "name": "Santo Domingo",
+        "longitude": "-75.16778371",
+        "latitude": "6.474843293"
+    },
+    {
+        "region_id": "05",
+        "code": "05697",
+        "geoname_id": "05697000",
+        "region": "Antioquia",
+        "name": "El Santuario",
+        "longitude": "-75.26584979",
+        "latitude": "6.137046858"
+    },
+    {
+        "region_id": "05",
+        "code": "05736",
+        "geoname_id": "05736000",
+        "region": "Antioquia",
+        "name": "Segovia",
+        "longitude": "-74.70159107",
+        "latitude": "7.079639679"
+    },
+    {
+        "region_id": "05",
+        "code": "05756",
+        "geoname_id": "05756000",
+        "region": "Antioquia",
+        "name": "Sonsón",
+        "longitude": "-75.30939515",
+        "latitude": "5.714811641"
+    },
+    {
+        "region_id": "05",
+        "code": "05761",
+        "geoname_id": "05761000",
+        "region": "Antioquia",
+        "name": "Sopetrán",
+        "longitude": "-75.74725636",
+        "latitude": "6.500985773"
+    },
+    {
+        "region_id": "05",
+        "code": "05789",
+        "geoname_id": "05789000",
+        "region": "Antioquia",
+        "name": "Támesis",
+        "longitude": "-75.71432069",
+        "latitude": "5.664466636"
+    },
+    {
+        "region_id": "05",
+        "code": "05790",
+        "geoname_id": "05790000",
+        "region": "Antioquia",
+        "name": "Tarazá",
+        "longitude": "-75.40140596",
+        "latitude": "7.580120815"
+    },
+    {
+        "region_id": "05",
+        "code": "05792",
+        "geoname_id": "05792000",
+        "region": "Antioquia",
+        "name": "Tarso",
+        "longitude": "-75.82321448",
+        "latitude": "5.863295751"
+    },
+    {
+        "region_id": "05",
+        "code": "05809",
+        "geoname_id": "05809000",
+        "region": "Antioquia",
+        "name": "Titiribí",
+        "longitude": "-75.79154901",
+        "latitude": "6.060980082"
+    },
+    {
+        "region_id": "05",
+        "code": "05819",
+        "geoname_id": "05819000",
+        "region": "Antioquia",
+        "name": "Toledo",
+        "longitude": "-75.69144241",
+        "latitude": "7.010154029"
+    },
+    {
+        "region_id": "05",
+        "code": "05837",
+        "geoname_id": "05837000",
+        "region": "Antioquia",
+        "name": "Turbo",
+        "longitude": "-76.72915844",
+        "latitude": "8.089116411"
+    },
+    {
+        "region_id": "05",
+        "code": "05842",
+        "geoname_id": "05842000",
+        "region": "Antioquia",
+        "name": "Uramita",
+        "longitude": "-76.17340916",
+        "latitude": "6.898494111"
+    },
+    {
+        "region_id": "05",
+        "code": "05847",
+        "geoname_id": "05847000",
+        "region": "Antioquia",
+        "name": "Urrao",
+        "longitude": "-76.13394867",
+        "latitude": "6.317319591"
+    },
+    {
+        "region_id": "05",
+        "code": "05854",
+        "geoname_id": "05854000",
+        "region": "Antioquia",
+        "name": "Valdivia",
+        "longitude": "-75.43919844",
+        "latitude": "7.16534"
+    },
+    {
+        "region_id": "05",
+        "code": "05856",
+        "geoname_id": "05856000",
+        "region": "Antioquia",
+        "name": "Valparaíso",
+        "longitude": "-75.62445888",
+        "latitude": "5.614550725"
+    },
+    {
+        "region_id": "05",
+        "code": "05858",
+        "geoname_id": "05858000",
+        "region": "Antioquia",
+        "name": "Vegachí",
+        "longitude": "-74.79872695",
+        "latitude": "6.77344632"
+    },
+    {
+        "region_id": "05",
+        "code": "05861",
+        "geoname_id": "05861000",
+        "region": "Antioquia",
+        "name": "Venecia",
+        "longitude": "-75.73550324",
+        "latitude": "5.964733583"
+    },
+    {
+        "region_id": "05",
+        "code": "05873",
+        "geoname_id": "05873000",
+        "region": "Antioquia",
+        "name": "Vigía Del Fuerte",
+        "longitude": "-76.89618698",
+        "latitude": "6.588119845"
+    },
+    {
+        "region_id": "05",
+        "code": "05885",
+        "geoname_id": "05885000",
+        "region": "Antioquia",
+        "name": "Yalí",
+        "longitude": "-74.84004673",
+        "latitude": "6.676567272"
+    },
+    {
+        "region_id": "05",
+        "code": "05887",
+        "geoname_id": "05887000",
+        "region": "Antioquia",
+        "name": "Yarumal",
+        "longitude": "-75.41883314",
+        "latitude": "6.963872352"
+    },
+    {
+        "region_id": "05",
+        "code": "05890",
+        "geoname_id": "05890000",
+        "region": "Antioquia",
+        "name": "Yolombó",
+        "longitude": "-75.01335058",
+        "latitude": "6.594592434"
+    },
+    {
+        "region_id": "05",
+        "code": "05893",
+        "geoname_id": "05893000",
+        "region": "Antioquia",
+        "name": "Yondó",
+        "longitude": "-73.91245795",
+        "latitude": "7.003940734"
+    },
+    {
+        "region_id": "05",
+        "code": "05895",
+        "geoname_id": "05895000",
+        "region": "Antioquia",
+        "name": "Zaragoza",
+        "longitude": "-74.86707471",
+        "latitude": "7.488583075"
+    }
+  ]
+}

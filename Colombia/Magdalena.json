@@ -1,0 +1,313 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "38",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-74.5",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Magdalena",
+    "fcl": "A",
+    "numberOfChildren": 30,
+    "name": "Departamento del Magdalena",
+    "fcode": "ADM1",
+    "geonameId": 3675686,
+    "lat": "10",
+    "adminName1": "Magdalena",
+    "population": 1149917
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "47",
+        "code": "47001",
+        "geoname_id": "47001000",
+        "region": "Magdalena",
+        "name": "Santa Marta",
+        "longitude": "-74.19089412",
+        "latitude": "11.2294335"
+    },
+    {
+        "region_id": "47",
+        "code": "47030",
+        "geoname_id": "47030000",
+        "region": "Magdalena",
+        "name": "Algarrobo",
+        "longitude": "-74.06113245",
+        "latitude": "10.18803886"
+    },
+    {
+        "region_id": "47",
+        "code": "47053",
+        "geoname_id": "47053000",
+        "region": "Magdalena",
+        "name": "Aracataca",
+        "longitude": "-74.18676284",
+        "latitude": "10.58980001"
+    },
+    {
+        "region_id": "47",
+        "code": "47058",
+        "geoname_id": "47058000",
+        "region": "Magdalena",
+        "name": "Ariguaní",
+        "longitude": "-74.23649889",
+        "latitude": "9.847057076"
+    },
+    {
+        "region_id": "47",
+        "code": "47161",
+        "geoname_id": "47161000",
+        "region": "Magdalena",
+        "name": "Cerro De San Antonio",
+        "longitude": "-74.868473",
+        "latitude": "10.32565943"
+    },
+    {
+        "region_id": "47",
+        "code": "47170",
+        "geoname_id": "47170000",
+        "region": "Magdalena",
+        "name": "Chivolo",
+        "longitude": "-74.62313794",
+        "latitude": "10.02684116"
+    },
+    {
+        "region_id": "47",
+        "code": "47189",
+        "geoname_id": "47189000",
+        "region": "Magdalena",
+        "name": "Ciénaga",
+        "longitude": "-74.24128616",
+        "latitude": "11.00665688"
+    },
+    {
+        "region_id": "47",
+        "code": "47205",
+        "geoname_id": "47205000",
+        "region": "Magdalena",
+        "name": "Concordia",
+        "longitude": "-74.8330299",
+        "latitude": "10.25731061"
+    },
+    {
+        "region_id": "47",
+        "code": "47245",
+        "geoname_id": "47245000",
+        "region": "Magdalena",
+        "name": "El Banco",
+        "longitude": "-73.97428121",
+        "latitude": "9.008733009"
+    },
+    {
+        "region_id": "47",
+        "code": "47258",
+        "geoname_id": "47258000",
+        "region": "Magdalena",
+        "name": "El Piñón",
+        "longitude": "-74.82329109",
+        "latitude": "10.40309454"
+    },
+    {
+        "region_id": "47",
+        "code": "47268",
+        "geoname_id": "47268000",
+        "region": "Magdalena",
+        "name": "El Retén",
+        "longitude": "-74.2684561",
+        "latitude": "10.61066766"
+    },
+    {
+        "region_id": "47",
+        "code": "47288",
+        "geoname_id": "47288000",
+        "region": "Magdalena",
+        "name": "Fundación",
+        "longitude": "-74.19134346",
+        "latitude": "10.5140924"
+    },
+    {
+        "region_id": "47",
+        "code": "47318",
+        "geoname_id": "47318000",
+        "region": "Magdalena",
+        "name": "Guamal",
+        "longitude": "-74.22369928",
+        "latitude": "9.144385832"
+    },
+    {
+        "region_id": "47",
+        "code": "47460",
+        "geoname_id": "47460000",
+        "region": "Magdalena",
+        "name": "Nueva Granada",
+        "longitude": "-74.39223564",
+        "latitude": "9.801547971"
+    },
+    {
+        "region_id": "47",
+        "code": "47541",
+        "geoname_id": "47541000",
+        "region": "Magdalena",
+        "name": "Pedraza",
+        "longitude": "-74.91545773",
+        "latitude": "10.18820578"
+    },
+    {
+        "region_id": "47",
+        "code": "47545",
+        "geoname_id": "47545000",
+        "region": "Magdalena",
+        "name": "Pijiño Del Carmen",
+        "longitude": "-74.45821824",
+        "latitude": "9.331953112"
+    },
+    {
+        "region_id": "47",
+        "code": "47551",
+        "geoname_id": "47551000",
+        "region": "Magdalena",
+        "name": "Pivijay",
+        "longitude": "-74.61351795",
+        "latitude": "10.46069324"
+    },
+    {
+        "region_id": "47",
+        "code": "47555",
+        "geoname_id": "47555000",
+        "region": "Magdalena",
+        "name": "Plato",
+        "longitude": "-74.78468286",
+        "latitude": "9.796769868"
+    },
+    {
+        "region_id": "47",
+        "code": "47570",
+        "geoname_id": "47570000",
+        "region": "Magdalena",
+        "name": "Puebloviejo",
+        "longitude": "-74.28248423",
+        "latitude": "10.99482965"
+    },
+    {
+        "region_id": "47",
+        "code": "47605",
+        "geoname_id": "47605000",
+        "region": "Magdalena",
+        "name": "Remolino",
+        "longitude": "-74.71614047",
+        "latitude": "10.70217005"
+    },
+    {
+        "region_id": "47",
+        "code": "47660",
+        "geoname_id": "47660000",
+        "region": "Magdalena",
+        "name": "Sabanas De San Ángel",
+        "longitude": "-74.2139389",
+        "latitude": "10.03253601"
+    },
+    {
+        "region_id": "47",
+        "code": "47675",
+        "geoname_id": "47675000",
+        "region": "Magdalena",
+        "name": "Salamina",
+        "longitude": "-74.79418892",
+        "latitude": "10.49122904"
+    },
+    {
+        "region_id": "47",
+        "code": "47692",
+        "geoname_id": "47692000",
+        "region": "Magdalena",
+        "name": "San Sebastián De Buenavista",
+        "longitude": "-74.35167514",
+        "latitude": "9.24050525"
+    },
+    {
+        "region_id": "47",
+        "code": "47703",
+        "geoname_id": "47703000",
+        "region": "Magdalena",
+        "name": "San Zenón",
+        "longitude": "-74.4989915",
+        "latitude": "9.245060603"
+    },
+    {
+        "region_id": "47",
+        "code": "47707",
+        "geoname_id": "47707000",
+        "region": "Magdalena",
+        "name": "Santa Ana",
+        "longitude": "-74.56765762",
+        "latitude": "9.321837859"
+    },
+    {
+        "region_id": "47",
+        "code": "47720",
+        "geoname_id": "47720000",
+        "region": "Magdalena",
+        "name": "Santa Bárbara De Pinto",
+        "longitude": "-74.70468582",
+        "latitude": "9.432257137"
+    },
+    {
+        "region_id": "47",
+        "code": "47745",
+        "geoname_id": "47745000",
+        "region": "Magdalena",
+        "name": "Sitionuevo",
+        "longitude": "-74.72016921",
+        "latitude": "10.77540964"
+    },
+    {
+        "region_id": "47",
+        "code": "47798",
+        "geoname_id": "47798000",
+        "region": "Magdalena",
+        "name": "Tenerife",
+        "longitude": "-74.8607752",
+        "latitude": "9.897787141"
+    },
+    {
+        "region_id": "47",
+        "code": "47960",
+        "geoname_id": "47960000",
+        "region": "Magdalena",
+        "name": "Zapayán",
+        "longitude": "-74.71687797",
+        "latitude": "10.16829671"
+    },
+    {
+        "region_id": "47",
+        "code": "47980",
+        "geoname_id": "47980000",
+        "region": "Magdalena",
+        "name": "Zona Bananera",
+        "longitude": "-74.14008184",
+        "latitude": "10.76302682"
+    }
+  ]
+}

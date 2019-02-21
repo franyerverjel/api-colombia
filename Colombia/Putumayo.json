@@ -1,0 +1,160 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "22",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-76",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Putumayo",
+    "fcl": "A",
+    "numberOfChildren": 13,
+    "name": "Departamento del Putumayo",
+    "fcode": "ADM1",
+    "geonameId": 3671178,
+    "lat": "0.5",
+    "adminName1": "Putumayo",
+    "population": 310132
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "86",
+        "code": "86001",
+        "geoname_id": "86001000",
+        "region": "Putumayo",
+        "name": "Mocoa",
+        "longitude": "-76.65027142",
+        "latitude": "1.152296118"
+    },
+    {
+        "region_id": "86",
+        "code": "86219",
+        "geoname_id": "86219000",
+        "region": "Putumayo",
+        "name": "Colón",
+        "longitude": "-76.97230179",
+        "latitude": "1.189825988"
+    },
+    {
+        "region_id": "86",
+        "code": "86320",
+        "geoname_id": "86320000",
+        "region": "Putumayo",
+        "name": "Orito",
+        "longitude": "-76.87302769",
+        "latitude": "0.663816899"
+    },
+    {
+        "region_id": "86",
+        "code": "86568",
+        "geoname_id": "86568000",
+        "region": "Putumayo",
+        "name": "Puerto Asís",
+        "longitude": "-76.49727285",
+        "latitude": "0.505046722"
+    },
+    {
+        "region_id": "86",
+        "code": "86569",
+        "geoname_id": "86569000",
+        "region": "Putumayo",
+        "name": "Puerto Caicedo",
+        "longitude": "-76.60483235",
+        "latitude": "0.684841656"
+    },
+    {
+        "region_id": "86",
+        "code": "86571",
+        "geoname_id": "86571000",
+        "region": "Putumayo",
+        "name": "Puerto Guzmán",
+        "longitude": "-76.40852154",
+        "latitude": "0.962922439"
+    },
+    {
+        "region_id": "86",
+        "code": "86573",
+        "geoname_id": "86573000",
+        "region": "Putumayo",
+        "name": "Puerto Leguízamo",
+        "longitude": "-74.78247103",
+        "latitude": "-0.191872849"
+    },
+    {
+        "region_id": "86",
+        "code": "86749",
+        "geoname_id": "86749000",
+        "region": "Putumayo",
+        "name": "Sibundoy",
+        "longitude": "-76.91748216",
+        "latitude": "1.200115733"
+    },
+    {
+        "region_id": "86",
+        "code": "86755",
+        "geoname_id": "86755000",
+        "region": "Putumayo",
+        "name": "San Francisco",
+        "longitude": "-76.87923491",
+        "latitude": "1.174218321"
+    },
+    {
+        "region_id": "86",
+        "code": "86757",
+        "geoname_id": "86757000",
+        "region": "Putumayo",
+        "name": "San Miguel",
+        "longitude": "-76.91241019",
+        "latitude": "0.343272204"
+    },
+    {
+        "region_id": "86",
+        "code": "86760",
+        "geoname_id": "86760000",
+        "region": "Putumayo",
+        "name": "Santiago",
+        "longitude": "-77.00182343",
+        "latitude": "1.14553777"
+    },
+    {
+        "region_id": "86",
+        "code": "86865",
+        "geoname_id": "86865000",
+        "region": "Putumayo",
+        "name": "Valle Del Guamuez",
+        "longitude": "-76.9059688",
+        "latitude": "0.423904093"
+    },
+    {
+        "region_id": "86",
+        "code": "86885",
+        "geoname_id": "86885000",
+        "region": "Putumayo",
+        "name": "Villagarzón",
+        "longitude": "-76.61716247",
+        "latitude": "1.028941012"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "19",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-73",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Meta",
+    "fcl": "A",
+    "numberOfChildren": 29,
+    "name": "Departamento del Meta",
+    "fcode": "ADM1",
+    "geonameId": 3674810,
+    "lat": "3.5",
+    "adminName1": "Meta",
+    "population": 783168
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "50",
+        "code": "50001",
+        "geoname_id": "50001000",
+        "region": "Meta",
+        "name": "Villavicencio",
+        "longitude": "-73.62709204",
+        "latitude": "4.1238615"
+    },
+    {
+        "region_id": "50",
+        "code": "50006",
+        "geoname_id": "50006000",
+        "region": "Meta",
+        "name": "Acacías",
+        "longitude": "-73.76593665",
+        "latitude": "3.990120663"
+    },
+    {
+        "region_id": "50",
+        "code": "50110",
+        "geoname_id": "50110000",
+        "region": "Meta",
+        "name": "Barranca De Upía",
+        "longitude": "-72.96433381",
+        "latitude": "4.570622971"
+    },
+    {
+        "region_id": "50",
+        "code": "50124",
+        "geoname_id": "50124000",
+        "region": "Meta",
+        "name": "Cabuyaro",
+        "longitude": "-72.79197878",
+        "latitude": "4.285923848"
+    },
+    {
+        "region_id": "50",
+        "code": "50150",
+        "geoname_id": "50150000",
+        "region": "Meta",
+        "name": "Castilla La Nueva",
+        "longitude": "-73.6881296",
+        "latitude": "3.828040352"
+    },
+    {
+        "region_id": "50",
+        "code": "50223",
+        "geoname_id": "50223000",
+        "region": "Meta",
+        "name": "Cubarral",
+        "longitude": "-73.83921349",
+        "latitude": "3.794089465"
+    },
+    {
+        "region_id": "50",
+        "code": "50226",
+        "geoname_id": "50226000",
+        "region": "Meta",
+        "name": "Cumaral",
+        "longitude": "-73.48610878",
+        "latitude": "4.269537766"
+    },
+    {
+        "region_id": "50",
+        "code": "50245",
+        "geoname_id": "50245000",
+        "region": "Meta",
+        "name": "El Calvario",
+        "longitude": "-73.71332879",
+        "latitude": "4.352622053"
+    },
+    {
+        "region_id": "50",
+        "code": "50251",
+        "geoname_id": "50251000",
+        "region": "Meta",
+        "name": "El Castillo",
+        "longitude": "-73.79401276",
+        "latitude": "3.563834019"
+    },
+    {
+        "region_id": "50",
+        "code": "50270",
+        "geoname_id": "50270000",
+        "region": "Meta",
+        "name": "El Dorado",
+        "longitude": "-73.835012",
+        "latitude": "3.740004078"
+    },
+    {
+        "region_id": "50",
+        "code": "50287",
+        "geoname_id": "50287000",
+        "region": "Meta",
+        "name": "Fuentedeoro",
+        "longitude": "-73.61798161",
+        "latitude": "3.462868031"
+    },
+    {
+        "region_id": "50",
+        "code": "50313",
+        "geoname_id": "50313000",
+        "region": "Meta",
+        "name": "Granada",
+        "longitude": "-73.70571533",
+        "latitude": "3.546694724"
+    },
+    {
+        "region_id": "50",
+        "code": "50318",
+        "geoname_id": "50318000",
+        "region": "Meta",
+        "name": "Guamal",
+        "longitude": "-73.77033863",
+        "latitude": "3.880638599"
+    },
+    {
+        "region_id": "50",
+        "code": "50325",
+        "geoname_id": "50325000",
+        "region": "Meta",
+        "name": "Mapiripán",
+        "longitude": "-72.13564487",
+        "latitude": "2.896439137"
+    },
+    {
+        "region_id": "50",
+        "code": "50330",
+        "geoname_id": "50330000",
+        "region": "Meta",
+        "name": "Mesetas",
+        "longitude": "-74.04368085",
+        "latitude": "3.383924761"
+    },
+    {
+        "region_id": "50",
+        "code": "50350",
+        "geoname_id": "50350000",
+        "region": "Meta",
+        "name": "La Macarena",
+        "longitude": "-73.78706882",
+        "latitude": "2.17821427"
+    },
+    {
+        "region_id": "50",
+        "code": "50370",
+        "geoname_id": "50370000",
+        "region": "Meta",
+        "name": "Uribe",
+        "longitude": "-74.35154535",
+        "latitude": "3.239652997"
+    },
+    {
+        "region_id": "50",
+        "code": "50400",
+        "geoname_id": "50400000",
+        "region": "Meta",
+        "name": "Lejanías",
+        "longitude": "-74.024022",
+        "latitude": "3.525919845"
+    },
+    {
+        "region_id": "50",
+        "code": "50450",
+        "geoname_id": "50450000",
+        "region": "Meta",
+        "name": "Puerto Concordia",
+        "longitude": "-72.76004759",
+        "latitude": "2.623082153"
+    },
+    {
+        "region_id": "50",
+        "code": "50568",
+        "geoname_id": "50568000",
+        "region": "Meta",
+        "name": "Puerto Gaitán",
+        "longitude": "-72.08307894",
+        "latitude": "4.314487455"
+    },
+    {
+        "region_id": "50",
+        "code": "50573",
+        "geoname_id": "50573000",
+        "region": "Meta",
+        "name": "Puerto López",
+        "longitude": "-72.95743626",
+        "latitude": "4.093406425"
+    },
+    {
+        "region_id": "50",
+        "code": "50577",
+        "geoname_id": "50577000",
+        "region": "Meta",
+        "name": "Puerto Lleras",
+        "longitude": "-73.37374343",
+        "latitude": "3.269732439"
+    },
+    {
+        "region_id": "50",
+        "code": "50590",
+        "geoname_id": "50590000",
+        "region": "Meta",
+        "name": "Puerto Rico",
+        "longitude": "-73.20651333",
+        "latitude": "2.939743676"
+    },
+    {
+        "region_id": "50",
+        "code": "50606",
+        "geoname_id": "50606000",
+        "region": "Meta",
+        "name": "Restrepo",
+        "longitude": "-73.56460418",
+        "latitude": "4.260731994"
+    },
+    {
+        "region_id": "50",
+        "code": "50680",
+        "geoname_id": "50680000",
+        "region": "Meta",
+        "name": "San Carlos De Guaroa",
+        "longitude": "-73.24140912",
+        "latitude": "3.71053664"
+    },
+    {
+        "region_id": "50",
+        "code": "50683",
+        "geoname_id": "50683000",
+        "region": "Meta",
+        "name": "San Juan De Arama",
+        "longitude": "-73.87583154",
+        "latitude": "3.373727874"
+    },
+    {
+        "region_id": "50",
+        "code": "50686",
+        "geoname_id": "50686000",
+        "region": "Meta",
+        "name": "San Juanito",
+        "longitude": "-73.67669903",
+        "latitude": "4.458180005"
+    },
+    {
+        "region_id": "50",
+        "code": "50689",
+        "geoname_id": "50689000",
+        "region": "Meta",
+        "name": "San Martín",
+        "longitude": "-73.69561782",
+        "latitude": "3.701879876"
+    },
+    {
+        "region_id": "50",
+        "code": "50711",
+        "geoname_id": "50711000",
+        "region": "Meta",
+        "name": "Vistahermosa",
+        "longitude": "-73.75116676",
+        "latitude": "3.1257521"
+    }
+  ]
+}

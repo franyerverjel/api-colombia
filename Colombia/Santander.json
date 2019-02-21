@@ -1,0 +1,826 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "26",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-73.41667",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Santander",
+    "fcl": "A",
+    "numberOfChildren": 87,
+    "name": "Departamento de Santander",
+    "fcode": "ADM1",
+    "geonameId": 3668578,
+    "lat": "6.83333",
+    "adminName1": "Santander",
+    "population": 1957789
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "68",
+        "code": "68001",
+        "geoname_id": "68001000",
+        "region": "Santander",
+        "name": "Bucaramanga",
+        "longitude": "-73.13259818",
+        "latitude": "7.116267276"
+    },
+    {
+        "region_id": "68",
+        "code": "68013",
+        "geoname_id": "68013000",
+        "region": "Santander",
+        "name": "Aguada",
+        "longitude": "-73.52323684",
+        "latitude": "6.162237533"
+    },
+    {
+        "region_id": "68",
+        "code": "68020",
+        "geoname_id": "68020000",
+        "region": "Santander",
+        "name": "Albania",
+        "longitude": "-73.91385377",
+        "latitude": "5.75887024"
+    },
+    {
+        "region_id": "68",
+        "code": "68051",
+        "geoname_id": "68051000",
+        "region": "Santander",
+        "name": "Aratoca",
+        "longitude": "-73.01784989",
+        "latitude": "6.694439966"
+    },
+    {
+        "region_id": "68",
+        "code": "68077",
+        "geoname_id": "68077000",
+        "region": "Santander",
+        "name": "Barbosa",
+        "longitude": "-73.61599887",
+        "latitude": "5.932609875"
+    },
+    {
+        "region_id": "68",
+        "code": "68079",
+        "geoname_id": "68079000",
+        "region": "Santander",
+        "name": "Barichara",
+        "longitude": "-73.22309933",
+        "latitude": "6.634229273"
+    },
+    {
+        "region_id": "68",
+        "code": "68081",
+        "geoname_id": "68081000",
+        "region": "Santander",
+        "name": "Barrancabermeja",
+        "longitude": "-73.84995698",
+        "latitude": "7.064963864"
+    },
+    {
+        "region_id": "68",
+        "code": "68092",
+        "geoname_id": "68092000",
+        "region": "Santander",
+        "name": "Betulia",
+        "longitude": "-73.28366913",
+        "latitude": "6.899525365"
+    },
+    {
+        "region_id": "68",
+        "code": "68101",
+        "geoname_id": "68101000",
+        "region": "Santander",
+        "name": "Bolívar",
+        "longitude": "-73.77134641",
+        "latitude": "5.988952616"
+    },
+    {
+        "region_id": "68",
+        "code": "68121",
+        "geoname_id": "68121000",
+        "region": "Santander",
+        "name": "Cabrera",
+        "longitude": "-73.2465029",
+        "latitude": "6.592260802"
+    },
+    {
+        "region_id": "68",
+        "code": "68132",
+        "geoname_id": "68132000",
+        "region": "Santander",
+        "name": "California",
+        "longitude": "-72.9463583",
+        "latitude": "7.347884751"
+    },
+    {
+        "region_id": "68",
+        "code": "68147",
+        "geoname_id": "68147000",
+        "region": "Santander",
+        "name": "Capitanejo",
+        "longitude": "-72.69919959",
+        "latitude": "6.533179982"
+    },
+    {
+        "region_id": "68",
+        "code": "68152",
+        "geoname_id": "68152000",
+        "region": "Santander",
+        "name": "Carcasí",
+        "longitude": "-72.62708287",
+        "latitude": "6.628732408"
+    },
+    {
+        "region_id": "68",
+        "code": "68160",
+        "geoname_id": "68160000",
+        "region": "Santander",
+        "name": "Cepitá",
+        "longitude": "-72.97353646",
+        "latitude": "6.753518402"
+    },
+    {
+        "region_id": "68",
+        "code": "68162",
+        "geoname_id": "68162000",
+        "region": "Santander",
+        "name": "Cerrito",
+        "longitude": "-72.69234535",
+        "latitude": "6.844243582"
+    },
+    {
+        "region_id": "68",
+        "code": "68167",
+        "geoname_id": "68167000",
+        "region": "Santander",
+        "name": "Charalá",
+        "longitude": "-73.14687039",
+        "latitude": "6.284348897"
+    },
+    {
+        "region_id": "68",
+        "code": "68169",
+        "geoname_id": "68169000",
+        "region": "Santander",
+        "name": "Charta",
+        "longitude": "-72.96879846",
+        "latitude": "7.280820472"
+    },
+    {
+        "region_id": "68",
+        "code": "68176",
+        "geoname_id": "68176000",
+        "region": "Santander",
+        "name": "Chima",
+        "longitude": "-73.37374774",
+        "latitude": "6.344351721"
+    },
+    {
+        "region_id": "68",
+        "code": "68179",
+        "geoname_id": "68179000",
+        "region": "Santander",
+        "name": "Chipatá",
+        "longitude": "-73.63711064",
+        "latitude": "6.062520904"
+    },
+    {
+        "region_id": "68",
+        "code": "68190",
+        "geoname_id": "68190000",
+        "region": "Santander",
+        "name": "Cimitarra",
+        "longitude": "-73.95258212",
+        "latitude": "6.320681867"
+    },
+    {
+        "region_id": "68",
+        "code": "68207",
+        "geoname_id": "68207000",
+        "region": "Santander",
+        "name": "Concepción",
+        "longitude": "-72.69459425",
+        "latitude": "6.768836528"
+    },
+    {
+        "region_id": "68",
+        "code": "68209",
+        "geoname_id": "68209000",
+        "region": "Santander",
+        "name": "Confines",
+        "longitude": "-73.24055388",
+        "latitude": "6.35732749"
+    },
+    {
+        "region_id": "68",
+        "code": "68211",
+        "geoname_id": "68211000",
+        "region": "Santander",
+        "name": "Contratación",
+        "longitude": "-73.47442637",
+        "latitude": "6.290561328"
+    },
+    {
+        "region_id": "68",
+        "code": "68217",
+        "geoname_id": "68217000",
+        "region": "Santander",
+        "name": "Coromoro",
+        "longitude": "-73.04081675",
+        "latitude": "6.294994914"
+    },
+    {
+        "region_id": "68",
+        "code": "68229",
+        "geoname_id": "68229000",
+        "region": "Santander",
+        "name": "Curití",
+        "longitude": "-73.06939052",
+        "latitude": "6.605106785"
+    },
+    {
+        "region_id": "68",
+        "code": "68235",
+        "geoname_id": "68235000",
+        "region": "Santander",
+        "name": "El Carmen De Chucurí",
+        "longitude": "-73.51126774",
+        "latitude": "6.697911451"
+    },
+    {
+        "region_id": "68",
+        "code": "68245",
+        "geoname_id": "68245000",
+        "region": "Santander",
+        "name": "El Guacamayo",
+        "longitude": "-73.49689291",
+        "latitude": "6.245119007"
+    },
+    {
+        "region_id": "68",
+        "code": "68250",
+        "geoname_id": "68250000",
+        "region": "Santander",
+        "name": "El Peñón",
+        "longitude": "-73.81691092",
+        "latitude": "6.054277046"
+    },
+    {
+        "region_id": "68",
+        "code": "68255",
+        "geoname_id": "68255000",
+        "region": "Santander",
+        "name": "El Playón",
+        "longitude": "-73.20287793",
+        "latitude": "7.470719593"
+    },
+    {
+        "region_id": "68",
+        "code": "68264",
+        "geoname_id": "68264000",
+        "region": "Santander",
+        "name": "Encino",
+        "longitude": "-73.09873802",
+        "latitude": "6.137402497"
+    },
+    {
+        "region_id": "68",
+        "code": "68266",
+        "geoname_id": "68266000",
+        "region": "Santander",
+        "name": "Enciso",
+        "longitude": "-72.69964704",
+        "latitude": "6.66803389"
+    },
+    {
+        "region_id": "68",
+        "code": "68271",
+        "geoname_id": "68271000",
+        "region": "Santander",
+        "name": "Florián",
+        "longitude": "-73.97142307",
+        "latitude": "5.804666368"
+    },
+    {
+        "region_id": "68",
+        "code": "68276",
+        "geoname_id": "68276000",
+        "region": "Santander",
+        "name": "Floridablanca",
+        "longitude": "-73.09903262",
+        "latitude": "7.072360403"
+    },
+    {
+        "region_id": "68",
+        "code": "68296",
+        "geoname_id": "68296000",
+        "region": "Santander",
+        "name": "Galán",
+        "longitude": "-73.28776473",
+        "latitude": "6.638415002"
+    },
+    {
+        "region_id": "68",
+        "code": "68298",
+        "geoname_id": "68298000",
+        "region": "Santander",
+        "name": "Gámbita",
+        "longitude": "-73.34418354",
+        "latitude": "5.945981203"
+    },
+    {
+        "region_id": "68",
+        "code": "68307",
+        "geoname_id": "68307000",
+        "region": "Santander",
+        "name": "Girón",
+        "longitude": "-73.16825587",
+        "latitude": "7.072775109"
+    },
+    {
+        "region_id": "68",
+        "code": "68318",
+        "geoname_id": "68318000",
+        "region": "Santander",
+        "name": "Guaca",
+        "longitude": "-72.85632201",
+        "latitude": "6.876563452"
+    },
+    {
+        "region_id": "68",
+        "code": "68320",
+        "geoname_id": "68320000",
+        "region": "Santander",
+        "name": "Guadalupe",
+        "longitude": "-73.41929203",
+        "latitude": "6.245846765"
+    },
+    {
+        "region_id": "68",
+        "code": "68322",
+        "geoname_id": "68322000",
+        "region": "Santander",
+        "name": "Guapotá",
+        "longitude": "-73.32069909",
+        "latitude": "6.308588013"
+    },
+    {
+        "region_id": "68",
+        "code": "68324",
+        "geoname_id": "68324000",
+        "region": "Santander",
+        "name": "Guavatá",
+        "longitude": "-73.7008021",
+        "latitude": "5.954136076"
+    },
+    {
+        "region_id": "68",
+        "code": "68327",
+        "geoname_id": "68327000",
+        "region": "Santander",
+        "name": "Güepsa",
+        "longitude": "-73.57532595",
+        "latitude": "6.024849176"
+    },
+    {
+        "region_id": "68",
+        "code": "68344",
+        "geoname_id": "68344000",
+        "region": "Santander",
+        "name": "Hato",
+        "longitude": "-73.30814481",
+        "latitude": "6.542963886"
+    },
+    {
+        "region_id": "68",
+        "code": "68368",
+        "geoname_id": "68368000",
+        "region": "Santander",
+        "name": "Jesús María",
+        "longitude": "-73.78332817",
+        "latitude": "5.876543464"
+    },
+    {
+        "region_id": "68",
+        "code": "68370",
+        "geoname_id": "68370000",
+        "region": "Santander",
+        "name": "Jordán",
+        "longitude": "-73.09605306",
+        "latitude": "6.732727095"
+    },
+    {
+        "region_id": "68",
+        "code": "68377",
+        "geoname_id": "68377000",
+        "region": "Santander",
+        "name": "La Belleza",
+        "longitude": "-73.96562587",
+        "latitude": "5.859549848"
+    },
+    {
+        "region_id": "68",
+        "code": "68385",
+        "geoname_id": "68385000",
+        "region": "Santander",
+        "name": "Landázuri",
+        "longitude": "-73.81108528",
+        "latitude": "6.218748615"
+    },
+    {
+        "region_id": "68",
+        "code": "68397",
+        "geoname_id": "68397000",
+        "region": "Santander",
+        "name": "La Paz",
+        "longitude": "-73.58959003",
+        "latitude": "6.178509326"
+    },
+    {
+        "region_id": "68",
+        "code": "68406",
+        "geoname_id": "68406000",
+        "region": "Santander",
+        "name": "Lebrija",
+        "longitude": "-73.21955144",
+        "latitude": "7.113356081"
+    },
+    {
+        "region_id": "68",
+        "code": "68418",
+        "geoname_id": "68418000",
+        "region": "Santander",
+        "name": "Los Santos",
+        "longitude": "-73.10265667",
+        "latitude": "6.755175194"
+    },
+    {
+        "region_id": "68",
+        "code": "68425",
+        "geoname_id": "68425000",
+        "region": "Santander",
+        "name": "Macaravita",
+        "longitude": "-72.59310546",
+        "latitude": "6.506580428"
+    },
+    {
+        "region_id": "68",
+        "code": "68432",
+        "geoname_id": "68432000",
+        "region": "Santander",
+        "name": "Málaga",
+        "longitude": "-72.7323798",
+        "latitude": "6.703058458"
+    },
+    {
+        "region_id": "68",
+        "code": "68444",
+        "geoname_id": "68444000",
+        "region": "Santander",
+        "name": "Matanza",
+        "longitude": "-73.01556564",
+        "latitude": "7.323175124"
+    },
+    {
+        "region_id": "68",
+        "code": "68464",
+        "geoname_id": "68464000",
+        "region": "Santander",
+        "name": "Mogotes",
+        "longitude": "-72.96981379",
+        "latitude": "6.475209953"
+    },
+    {
+        "region_id": "68",
+        "code": "68468",
+        "geoname_id": "68468000",
+        "region": "Santander",
+        "name": "Molagavita",
+        "longitude": "-72.80947223",
+        "latitude": "6.674357231"
+    },
+    {
+        "region_id": "68",
+        "code": "68498",
+        "geoname_id": "68498000",
+        "region": "Santander",
+        "name": "Ocamonte",
+        "longitude": "-73.12256304",
+        "latitude": "6.33998773"
+    },
+    {
+        "region_id": "68",
+        "code": "68500",
+        "geoname_id": "68500000",
+        "region": "Santander",
+        "name": "Oiba",
+        "longitude": "-73.29978602",
+        "latitude": "6.265175133"
+    },
+    {
+        "region_id": "68",
+        "code": "68502",
+        "geoname_id": "68502000",
+        "region": "Santander",
+        "name": "Onzaga",
+        "longitude": "-72.81675984",
+        "latitude": "6.344093685"
+    },
+    {
+        "region_id": "68",
+        "code": "68522",
+        "geoname_id": "68522000",
+        "region": "Santander",
+        "name": "Palmar",
+        "longitude": "-73.29109018",
+        "latitude": "6.537789332"
+    },
+    {
+        "region_id": "68",
+        "code": "68524",
+        "geoname_id": "68524000",
+        "region": "Santander",
+        "name": "Palmas Del Socorro",
+        "longitude": "-73.28776397",
+        "latitude": "6.406138656"
+    },
+    {
+        "region_id": "68",
+        "code": "68533",
+        "geoname_id": "68533000",
+        "region": "Santander",
+        "name": "Páramo",
+        "longitude": "-73.17039954",
+        "latitude": "6.416592378"
+    },
+    {
+        "region_id": "68",
+        "code": "68547",
+        "geoname_id": "68547000",
+        "region": "Santander",
+        "name": "Piedecuesta",
+        "longitude": "-73.05466085",
+        "latitude": "6.997475804"
+    },
+    {
+        "region_id": "68",
+        "code": "68549",
+        "geoname_id": "68549000",
+        "region": "Santander",
+        "name": "Pinchote",
+        "longitude": "-73.17291432",
+        "latitude": "6.53206027"
+    },
+    {
+        "region_id": "68",
+        "code": "68572",
+        "geoname_id": "68572000",
+        "region": "Santander",
+        "name": "Puente Nacional",
+        "longitude": "-73.6781341",
+        "latitude": "5.877962665"
+    },
+    {
+        "region_id": "68",
+        "code": "68573",
+        "geoname_id": "68573000",
+        "region": "Santander",
+        "name": "Puerto Parra",
+        "longitude": "-74.05609429",
+        "latitude": "6.650806702"
+    },
+    {
+        "region_id": "68",
+        "code": "68575",
+        "geoname_id": "68575000",
+        "region": "Santander",
+        "name": "Puerto Wilches",
+        "longitude": "-73.89933402",
+        "latitude": "7.349066144"
+    },
+    {
+        "region_id": "68",
+        "code": "68615",
+        "geoname_id": "68615000",
+        "region": "Santander",
+        "name": "Rionegro",
+        "longitude": "-73.15014691",
+        "latitude": "7.265010486"
+    },
+    {
+        "region_id": "68",
+        "code": "68655",
+        "geoname_id": "68655000",
+        "region": "Santander",
+        "name": "Sabana De Torres",
+        "longitude": "-73.49905016",
+        "latitude": "7.391911944"
+    },
+    {
+        "region_id": "68",
+        "code": "68669",
+        "geoname_id": "68669000",
+        "region": "Santander",
+        "name": "San Andrés",
+        "longitude": "-72.84880424",
+        "latitude": "6.812310152"
+    },
+    {
+        "region_id": "68",
+        "code": "68673",
+        "geoname_id": "68673000",
+        "region": "Santander",
+        "name": "San Benito",
+        "longitude": "-73.50938735",
+        "latitude": "6.126244581"
+    },
+    {
+        "region_id": "68",
+        "code": "68679",
+        "geoname_id": "68679000",
+        "region": "Santander",
+        "name": "San Gil",
+        "longitude": "-73.1368815",
+        "latitude": "6.555609467"
+    },
+    {
+        "region_id": "68",
+        "code": "68682",
+        "geoname_id": "68682000",
+        "region": "Santander",
+        "name": "San Joaquín",
+        "longitude": "-72.86763812",
+        "latitude": "6.427547936"
+    },
+    {
+        "region_id": "68",
+        "code": "68684",
+        "geoname_id": "68684000",
+        "region": "Santander",
+        "name": "San José De Miranda",
+        "longitude": "-72.73361596",
+        "latitude": "6.658994797"
+    },
+    {
+        "region_id": "68",
+        "code": "68686",
+        "geoname_id": "68686000",
+        "region": "Santander",
+        "name": "San Miguel",
+        "longitude": "-72.64415509",
+        "latitude": "6.575625393"
+    },
+    {
+        "region_id": "68",
+        "code": "68689",
+        "geoname_id": "68689000",
+        "region": "Santander",
+        "name": "San Vicente De Chucurí",
+        "longitude": "-73.41102393",
+        "latitude": "6.880382935"
+    },
+    {
+        "region_id": "68",
+        "code": "68705",
+        "geoname_id": "68705000",
+        "region": "Santander",
+        "name": "Santa Bárbara",
+        "longitude": "-72.90733628",
+        "latitude": "6.990510681"
+    },
+    {
+        "region_id": "68",
+        "code": "68720",
+        "geoname_id": "68720000",
+        "region": "Santander",
+        "name": "Santa Helena Del Opón",
+        "longitude": "-73.61679327",
+        "latitude": "6.33964535"
+    },
+    {
+        "region_id": "68",
+        "code": "68745",
+        "geoname_id": "68745000",
+        "region": "Santander",
+        "name": "Simacota",
+        "longitude": "-73.33736767",
+        "latitude": "6.443471137"
+    },
+    {
+        "region_id": "68",
+        "code": "68755",
+        "geoname_id": "68755000",
+        "region": "Santander",
+        "name": "Socorro",
+        "longitude": "-73.26119642",
+        "latitude": "6.463855516"
+    },
+    {
+        "region_id": "68",
+        "code": "68770",
+        "geoname_id": "68770000",
+        "region": "Santander",
+        "name": "Suaita",
+        "longitude": "-73.43841636",
+        "latitude": "6.103542295"
+    },
+    {
+        "region_id": "68",
+        "code": "68773",
+        "geoname_id": "68773000",
+        "region": "Santander",
+        "name": "Sucre",
+        "longitude": "-73.79097463",
+        "latitude": "5.918743412"
+    },
+    {
+        "region_id": "68",
+        "code": "68780",
+        "geoname_id": "68780000",
+        "region": "Santander",
+        "name": "Suratá",
+        "longitude": "-72.98423197",
+        "latitude": "7.366579569"
+    },
+    {
+        "region_id": "68",
+        "code": "68820",
+        "geoname_id": "68820000",
+        "region": "Santander",
+        "name": "Tona",
+        "longitude": "-72.96601826",
+        "latitude": "7.202735241"
+    },
+    {
+        "region_id": "68",
+        "code": "68855",
+        "geoname_id": "68855000",
+        "region": "Santander",
+        "name": "Valle De San José",
+        "longitude": "-73.14373727",
+        "latitude": "6.447789687"
+    },
+    {
+        "region_id": "68",
+        "code": "68861",
+        "geoname_id": "68861000",
+        "region": "Santander",
+        "name": "Vélez",
+        "longitude": "-73.66629907",
+        "latitude": "6.010953449"
+    },
+    {
+        "region_id": "68",
+        "code": "68867",
+        "geoname_id": "68867000",
+        "region": "Santander",
+        "name": "Vetas",
+        "longitude": "-72.87104088",
+        "latitude": "7.309810023"
+    },
+    {
+        "region_id": "68",
+        "code": "68872",
+        "geoname_id": "68872000",
+        "region": "Santander",
+        "name": "Villanueva",
+        "longitude": "-73.17430669",
+        "latitude": "6.670077672"
+    },
+    {
+        "region_id": "68",
+        "code": "68895",
+        "geoname_id": "68895000",
+        "region": "Santander",
+        "name": "Zapatoca",
+        "longitude": "-73.26791008",
+        "latitude": "6.8143389"
+    }
+  ]
+}

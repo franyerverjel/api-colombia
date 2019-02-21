@@ -1,0 +1,178 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "17",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-72.5",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de La Guajira",
+    "fcl": "A",
+    "numberOfChildren": 15,
+    "name": "Departamento de La Guajira",
+    "fcode": "ADM1",
+    "geonameId": 3678847,
+    "lat": "11.5",
+    "adminName1": "La Guajira",
+    "population": 681575
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "44",
+        "code": "44001",
+        "geoname_id": "44001000",
+        "region": "La Guajira",
+        "name": "Riohacha",
+        "longitude": "-72.91148891",
+        "latitude": "11.52875138"
+    },
+    {
+        "region_id": "44",
+        "code": "44035",
+        "geoname_id": "44035000",
+        "region": "La Guajira",
+        "name": "Albania",
+        "longitude": "-72.59852163",
+        "latitude": "11.15748865"
+    },
+    {
+        "region_id": "44",
+        "code": "44078",
+        "geoname_id": "44078000",
+        "region": "La Guajira",
+        "name": "Barrancas",
+        "longitude": "-72.79357567",
+        "latitude": "10.95866671"
+    },
+    {
+        "region_id": "44",
+        "code": "44090",
+        "geoname_id": "44090000",
+        "region": "La Guajira",
+        "name": "Dibulla",
+        "longitude": "-73.30761979",
+        "latitude": "11.2715694"
+    },
+    {
+        "region_id": "44",
+        "code": "44098",
+        "geoname_id": "44098000",
+        "region": "La Guajira",
+        "name": "Distracción",
+        "longitude": "-72.88739268",
+        "latitude": "10.89847259"
+    },
+    {
+        "region_id": "44",
+        "code": "44110",
+        "geoname_id": "44110000",
+        "region": "La Guajira",
+        "name": "El Molino",
+        "longitude": "-72.92674334",
+        "latitude": "10.65350251"
+    },
+    {
+        "region_id": "44",
+        "code": "44279",
+        "geoname_id": "44279000",
+        "region": "La Guajira",
+        "name": "Fonseca",
+        "longitude": "-72.84666224",
+        "latitude": "10.88430067"
+    },
+    {
+        "region_id": "44",
+        "code": "44378",
+        "geoname_id": "44378000",
+        "region": "La Guajira",
+        "name": "Hatonuevo",
+        "longitude": "-72.75901658",
+        "latitude": "11.06874303"
+    },
+    {
+        "region_id": "44",
+        "code": "44420",
+        "geoname_id": "44420000",
+        "region": "La Guajira",
+        "name": "La Jagua Del Pilar",
+        "longitude": "-73.07167902",
+        "latitude": "10.51021405"
+    },
+    {
+        "region_id": "44",
+        "code": "44430",
+        "geoname_id": "44430000",
+        "region": "La Guajira",
+        "name": "Maicao",
+        "longitude": "-72.24190502",
+        "latitude": "11.37832678"
+    },
+    {
+        "region_id": "44",
+        "code": "44560",
+        "geoname_id": "44560000",
+        "region": "La Guajira",
+        "name": "Manaure",
+        "longitude": "-72.43966737",
+        "latitude": "11.77405659"
+    },
+    {
+        "region_id": "44",
+        "code": "44650",
+        "geoname_id": "44650000",
+        "region": "La Guajira",
+        "name": "San Juan Del Cesar",
+        "longitude": "-73.00059321",
+        "latitude": "10.76957868"
+    },
+    {
+        "region_id": "44",
+        "code": "44847",
+        "geoname_id": "44847000",
+        "region": "La Guajira",
+        "name": "Uribia",
+        "longitude": "-72.26476063",
+        "latitude": "11.71464582"
+    },
+    {
+        "region_id": "44",
+        "code": "44855",
+        "geoname_id": "44855000",
+        "region": "La Guajira",
+        "name": "Urumita",
+        "longitude": "-73.01250679",
+        "latitude": "10.56016864"
+    },
+    {
+        "region_id": "44",
+        "code": "44874",
+        "geoname_id": "44874000",
+        "region": "La Guajira",
+        "name": "Villanueva",
+        "longitude": "-72.97762278",
+        "latitude": "10.60881169"
+    }
+  ]
+}

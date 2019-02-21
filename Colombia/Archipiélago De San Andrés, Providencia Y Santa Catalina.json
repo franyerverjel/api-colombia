@@ -1,0 +1,52 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "25",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-81.71983",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés",
+    "fcl": "A",
+    "numberOfChildren": 2,
+    "name": "Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés",
+    "fcode": "ADM1",
+    "geonameId": 3670205,
+    "lat": "12.52449",
+    "adminName1": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+    "population": 70554
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "88",
+        "code": "88564",
+        "geoname_id": "88564000",
+        "region": "Archipiélago De San Andrés, Providencia Y Santa Catalina",
+        "name": "Providencia",
+        "longitude": "-81.3709116",
+        "latitude": "13.37009985"
+    }
+  ]
+}

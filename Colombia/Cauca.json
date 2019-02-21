@@ -1,0 +1,421 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "09",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-76.83333",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Cauca",
+    "fcl": "A",
+    "numberOfChildren": 42,
+    "name": "Departamento del Cauca",
+    "fcode": "ADM1",
+    "geonameId": 3687029,
+    "lat": "2.5",
+    "adminName1": "Cauca",
+    "population": 1268937
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "19",
+        "code": "19001",
+        "geoname_id": "19001000",
+        "region": "Cauca",
+        "name": "Popayán",
+        "longitude": "-76.57406468",
+        "latitude": "2.482503391"
+    },
+    {
+        "region_id": "19",
+        "code": "19022",
+        "geoname_id": "19022000",
+        "region": "Cauca",
+        "name": "Almaguer",
+        "longitude": "-76.85592449",
+        "latitude": "1.913360233"
+    },
+    {
+        "region_id": "19",
+        "code": "19050",
+        "geoname_id": "19050000",
+        "region": "Cauca",
+        "name": "Argelia",
+        "longitude": "-77.24945028",
+        "latitude": "2.256754909"
+    },
+    {
+        "region_id": "19",
+        "code": "19075",
+        "geoname_id": "19075000",
+        "region": "Cauca",
+        "name": "Balboa",
+        "longitude": "-77.21589814",
+        "latitude": "2.040478768"
+    },
+    {
+        "region_id": "19",
+        "code": "19100",
+        "geoname_id": "19100000",
+        "region": "Cauca",
+        "name": "Bolívar",
+        "longitude": "-76.96631204",
+        "latitude": "1.837416404"
+    },
+    {
+        "region_id": "19",
+        "code": "19110",
+        "geoname_id": "19110000",
+        "region": "Cauca",
+        "name": "Buenos Aires",
+        "longitude": "-76.64228059",
+        "latitude": "3.01542683"
+    },
+    {
+        "region_id": "19",
+        "code": "19130",
+        "geoname_id": "19130000",
+        "region": "Cauca",
+        "name": "Cajibío",
+        "longitude": "-76.57088427",
+        "latitude": "2.623338254"
+    },
+    {
+        "region_id": "19",
+        "code": "19137",
+        "geoname_id": "19137000",
+        "region": "Cauca",
+        "name": "Caldono",
+        "longitude": "-76.48444786",
+        "latitude": "2.798130826"
+    },
+    {
+        "region_id": "19",
+        "code": "19142",
+        "geoname_id": "19142000",
+        "region": "Cauca",
+        "name": "Caloto",
+        "longitude": "-76.40848704",
+        "latitude": "3.034070778"
+    },
+    {
+        "region_id": "19",
+        "code": "19212",
+        "geoname_id": "19212000",
+        "region": "Cauca",
+        "name": "Corinto",
+        "longitude": "-76.26131419",
+        "latitude": "3.173815457"
+    },
+    {
+        "region_id": "19",
+        "code": "19256",
+        "geoname_id": "19256000",
+        "region": "Cauca",
+        "name": "El Tambo",
+        "longitude": "-76.81077225",
+        "latitude": "2.45137136"
+    },
+    {
+        "region_id": "19",
+        "code": "19290",
+        "geoname_id": "19290000",
+        "region": "Cauca",
+        "name": "Florencia",
+        "longitude": "-77.07253426",
+        "latitude": "1.682522463"
+    },
+    {
+        "region_id": "19",
+        "code": "19300",
+        "geoname_id": "19300000",
+        "region": "Cauca",
+        "name": "Guachené",
+        "longitude": "-76.39218874",
+        "latitude": "3.134153295"
+    },
+    {
+        "region_id": "19",
+        "code": "19318",
+        "geoname_id": "19318000",
+        "region": "Cauca",
+        "name": "Guapí",
+        "longitude": "-77.88803347",
+        "latitude": "2.572918366"
+    },
+    {
+        "region_id": "19",
+        "code": "19355",
+        "geoname_id": "19355000",
+        "region": "Cauca",
+        "name": "Inzá",
+        "longitude": "-76.06350272",
+        "latitude": "2.549182984"
+    },
+    {
+        "region_id": "19",
+        "code": "19364",
+        "geoname_id": "19364000",
+        "region": "Cauca",
+        "name": "Jambaló",
+        "longitude": "-76.32387818",
+        "latitude": "2.777837347"
+    },
+    {
+        "region_id": "19",
+        "code": "19392",
+        "geoname_id": "19392000",
+        "region": "Cauca",
+        "name": "La Sierra",
+        "longitude": "-76.76320908",
+        "latitude": "2.179322405"
+    },
+    {
+        "region_id": "19",
+        "code": "19397",
+        "geoname_id": "19397000",
+        "region": "Cauca",
+        "name": "La Vega",
+        "longitude": "-76.7788973",
+        "latitude": "2.001109224"
+    },
+    {
+        "region_id": "19",
+        "code": "19418",
+        "geoname_id": "19418000",
+        "region": "Cauca",
+        "name": "López De Micay",
+        "longitude": "-77.24769154",
+        "latitude": "2.846715932"
+    },
+    {
+        "region_id": "19",
+        "code": "19450",
+        "geoname_id": "19450000",
+        "region": "Cauca",
+        "name": "Mercaderes",
+        "longitude": "-77.16584432",
+        "latitude": "1.775772495"
+    },
+    {
+        "region_id": "19",
+        "code": "19455",
+        "geoname_id": "19455000",
+        "region": "Cauca",
+        "name": "Miranda",
+        "longitude": "-76.22886987",
+        "latitude": "3.253095405"
+    },
+    {
+        "region_id": "19",
+        "code": "19473",
+        "geoname_id": "19473000",
+        "region": "Cauca",
+        "name": "Morales",
+        "longitude": "-76.62922056",
+        "latitude": "2.754558567"
+    },
+    {
+        "region_id": "19",
+        "code": "19513",
+        "geoname_id": "19513000",
+        "region": "Cauca",
+        "name": "Padilla",
+        "longitude": "-76.31329089",
+        "latitude": "3.220853836"
+    },
+    {
+        "region_id": "19",
+        "code": "19517",
+        "geoname_id": "19517000",
+        "region": "Cauca",
+        "name": "Páez",
+        "longitude": "-75.97196451",
+        "latitude": "2.641366768"
+    },
+    {
+        "region_id": "19",
+        "code": "19532",
+        "geoname_id": "19532000",
+        "region": "Cauca",
+        "name": "Patía",
+        "longitude": "-76.98097859",
+        "latitude": "2.115670227"
+    },
+    {
+        "region_id": "19",
+        "code": "19533",
+        "geoname_id": "19533000",
+        "region": "Cauca",
+        "name": "Piamonte",
+        "longitude": "-76.32576425",
+        "latitude": "1.117197782"
+    },
+    {
+        "region_id": "19",
+        "code": "19548",
+        "geoname_id": "19548000",
+        "region": "Cauca",
+        "name": "Piendamó - Tunía",
+        "longitude": "-76.52850592",
+        "latitude": "2.641987578"
+    },
+    {
+        "region_id": "19",
+        "code": "19573",
+        "geoname_id": "19573000",
+        "region": "Cauca",
+        "name": "Puerto Tejada",
+        "longitude": "-76.4173078",
+        "latitude": "3.233294127"
+    },
+    {
+        "region_id": "19",
+        "code": "19585",
+        "geoname_id": "19585000",
+        "region": "Cauca",
+        "name": "Puracé",
+        "longitude": "-76.49563894",
+        "latitude": "2.342644047"
+    },
+    {
+        "region_id": "19",
+        "code": "19622",
+        "geoname_id": "19622000",
+        "region": "Cauca",
+        "name": "Rosas",
+        "longitude": "-76.74035187",
+        "latitude": "2.260979699"
+    },
+    {
+        "region_id": "19",
+        "code": "19693",
+        "geoname_id": "19693000",
+        "region": "Cauca",
+        "name": "San Sebastián",
+        "longitude": "-76.7693316",
+        "latitude": "1.838373887"
+    },
+    {
+        "region_id": "19",
+        "code": "19698",
+        "geoname_id": "19698000",
+        "region": "Cauca",
+        "name": "Santander De Quilichao",
+        "longitude": "-76.48537029",
+        "latitude": "3.016053901"
+    },
+    {
+        "region_id": "19",
+        "code": "19701",
+        "geoname_id": "19701000",
+        "region": "Cauca",
+        "name": "Santa Rosa",
+        "longitude": "-76.57397297",
+        "latitude": "1.702420284"
+    },
+    {
+        "region_id": "19",
+        "code": "19743",
+        "geoname_id": "19743000",
+        "region": "Cauca",
+        "name": "Silvia",
+        "longitude": "-76.37957042",
+        "latitude": "2.611815645"
+    },
+    {
+        "region_id": "19",
+        "code": "19760",
+        "geoname_id": "19760000",
+        "region": "Cauca",
+        "name": "Sotara",
+        "longitude": "-76.61329815",
+        "latitude": "2.253134067"
+    },
+    {
+        "region_id": "19",
+        "code": "19780",
+        "geoname_id": "19780000",
+        "region": "Cauca",
+        "name": "Suárez",
+        "longitude": "-76.69344711",
+        "latitude": "2.959701537"
+    },
+    {
+        "region_id": "19",
+        "code": "19785",
+        "geoname_id": "19785000",
+        "region": "Cauca",
+        "name": "Sucre",
+        "longitude": "-76.92627731",
+        "latitude": "2.038251397"
+    },
+    {
+        "region_id": "19",
+        "code": "19807",
+        "geoname_id": "19807000",
+        "region": "Cauca",
+        "name": "Timbío",
+        "longitude": "-76.68423879",
+        "latitude": "2.349976425"
+    },
+    {
+        "region_id": "19",
+        "code": "19809",
+        "geoname_id": "19809000",
+        "region": "Cauca",
+        "name": "Timbiquí",
+        "longitude": "-77.66756524",
+        "latitude": "2.777413702"
+    },
+    {
+        "region_id": "19",
+        "code": "19821",
+        "geoname_id": "19821000",
+        "region": "Cauca",
+        "name": "Toribío",
+        "longitude": "-76.27112721",
+        "latitude": "2.951450409"
+    },
+    {
+        "region_id": "19",
+        "code": "19824",
+        "geoname_id": "19824000",
+        "region": "Cauca",
+        "name": "Totoró",
+        "longitude": "-76.40244251",
+        "latitude": "2.510229193"
+    },
+    {
+        "region_id": "19",
+        "code": "19845",
+        "geoname_id": "19845000",
+        "region": "Cauca",
+        "name": "Villa Rica",
+        "longitude": "-76.45787266",
+        "latitude": "3.177577926"
+    }
+  ]
+}

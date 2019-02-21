@@ -1,0 +1,151 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "23",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75.66667",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Quindío Department",
+    "fcl": "A",
+    "numberOfChildren": 12,
+    "name": "Quindío Department",
+    "fcode": "ADM1",
+    "geonameId": 3671087,
+    "lat": "4.5",
+    "adminName1": "Quindío",
+    "population": 534552
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "63",
+        "code": "63001",
+        "geoname_id": "63001000",
+        "region": "Quindío",
+        "name": "Armenia",
+        "longitude": "-75.68075076",
+        "latitude": "4.535989502"
+    },
+    {
+        "region_id": "63",
+        "code": "63111",
+        "geoname_id": "63111000",
+        "region": "Quindío",
+        "name": "Buenavista",
+        "longitude": "-75.73933006",
+        "latitude": "4.360325225"
+    },
+    {
+        "region_id": "63",
+        "code": "63130",
+        "geoname_id": "63130000",
+        "region": "Quindío",
+        "name": "Calarcá",
+        "longitude": "-75.64908836",
+        "latitude": "4.515281846"
+    },
+    {
+        "region_id": "63",
+        "code": "63190",
+        "geoname_id": "63190000",
+        "region": "Quindío",
+        "name": "Circasia",
+        "longitude": "-75.63652823",
+        "latitude": "4.617792043"
+    },
+    {
+        "region_id": "63",
+        "code": "63212",
+        "geoname_id": "63212000",
+        "region": "Quindío",
+        "name": "Córdoba",
+        "longitude": "-75.68786636",
+        "latitude": "4.392485449"
+    },
+    {
+        "region_id": "63",
+        "code": "63272",
+        "geoname_id": "63272000",
+        "region": "Quindío",
+        "name": "Filandia",
+        "longitude": "-75.65868588",
+        "latitude": "4.674145572"
+    },
+    {
+        "region_id": "63",
+        "code": "63302",
+        "geoname_id": "63302000",
+        "region": "Quindío",
+        "name": "Génova",
+        "longitude": "-75.78981661",
+        "latitude": "4.207477888"
+    },
+    {
+        "region_id": "63",
+        "code": "63401",
+        "geoname_id": "63401000",
+        "region": "Quindío",
+        "name": "La Tebaida",
+        "longitude": "-75.78646018",
+        "latitude": "4.453650416"
+    },
+    {
+        "region_id": "63",
+        "code": "63470",
+        "geoname_id": "63470000",
+        "region": "Quindío",
+        "name": "Montenegro",
+        "longitude": "-75.75181224",
+        "latitude": "4.562959743"
+    },
+    {
+        "region_id": "63",
+        "code": "63548",
+        "geoname_id": "63548000",
+        "region": "Quindío",
+        "name": "Pijao",
+        "longitude": "-75.703317",
+        "latitude": "4.33503789"
+    },
+    {
+        "region_id": "63",
+        "code": "63594",
+        "geoname_id": "63594000",
+        "region": "Quindío",
+        "name": "Quimbaya",
+        "longitude": "-75.7650742",
+        "latitude": "4.624386086"
+    },
+    {
+        "region_id": "63",
+        "code": "63690",
+        "geoname_id": "63690000",
+        "region": "Quindío",
+        "name": "Salento",
+        "longitude": "-75.57084419",
+        "latitude": "4.637156761"
+    }
+  ]
+}

@@ -1,2 +1,3 @@
 # API Cities of Colombia
-JSON files with the main cities in Colombia
+
+API JSON with the 33 departments and the 1101 municipalities of Colombia.

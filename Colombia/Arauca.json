@@ -1,0 +1,106 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "03",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-71",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Arauca",
+    "fcl": "A",
+    "numberOfChildren": 7,
+    "name": "Departamento de Arauca",
+    "fcode": "ADM1",
+    "geonameId": 3689717,
+    "lat": "6.66667",
+    "adminName1": "Arauca",
+    "population": 232118
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "81",
+        "code": "81001",
+        "geoname_id": "81001000",
+        "region": "Arauca",
+        "name": "Arauca",
+        "longitude": "-70.74635031",
+        "latitude": "7.077358544"
+    },
+    {
+        "region_id": "81",
+        "code": "81065",
+        "geoname_id": "81065000",
+        "region": "Arauca",
+        "name": "Arauquita",
+        "longitude": "-71.42675118",
+        "latitude": "7.026981415"
+    },
+    {
+        "region_id": "81",
+        "code": "81220",
+        "geoname_id": "81220000",
+        "region": "Arauca",
+        "name": "Cravo Norte",
+        "longitude": "-70.20428555",
+        "latitude": "6.303912752"
+    },
+    {
+        "region_id": "81",
+        "code": "81300",
+        "geoname_id": "81300000",
+        "region": "Arauca",
+        "name": "Fortul",
+        "longitude": "-71.7685578",
+        "latitude": "6.797075753"
+    },
+    {
+        "region_id": "81",
+        "code": "81591",
+        "geoname_id": "81591000",
+        "region": "Arauca",
+        "name": "Puerto Rondón",
+        "longitude": "-71.09774286",
+        "latitude": "6.283851501"
+    },
+    {
+        "region_id": "81",
+        "code": "81736",
+        "geoname_id": "81736000",
+        "region": "Arauca",
+        "name": "Saravena",
+        "longitude": "-71.87233343",
+        "latitude": "6.95385957"
+    },
+    {
+        "region_id": "81",
+        "code": "81794",
+        "geoname_id": "81794000",
+        "region": "Arauca",
+        "name": "Tame",
+        "longitude": "-71.75861086",
+        "latitude": "6.449379486"
+    }
+  ]
+}

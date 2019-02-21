@@ -1,0 +1,1150 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "36",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-73",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Boyacá",
+    "fcl": "A",
+    "numberOfChildren": 123,
+    "name": "Departamento de Boyacá",
+    "fcode": "ADM1",
+    "geonameId": 3688536,
+    "lat": "5.66667",
+    "adminName1": "Boyacá",
+    "population": 1255311
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "15",
+        "code": "15001",
+        "geoname_id": "15001000",
+        "region": "Boyacá",
+        "name": "Tunja",
+        "longitude": "-73.35548873",
+        "latitude": "5.539953238"
+    },
+    {
+        "region_id": "15",
+        "code": "15022",
+        "geoname_id": "15022000",
+        "region": "Boyacá",
+        "name": "Almeida",
+        "longitude": "-73.3789331",
+        "latitude": "4.970856509"
+    },
+    {
+        "region_id": "15",
+        "code": "15047",
+        "geoname_id": "15047000",
+        "region": "Boyacá",
+        "name": "Aquitania",
+        "longitude": "-72.88398481",
+        "latitude": "5.518603543"
+    },
+    {
+        "region_id": "15",
+        "code": "15051",
+        "geoname_id": "15051000",
+        "region": "Boyacá",
+        "name": "Arcabuco",
+        "longitude": "-73.43818476",
+        "latitude": "5.755184269"
+    },
+    {
+        "region_id": "15",
+        "code": "15087",
+        "geoname_id": "15087000",
+        "region": "Boyacá",
+        "name": "Belén",
+        "longitude": "-72.91161957",
+        "latitude": "5.989277861"
+    },
+    {
+        "region_id": "15",
+        "code": "15090",
+        "geoname_id": "15090000",
+        "region": "Boyacá",
+        "name": "Berbeo",
+        "longitude": "-73.12703215",
+        "latitude": "5.22728723"
+    },
+    {
+        "region_id": "15",
+        "code": "15092",
+        "geoname_id": "15092000",
+        "region": "Boyacá",
+        "name": "Betéitiva",
+        "longitude": "-72.8090312",
+        "latitude": "5.909907818"
+    },
+    {
+        "region_id": "15",
+        "code": "15097",
+        "geoname_id": "15097000",
+        "region": "Boyacá",
+        "name": "Boavita",
+        "longitude": "-72.5849594",
+        "latitude": "6.330652563"
+    },
+    {
+        "region_id": "15",
+        "code": "15104",
+        "geoname_id": "15104000",
+        "region": "Boyacá",
+        "name": "Boyacá",
+        "longitude": "-73.36230272",
+        "latitude": "5.454237164"
+    },
+    {
+        "region_id": "15",
+        "code": "15106",
+        "geoname_id": "15106000",
+        "region": "Boyacá",
+        "name": "Briceño",
+        "longitude": "-73.9232597",
+        "latitude": "5.690878897"
+    },
+    {
+        "region_id": "15",
+        "code": "15109",
+        "geoname_id": "15109000",
+        "region": "Boyacá",
+        "name": "Buenavista",
+        "longitude": "-73.94230522",
+        "latitude": "5.512431151"
+    },
+    {
+        "region_id": "15",
+        "code": "15114",
+        "geoname_id": "15114000",
+        "region": "Boyacá",
+        "name": "Busbanzá",
+        "longitude": "-72.88416175",
+        "latitude": "5.831389532"
+    },
+    {
+        "region_id": "15",
+        "code": "15131",
+        "geoname_id": "15131000",
+        "region": "Boyacá",
+        "name": "Caldas",
+        "longitude": "-73.865541",
+        "latitude": "5.554575079"
+    },
+    {
+        "region_id": "15",
+        "code": "15135",
+        "geoname_id": "15135000",
+        "region": "Boyacá",
+        "name": "Campohermoso",
+        "longitude": "-73.10416792",
+        "latitude": "5.031660681"
+    },
+    {
+        "region_id": "15",
+        "code": "15162",
+        "geoname_id": "15162000",
+        "region": "Boyacá",
+        "name": "Cerinza",
+        "longitude": "-72.94827585",
+        "latitude": "5.956028189"
+    },
+    {
+        "region_id": "15",
+        "code": "15172",
+        "geoname_id": "15172000",
+        "region": "Boyacá",
+        "name": "Chinavita",
+        "longitude": "-73.36847648",
+        "latitude": "5.167483821"
+    },
+    {
+        "region_id": "15",
+        "code": "15176",
+        "geoname_id": "15176000",
+        "region": "Boyacá",
+        "name": "Chiquinquirá",
+        "longitude": "-73.81838763",
+        "latitude": "5.61412789"
+    },
+    {
+        "region_id": "15",
+        "code": "15180",
+        "geoname_id": "15180000",
+        "region": "Boyacá",
+        "name": "Chiscas",
+        "longitude": "-72.50183507",
+        "latitude": "6.554050428"
+    },
+    {
+        "region_id": "15",
+        "code": "15183",
+        "geoname_id": "15183000",
+        "region": "Boyacá",
+        "name": "Chita",
+        "longitude": "-72.47189235",
+        "latitude": "6.187082996"
+    },
+    {
+        "region_id": "15",
+        "code": "15185",
+        "geoname_id": "15185000",
+        "region": "Boyacá",
+        "name": "Chitaraque",
+        "longitude": "-73.4471004",
+        "latitude": "6.027425133"
+    },
+    {
+        "region_id": "15",
+        "code": "15187",
+        "geoname_id": "15187000",
+        "region": "Boyacá",
+        "name": "Chivatá",
+        "longitude": "-73.28252944",
+        "latitude": "5.558948845"
+    },
+    {
+        "region_id": "15",
+        "code": "15189",
+        "geoname_id": "15189000",
+        "region": "Boyacá",
+        "name": "Ciénega",
+        "longitude": "-73.29606129",
+        "latitude": "5.408702192"
+    },
+    {
+        "region_id": "15",
+        "code": "15204",
+        "geoname_id": "15204000",
+        "region": "Boyacá",
+        "name": "Cómbita",
+        "longitude": "-73.32395641",
+        "latitude": "5.634545314"
+    },
+    {
+        "region_id": "15",
+        "code": "15212",
+        "geoname_id": "15212000",
+        "region": "Boyacá",
+        "name": "Coper",
+        "longitude": "-74.04546072",
+        "latitude": "5.474983018"
+    },
+    {
+        "region_id": "15",
+        "code": "15215",
+        "geoname_id": "15215000",
+        "region": "Boyacá",
+        "name": "Corrales",
+        "longitude": "-72.84479484",
+        "latitude": "5.828102208"
+    },
+    {
+        "region_id": "15",
+        "code": "15218",
+        "geoname_id": "15218000",
+        "region": "Boyacá",
+        "name": "Covarachía",
+        "longitude": "-72.73897793",
+        "latitude": "6.50017746"
+    },
+    {
+        "region_id": "15",
+        "code": "15223",
+        "geoname_id": "15223000",
+        "region": "Boyacá",
+        "name": "Cubará",
+        "longitude": "-72.11068776",
+        "latitude": "7.000092875"
+    },
+    {
+        "region_id": "15",
+        "code": "15224",
+        "geoname_id": "15224000",
+        "region": "Boyacá",
+        "name": "Cucaita",
+        "longitude": "-73.45433765",
+        "latitude": "5.544451559"
+    },
+    {
+        "region_id": "15",
+        "code": "15226",
+        "geoname_id": "15226000",
+        "region": "Boyacá",
+        "name": "Cuítiva",
+        "longitude": "-72.96592323",
+        "latitude": "5.58036723"
+    },
+    {
+        "region_id": "15",
+        "code": "15232",
+        "geoname_id": "15232000",
+        "region": "Boyacá",
+        "name": "Chíquiza",
+        "longitude": "-73.44946261",
+        "latitude": "5.639834305"
+    },
+    {
+        "region_id": "15",
+        "code": "15236",
+        "geoname_id": "15236000",
+        "region": "Boyacá",
+        "name": "Chivor",
+        "longitude": "-73.36689376",
+        "latitude": "4.887781661"
+    },
+    {
+        "region_id": "15",
+        "code": "15238",
+        "geoname_id": "15238000",
+        "region": "Boyacá",
+        "name": "Duitama",
+        "longitude": "-73.03060967",
+        "latitude": "5.82298568"
+    },
+    {
+        "region_id": "15",
+        "code": "15244",
+        "geoname_id": "15244000",
+        "region": "Boyacá",
+        "name": "El Cocuy",
+        "longitude": "-72.44472932",
+        "latitude": "6.407716232"
+    },
+    {
+        "region_id": "15",
+        "code": "15248",
+        "geoname_id": "15248000",
+        "region": "Boyacá",
+        "name": "El Espino",
+        "longitude": "-72.49700735",
+        "latitude": "6.483027406"
+    },
+    {
+        "region_id": "15",
+        "code": "15272",
+        "geoname_id": "15272000",
+        "region": "Boyacá",
+        "name": "Firavitoba",
+        "longitude": "-72.99336145",
+        "latitude": "5.66892216"
+    },
+    {
+        "region_id": "15",
+        "code": "15276",
+        "geoname_id": "15276000",
+        "region": "Boyacá",
+        "name": "Floresta",
+        "longitude": "-72.91811131",
+        "latitude": "5.859519124"
+    },
+    {
+        "region_id": "15",
+        "code": "15293",
+        "geoname_id": "15293000",
+        "region": "Boyacá",
+        "name": "Gachantivá",
+        "longitude": "-73.54909239",
+        "latitude": "5.751891082"
+    },
+    {
+        "region_id": "15",
+        "code": "15296",
+        "geoname_id": "15296000",
+        "region": "Boyacá",
+        "name": "Gámeza",
+        "longitude": "-72.80552935",
+        "latitude": "5.802337805"
+    },
+    {
+        "region_id": "15",
+        "code": "15299",
+        "geoname_id": "15299000",
+        "region": "Boyacá",
+        "name": "Garagoa",
+        "longitude": "-73.36442756",
+        "latitude": "5.083243463"
+    },
+    {
+        "region_id": "15",
+        "code": "15317",
+        "geoname_id": "15317000",
+        "region": "Boyacá",
+        "name": "Guacamayas",
+        "longitude": "-72.500812",
+        "latitude": "6.459666516"
+    },
+    {
+        "region_id": "15",
+        "code": "15322",
+        "geoname_id": "15322000",
+        "region": "Boyacá",
+        "name": "Guateque",
+        "longitude": "-73.47120697",
+        "latitude": "5.007320895"
+    },
+    {
+        "region_id": "15",
+        "code": "15325",
+        "geoname_id": "15325000",
+        "region": "Boyacá",
+        "name": "Guayatá",
+        "longitude": "-73.4896964",
+        "latitude": "4.967122531"
+    },
+    {
+        "region_id": "15",
+        "code": "15332",
+        "geoname_id": "15332000",
+        "region": "Boyacá",
+        "name": "Güicán De La Sierra",
+        "longitude": "-72.41176261",
+        "latitude": "6.462863755"
+    },
+    {
+        "region_id": "15",
+        "code": "15362",
+        "geoname_id": "15362000",
+        "region": "Boyacá",
+        "name": "Iza",
+        "longitude": "-72.98017623",
+        "latitude": "5.61169614"
+    },
+    {
+        "region_id": "15",
+        "code": "15367",
+        "geoname_id": "15367000",
+        "region": "Boyacá",
+        "name": "Jenesano",
+        "longitude": "-73.36373756",
+        "latitude": "5.385812845"
+    },
+    {
+        "region_id": "15",
+        "code": "15368",
+        "geoname_id": "15368000",
+        "region": "Boyacá",
+        "name": "Jericó",
+        "longitude": "-72.57072349",
+        "latitude": "6.145920383"
+    },
+    {
+        "region_id": "15",
+        "code": "15377",
+        "geoname_id": "15377000",
+        "region": "Boyacá",
+        "name": "Labranzagrande",
+        "longitude": "-72.57777012",
+        "latitude": "5.562687048"
+    },
+    {
+        "region_id": "15",
+        "code": "15380",
+        "geoname_id": "15380000",
+        "region": "Boyacá",
+        "name": "La Capilla",
+        "longitude": "-73.4443474",
+        "latitude": "5.095686992"
+    },
+    {
+        "region_id": "15",
+        "code": "15401",
+        "geoname_id": "15401000",
+        "region": "Boyacá",
+        "name": "La Victoria",
+        "longitude": "-74.23439322",
+        "latitude": "5.52379224"
+    },
+    {
+        "region_id": "15",
+        "code": "15403",
+        "geoname_id": "15403000",
+        "region": "Boyacá",
+        "name": "La Uvita",
+        "longitude": "-72.5599847",
+        "latitude": "6.316206406"
+    },
+    {
+        "region_id": "15",
+        "code": "15407",
+        "geoname_id": "15407000",
+        "region": "Boyacá",
+        "name": "Villa De Leyva",
+        "longitude": "-73.5246846",
+        "latitude": "5.632661849"
+    },
+    {
+        "region_id": "15",
+        "code": "15425",
+        "geoname_id": "15425000",
+        "region": "Boyacá",
+        "name": "Macanal",
+        "longitude": "-73.31964224",
+        "latitude": "4.972466063"
+    },
+    {
+        "region_id": "15",
+        "code": "15442",
+        "geoname_id": "15442000",
+        "region": "Boyacá",
+        "name": "Maripí",
+        "longitude": "-74.00404995",
+        "latitude": "5.55009071"
+    },
+    {
+        "region_id": "15",
+        "code": "15455",
+        "geoname_id": "15455000",
+        "region": "Boyacá",
+        "name": "Miraflores",
+        "longitude": "-73.14563048",
+        "latitude": "5.196515115"
+    },
+    {
+        "region_id": "15",
+        "code": "15464",
+        "geoname_id": "15464000",
+        "region": "Boyacá",
+        "name": "Mongua",
+        "longitude": "-72.79809049",
+        "latitude": "5.754242228"
+    },
+    {
+        "region_id": "15",
+        "code": "15466",
+        "geoname_id": "15466000",
+        "region": "Boyacá",
+        "name": "Monguí",
+        "longitude": "-72.84926001",
+        "latitude": "5.723404072"
+    },
+    {
+        "region_id": "15",
+        "code": "15469",
+        "geoname_id": "15469000",
+        "region": "Boyacá",
+        "name": "Moniquirá",
+        "longitude": "-73.57337039",
+        "latitude": "5.876334811"
+    },
+    {
+        "region_id": "15",
+        "code": "15476",
+        "geoname_id": "15476000",
+        "region": "Boyacá",
+        "name": "Motavita",
+        "longitude": "-73.36784105",
+        "latitude": "5.5776996"
+    },
+    {
+        "region_id": "15",
+        "code": "15480",
+        "geoname_id": "15480000",
+        "region": "Boyacá",
+        "name": "Muzo",
+        "longitude": "-74.10275078",
+        "latitude": "5.532462867"
+    },
+    {
+        "region_id": "15",
+        "code": "15491",
+        "geoname_id": "15491000",
+        "region": "Boyacá",
+        "name": "Nobsa",
+        "longitude": "-72.93985317",
+        "latitude": "5.771042624"
+    },
+    {
+        "region_id": "15",
+        "code": "15494",
+        "geoname_id": "15494000",
+        "region": "Boyacá",
+        "name": "Nuevo Colón",
+        "longitude": "-73.45713618",
+        "latitude": "5.355145864"
+    },
+    {
+        "region_id": "15",
+        "code": "15500",
+        "geoname_id": "15500000",
+        "region": "Boyacá",
+        "name": "Oicatá",
+        "longitude": "-73.30840398",
+        "latitude": "5.595234239"
+    },
+    {
+        "region_id": "15",
+        "code": "15507",
+        "geoname_id": "15507000",
+        "region": "Boyacá",
+        "name": "Otanche",
+        "longitude": "-74.18096474",
+        "latitude": "5.657535713"
+    },
+    {
+        "region_id": "15",
+        "code": "15511",
+        "geoname_id": "15511000",
+        "region": "Boyacá",
+        "name": "Pachavita",
+        "longitude": "-73.39695306",
+        "latitude": "5.140064731"
+    },
+    {
+        "region_id": "15",
+        "code": "15514",
+        "geoname_id": "15514000",
+        "region": "Boyacá",
+        "name": "Páez",
+        "longitude": "-73.05431038",
+        "latitude": "5.095234631"
+    },
+    {
+        "region_id": "15",
+        "code": "15516",
+        "geoname_id": "15516000",
+        "region": "Boyacá",
+        "name": "Paipa",
+        "longitude": "-73.11791688",
+        "latitude": "5.77994187"
+    },
+    {
+        "region_id": "15",
+        "code": "15518",
+        "geoname_id": "15518000",
+        "region": "Boyacá",
+        "name": "Pajarito",
+        "longitude": "-72.70320992",
+        "latitude": "5.293665206"
+    },
+    {
+        "region_id": "15",
+        "code": "15522",
+        "geoname_id": "15522000",
+        "region": "Boyacá",
+        "name": "Panqueba",
+        "longitude": "-72.45920027",
+        "latitude": "6.443075415"
+    },
+    {
+        "region_id": "15",
+        "code": "15531",
+        "geoname_id": "15531000",
+        "region": "Boyacá",
+        "name": "Pauna",
+        "longitude": "-73.97844872",
+        "latitude": "5.656322691"
+    },
+    {
+        "region_id": "15",
+        "code": "15533",
+        "geoname_id": "15533000",
+        "region": "Boyacá",
+        "name": "Paya",
+        "longitude": "-72.42377541",
+        "latitude": "5.625698707"
+    },
+    {
+        "region_id": "15",
+        "code": "15537",
+        "geoname_id": "15537000",
+        "region": "Boyacá",
+        "name": "Paz De Río",
+        "longitude": "-72.74913738",
+        "latitude": "5.987644906"
+    },
+    {
+        "region_id": "15",
+        "code": "15542",
+        "geoname_id": "15542000",
+        "region": "Boyacá",
+        "name": "Pesca",
+        "longitude": "-73.05087224",
+        "latitude": "5.558807609"
+    },
+    {
+        "region_id": "15",
+        "code": "15550",
+        "geoname_id": "15550000",
+        "region": "Boyacá",
+        "name": "Pisba",
+        "longitude": "-72.48594682",
+        "latitude": "5.721615112"
+    },
+    {
+        "region_id": "15",
+        "code": "15572",
+        "geoname_id": "15572000",
+        "region": "Boyacá",
+        "name": "Puerto Boyacá",
+        "longitude": "-74.58799919",
+        "latitude": "5.977934952"
+    },
+    {
+        "region_id": "15",
+        "code": "15580",
+        "geoname_id": "15580000",
+        "region": "Boyacá",
+        "name": "Quípama",
+        "longitude": "-74.17772939",
+        "latitude": "5.518370385"
+    },
+    {
+        "region_id": "15",
+        "code": "15599",
+        "geoname_id": "15599000",
+        "region": "Boyacá",
+        "name": "Ramiriquí",
+        "longitude": "-73.33486896",
+        "latitude": "5.400221644"
+    },
+    {
+        "region_id": "15",
+        "code": "15600",
+        "geoname_id": "15600000",
+        "region": "Boyacá",
+        "name": "Ráquira",
+        "longitude": "-73.63249716",
+        "latitude": "5.539065827"
+    },
+    {
+        "region_id": "15",
+        "code": "15621",
+        "geoname_id": "15621000",
+        "region": "Boyacá",
+        "name": "Rondón",
+        "longitude": "-73.20847397",
+        "latitude": "5.357400116"
+    },
+    {
+        "region_id": "15",
+        "code": "15632",
+        "geoname_id": "15632000",
+        "region": "Boyacá",
+        "name": "Saboyá",
+        "longitude": "-73.76466062",
+        "latitude": "5.697733432"
+    },
+    {
+        "region_id": "15",
+        "code": "15638",
+        "geoname_id": "15638000",
+        "region": "Boyacá",
+        "name": "Sáchica",
+        "longitude": "-73.54263447",
+        "latitude": "5.583592497"
+    },
+    {
+        "region_id": "15",
+        "code": "15646",
+        "geoname_id": "15646000",
+        "region": "Boyacá",
+        "name": "Samacá",
+        "longitude": "-73.48564359",
+        "latitude": "5.492314591"
+    },
+    {
+        "region_id": "15",
+        "code": "15660",
+        "geoname_id": "15660000",
+        "region": "Boyacá",
+        "name": "San Eduardo",
+        "longitude": "-73.077143",
+        "latitude": "5.22395594"
+    },
+    {
+        "region_id": "15",
+        "code": "15664",
+        "geoname_id": "15664000",
+        "region": "Boyacá",
+        "name": "San José De Pare",
+        "longitude": "-73.54537245",
+        "latitude": "6.018975771"
+    },
+    {
+        "region_id": "15",
+        "code": "15667",
+        "geoname_id": "15667000",
+        "region": "Boyacá",
+        "name": "San Luis De Gaceno",
+        "longitude": "-73.16835942",
+        "latitude": "4.819690447"
+    },
+    {
+        "region_id": "15",
+        "code": "15673",
+        "geoname_id": "15673000",
+        "region": "Boyacá",
+        "name": "San Mateo",
+        "longitude": "-72.55526421",
+        "latitude": "6.401683318"
+    },
+    {
+        "region_id": "15",
+        "code": "15676",
+        "geoname_id": "15676000",
+        "region": "Boyacá",
+        "name": "San Miguel De Sema",
+        "longitude": "-73.72200484",
+        "latitude": "5.518086388"
+    },
+    {
+        "region_id": "15",
+        "code": "15681",
+        "geoname_id": "15681000",
+        "region": "Boyacá",
+        "name": "San Pablo De Borbur",
+        "longitude": "-74.06996448",
+        "latitude": "5.650676396"
+    },
+    {
+        "region_id": "15",
+        "code": "15686",
+        "geoname_id": "15686000",
+        "region": "Boyacá",
+        "name": "Santana",
+        "longitude": "-73.48122632",
+        "latitude": "6.057413107"
+    },
+    {
+        "region_id": "15",
+        "code": "15690",
+        "geoname_id": "15690000",
+        "region": "Boyacá",
+        "name": "Santa María",
+        "longitude": "-73.26351766",
+        "latitude": "4.857192995"
+    },
+    {
+        "region_id": "15",
+        "code": "15693",
+        "geoname_id": "15693000",
+        "region": "Boyacá",
+        "name": "Santa Rosa De Viterbo",
+        "longitude": "-72.98246092",
+        "latitude": "5.874555597"
+    },
+    {
+        "region_id": "15",
+        "code": "15696",
+        "geoname_id": "15696000",
+        "region": "Boyacá",
+        "name": "Santa Sofía",
+        "longitude": "-73.60270717",
+        "latitude": "5.713269421"
+    },
+    {
+        "region_id": "15",
+        "code": "15720",
+        "geoname_id": "15720000",
+        "region": "Boyacá",
+        "name": "Sativanorte",
+        "longitude": "-72.70845816",
+        "latitude": "6.131136111"
+    },
+    {
+        "region_id": "15",
+        "code": "15723",
+        "geoname_id": "15723000",
+        "region": "Boyacá",
+        "name": "Sativasur",
+        "longitude": "-72.71243808",
+        "latitude": "6.093182343"
+    },
+    {
+        "region_id": "15",
+        "code": "15740",
+        "geoname_id": "15740000",
+        "region": "Boyacá",
+        "name": "Siachoque",
+        "longitude": "-73.24464901",
+        "latitude": "5.511815055"
+    },
+    {
+        "region_id": "15",
+        "code": "15753",
+        "geoname_id": "15753000",
+        "region": "Boyacá",
+        "name": "Soatá",
+        "longitude": "-72.68402498",
+        "latitude": "6.331911937"
+    },
+    {
+        "region_id": "15",
+        "code": "15755",
+        "geoname_id": "15755000",
+        "region": "Boyacá",
+        "name": "Socotá",
+        "longitude": "-72.63665338",
+        "latitude": "6.041161833"
+    },
+    {
+        "region_id": "15",
+        "code": "15757",
+        "geoname_id": "15757000",
+        "region": "Boyacá",
+        "name": "Socha",
+        "longitude": "-72.69196586",
+        "latitude": "5.996713021"
+    },
+    {
+        "region_id": "15",
+        "code": "15759",
+        "geoname_id": "15759000",
+        "region": "Boyacá",
+        "name": "Sogamoso",
+        "longitude": "-72.92304769",
+        "latitude": "5.72568939"
+    },
+    {
+        "region_id": "15",
+        "code": "15761",
+        "geoname_id": "15761000",
+        "region": "Boyacá",
+        "name": "Somondoco",
+        "longitude": "-73.43339298",
+        "latitude": "4.985725507"
+    },
+    {
+        "region_id": "15",
+        "code": "15762",
+        "geoname_id": "15762000",
+        "region": "Boyacá",
+        "name": "Sora",
+        "longitude": "-73.45015278",
+        "latitude": "5.566839797"
+    },
+    {
+        "region_id": "15",
+        "code": "15763",
+        "geoname_id": "15763000",
+        "region": "Boyacá",
+        "name": "Sotaquirá",
+        "longitude": "-73.24733448",
+        "latitude": "5.765230774"
+    },
+    {
+        "region_id": "15",
+        "code": "15764",
+        "geoname_id": "15764000",
+        "region": "Boyacá",
+        "name": "Soracá",
+        "longitude": "-73.33280563",
+        "latitude": "5.500904831"
+    },
+    {
+        "region_id": "15",
+        "code": "15774",
+        "geoname_id": "15774000",
+        "region": "Boyacá",
+        "name": "Susacón",
+        "longitude": "-72.69028925",
+        "latitude": "6.230332074"
+    },
+    {
+        "region_id": "15",
+        "code": "15776",
+        "geoname_id": "15776000",
+        "region": "Boyacá",
+        "name": "Sutamarchán",
+        "longitude": "-73.6205861",
+        "latitude": "5.619781419"
+    },
+    {
+        "region_id": "15",
+        "code": "15778",
+        "geoname_id": "15778000",
+        "region": "Boyacá",
+        "name": "Sutatenza",
+        "longitude": "-73.45231714",
+        "latitude": "5.022988994"
+    },
+    {
+        "region_id": "15",
+        "code": "15790",
+        "geoname_id": "15790000",
+        "region": "Boyacá",
+        "name": "Tasco",
+        "longitude": "-72.78101116",
+        "latitude": "5.909821031"
+    },
+    {
+        "region_id": "15",
+        "code": "15798",
+        "geoname_id": "15798000",
+        "region": "Boyacá",
+        "name": "Tenza",
+        "longitude": "-73.42058911",
+        "latitude": "5.077074351"
+    },
+    {
+        "region_id": "15",
+        "code": "15804",
+        "geoname_id": "15804000",
+        "region": "Boyacá",
+        "name": "Tibaná",
+        "longitude": "-73.39645722",
+        "latitude": "5.317250924"
+    },
+    {
+        "region_id": "15",
+        "code": "15806",
+        "geoname_id": "15806000",
+        "region": "Boyacá",
+        "name": "Tibasosa",
+        "longitude": "-72.99944921",
+        "latitude": "5.747229977"
+    },
+    {
+        "region_id": "15",
+        "code": "15808",
+        "geoname_id": "15808000",
+        "region": "Boyacá",
+        "name": "Tinjacá",
+        "longitude": "-73.64684734",
+        "latitude": "5.57971331"
+    },
+    {
+        "region_id": "15",
+        "code": "15810",
+        "geoname_id": "15810000",
+        "region": "Boyacá",
+        "name": "Tipacoque",
+        "longitude": "-72.69317268",
+        "latitude": "6.418585803"
+    },
+    {
+        "region_id": "15",
+        "code": "15814",
+        "geoname_id": "15814000",
+        "region": "Boyacá",
+        "name": "Toca",
+        "longitude": "-73.18479034",
+        "latitude": "5.56646915"
+    },
+    {
+        "region_id": "15",
+        "code": "15816",
+        "geoname_id": "15816000",
+        "region": "Boyacá",
+        "name": "Togüí",
+        "longitude": "-73.51365506",
+        "latitude": "5.937438225"
+    },
+    {
+        "region_id": "15",
+        "code": "15820",
+        "geoname_id": "15820000",
+        "region": "Boyacá",
+        "name": "Tópaga",
+        "longitude": "-72.83224493",
+        "latitude": "5.768201449"
+    },
+    {
+        "region_id": "15",
+        "code": "15822",
+        "geoname_id": "15822000",
+        "region": "Boyacá",
+        "name": "Tota",
+        "longitude": "-72.98589814",
+        "latitude": "5.560497374"
+    },
+    {
+        "region_id": "15",
+        "code": "15832",
+        "geoname_id": "15832000",
+        "region": "Boyacá",
+        "name": "Tununguá",
+        "longitude": "-73.9331548",
+        "latitude": "5.730582208"
+    },
+    {
+        "region_id": "15",
+        "code": "15835",
+        "geoname_id": "15835000",
+        "region": "Boyacá",
+        "name": "Turmequé",
+        "longitude": "-73.49184702",
+        "latitude": "5.323252768"
+    },
+    {
+        "region_id": "15",
+        "code": "15837",
+        "geoname_id": "15837000",
+        "region": "Boyacá",
+        "name": "Tuta",
+        "longitude": "-73.22597294",
+        "latitude": "5.690968244"
+    },
+    {
+        "region_id": "15",
+        "code": "15839",
+        "geoname_id": "15839000",
+        "region": "Boyacá",
+        "name": "Tutazá",
+        "longitude": "-72.85603548",
+        "latitude": "6.032607903"
+    },
+    {
+        "region_id": "15",
+        "code": "15842",
+        "geoname_id": "15842000",
+        "region": "Boyacá",
+        "name": "Úmbita",
+        "longitude": "-73.45691657",
+        "latitude": "5.221176201"
+    },
+    {
+        "region_id": "15",
+        "code": "15861",
+        "geoname_id": "15861000",
+        "region": "Boyacá",
+        "name": "Ventaquemada",
+        "longitude": "-73.52237325",
+        "latitude": "5.368733979"
+    },
+    {
+        "region_id": "15",
+        "code": "15879",
+        "geoname_id": "15879000",
+        "region": "Boyacá",
+        "name": "Viracachá",
+        "longitude": "-73.29689965",
+        "latitude": "5.436788535"
+    },
+    {
+        "region_id": "15",
+        "code": "15897",
+        "geoname_id": "15897000",
+        "region": "Boyacá",
+        "name": "Zetaquira",
+        "longitude": "-73.16905201",
+        "latitude": "5.282116052"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "30",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-70.75",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Vaupés",
+    "fcl": "A",
+    "numberOfChildren": 6,
+    "name": "Departamento del Vaupés",
+    "fcode": "ADM1",
+    "geonameId": 3666254,
+    "lat": "0.75",
+    "adminName1": "Vaupés",
+    "population": 39279
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "97",
+        "code": "97001",
+        "geoname_id": "97001000",
+        "region": "Vaupés",
+        "name": "Mitú",
+        "longitude": "-70.23475052",
+        "latitude": "1.251190563"
+    },
+    {
+        "region_id": "97",
+        "code": "97161",
+        "geoname_id": "97161000",
+        "region": "Vaupés",
+        "name": "Carurú",
+        "longitude": "-71.29779326",
+        "latitude": "1.014597709"
+    },
+    {
+        "region_id": "97",
+        "code": "97666",
+        "geoname_id": "97666000",
+        "region": "Vaupés",
+        "name": "Taraira",
+        "longitude": "-69.63900366",
+        "latitude": "-0.56938554"
+    }
+  ]
+}

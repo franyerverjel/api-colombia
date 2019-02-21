@@ -1,0 +1,313 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "11",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-77",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Chocó",
+    "fcl": "A",
+    "numberOfChildren": 30,
+    "name": "Departamento del Chocó",
+    "fcode": "ADM1",
+    "geonameId": 3686431,
+    "lat": "6",
+    "adminName1": "Chocó",
+    "population": 454030
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "27",
+        "code": "27001",
+        "geoname_id": "27001000",
+        "region": "Chocó",
+        "name": "Quibdó",
+        "longitude": "-76.62596936",
+        "latitude": "5.692195187"
+    },
+    {
+        "region_id": "27",
+        "code": "27006",
+        "geoname_id": "27006000",
+        "region": "Chocó",
+        "name": "Acandí",
+        "longitude": "-77.28009788",
+        "latitude": "8.511405952"
+    },
+    {
+        "region_id": "27",
+        "code": "27025",
+        "geoname_id": "27025000",
+        "region": "Chocó",
+        "name": "Alto Baudó",
+        "longitude": "-76.97439919",
+        "latitude": "5.516309869"
+    },
+    {
+        "region_id": "27",
+        "code": "27050",
+        "geoname_id": "27050000",
+        "region": "Chocó",
+        "name": "Atrato",
+        "longitude": "-76.63503746",
+        "latitude": "5.531373511"
+    },
+    {
+        "region_id": "27",
+        "code": "27073",
+        "geoname_id": "27073000",
+        "region": "Chocó",
+        "name": "Bagadó",
+        "longitude": "-76.41529299",
+        "latitude": "5.41055496"
+    },
+    {
+        "region_id": "27",
+        "code": "27075",
+        "geoname_id": "27075000",
+        "region": "Chocó",
+        "name": "Bahía Solano",
+        "longitude": "-77.40275035",
+        "latitude": "6.22224546"
+    },
+    {
+        "region_id": "27",
+        "code": "27077",
+        "geoname_id": "27077000",
+        "region": "Chocó",
+        "name": "Bajo Baudó",
+        "longitude": "-77.36540999",
+        "latitude": "4.954626672"
+    },
+    {
+        "region_id": "27",
+        "code": "27099",
+        "geoname_id": "27099000",
+        "region": "Chocó",
+        "name": "Bojayá",
+        "longitude": "-76.88346949",
+        "latitude": "6.556257444"
+    },
+    {
+        "region_id": "27",
+        "code": "27135",
+        "geoname_id": "27135000",
+        "region": "Chocó",
+        "name": "El Cantón Del San Pablo",
+        "longitude": "-76.72685005",
+        "latitude": "5.33533532"
+    },
+    {
+        "region_id": "27",
+        "code": "27150",
+        "geoname_id": "27150000",
+        "region": "Chocó",
+        "name": "Carmen Del Darién",
+        "longitude": "-76.97071697",
+        "latitude": "7.158402966"
+    },
+    {
+        "region_id": "27",
+        "code": "27160",
+        "geoname_id": "27160000",
+        "region": "Chocó",
+        "name": "Cértegui",
+        "longitude": "-76.60802121",
+        "latitude": "5.37041379"
+    },
+    {
+        "region_id": "27",
+        "code": "27205",
+        "geoname_id": "27205000",
+        "region": "Chocó",
+        "name": "Condoto",
+        "longitude": "-76.65068266",
+        "latitude": "5.091003208"
+    },
+    {
+        "region_id": "27",
+        "code": "27245",
+        "geoname_id": "27245000",
+        "region": "Chocó",
+        "name": "El Carmen De Atrato",
+        "longitude": "-76.14222986",
+        "latitude": "5.899751361"
+    },
+    {
+        "region_id": "27",
+        "code": "27250",
+        "geoname_id": "27250000",
+        "region": "Chocó",
+        "name": "El Litoral Del San Juan",
+        "longitude": "-77.35983784",
+        "latitude": "4.256766706"
+    },
+    {
+        "region_id": "27",
+        "code": "27361",
+        "geoname_id": "27361000",
+        "region": "Chocó",
+        "name": "Istmina",
+        "longitude": "-76.68518032",
+        "latitude": "5.153946496"
+    },
+    {
+        "region_id": "27",
+        "code": "27372",
+        "geoname_id": "27372000",
+        "region": "Chocó",
+        "name": "Juradó",
+        "longitude": "-77.76275092",
+        "latitude": "7.103619083"
+    },
+    {
+        "region_id": "27",
+        "code": "27413",
+        "geoname_id": "27413000",
+        "region": "Chocó",
+        "name": "Lloró",
+        "longitude": "-76.54521063",
+        "latitude": "5.498150801"
+    },
+    {
+        "region_id": "27",
+        "code": "27425",
+        "geoname_id": "27425000",
+        "region": "Chocó",
+        "name": "Medio Atrato",
+        "longitude": "-76.78241422",
+        "latitude": "5.994835471"
+    },
+    {
+        "region_id": "27",
+        "code": "27430",
+        "geoname_id": "27430000",
+        "region": "Chocó",
+        "name": "Medio Baudó",
+        "longitude": "-76.94960604",
+        "latitude": "5.193563954"
+    },
+    {
+        "region_id": "27",
+        "code": "27450",
+        "geoname_id": "27450000",
+        "region": "Chocó",
+        "name": "Medio San Juan",
+        "longitude": "-76.69335794",
+        "latitude": "5.100240747"
+    },
+    {
+        "region_id": "27",
+        "code": "27491",
+        "geoname_id": "27491000",
+        "region": "Chocó",
+        "name": "Nóvita",
+        "longitude": "-76.60711814",
+        "latitude": "4.956097009"
+    },
+    {
+        "region_id": "27",
+        "code": "27495",
+        "geoname_id": "27495000",
+        "region": "Chocó",
+        "name": "Nuquí",
+        "longitude": "-77.26290346",
+        "latitude": "5.711957236"
+    },
+    {
+        "region_id": "27",
+        "code": "27580",
+        "geoname_id": "27580000",
+        "region": "Chocó",
+        "name": "Río Iró",
+        "longitude": "-76.47292479",
+        "latitude": "5.186299794"
+    },
+    {
+        "region_id": "27",
+        "code": "27600",
+        "geoname_id": "27600000",
+        "region": "Chocó",
+        "name": "Río Quito",
+        "longitude": "-76.74101656",
+        "latitude": "5.483727751"
+    },
+    {
+        "region_id": "27",
+        "code": "27615",
+        "geoname_id": "27615000",
+        "region": "Chocó",
+        "name": "Riosucio",
+        "longitude": "-77.11310959",
+        "latitude": "7.436631552"
+    },
+    {
+        "region_id": "27",
+        "code": "27660",
+        "geoname_id": "27660000",
+        "region": "Chocó",
+        "name": "San José Del Palmar",
+        "longitude": "-76.23284882",
+        "latitude": "4.89759308"
+    },
+    {
+        "region_id": "27",
+        "code": "27745",
+        "geoname_id": "27745000",
+        "region": "Chocó",
+        "name": "Sipí",
+        "longitude": "-76.64440389",
+        "latitude": "4.651204152"
+    },
+    {
+        "region_id": "27",
+        "code": "27787",
+        "geoname_id": "27787000",
+        "region": "Chocó",
+        "name": "Tadó",
+        "longitude": "-76.55876602",
+        "latitude": "5.264139949"
+    },
+    {
+        "region_id": "27",
+        "code": "27800",
+        "geoname_id": "27800000",
+        "region": "Chocó",
+        "name": "Unguía",
+        "longitude": "-77.09175303",
+        "latitude": "8.042760782"
+    },
+    {
+        "region_id": "27",
+        "code": "27810",
+        "geoname_id": "27810000",
+        "region": "Chocó",
+        "name": "Unión Panamericana",
+        "longitude": "-76.62840607",
+        "latitude": "5.281095852"
+    }
+  ]
+}

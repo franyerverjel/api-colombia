@@ -1,0 +1,457 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "35",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-74.33333",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Bolívar",
+    "fcl": "A",
+    "numberOfChildren": 46,
+    "name": "Departamento de Bolívar",
+    "fcode": "ADM1",
+    "geonameId": 3688650,
+    "lat": "9",
+    "adminName1": "Bolívar",
+    "population": 2049083
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "13",
+        "code": "13001",
+        "geoname_id": "13001000",
+        "region": "Bolívar",
+        "name": "Cartagena De Indias",
+        "longitude": "-75.49643103",
+        "latitude": "10.38498552"
+    },
+    {
+        "region_id": "13",
+        "code": "13006",
+        "geoname_id": "13006000",
+        "region": "Bolívar",
+        "name": "Achí",
+        "longitude": "-74.55706395",
+        "latitude": "8.569110393"
+    },
+    {
+        "region_id": "13",
+        "code": "13030",
+        "geoname_id": "13030000",
+        "region": "Bolívar",
+        "name": "Altos Del Rosario",
+        "longitude": "-74.16504945",
+        "latitude": "8.791606399"
+    },
+    {
+        "region_id": "13",
+        "code": "13042",
+        "geoname_id": "13042000",
+        "region": "Bolívar",
+        "name": "Arenal",
+        "longitude": "-73.94111583",
+        "latitude": "8.458630438"
+    },
+    {
+        "region_id": "13",
+        "code": "13052",
+        "geoname_id": "13052000",
+        "region": "Bolívar",
+        "name": "Arjona",
+        "longitude": "-75.34448845",
+        "latitude": "10.25663152"
+    },
+    {
+        "region_id": "13",
+        "code": "13062",
+        "geoname_id": "13062000",
+        "region": "Bolívar",
+        "name": "Arroyohondo",
+        "longitude": "-75.01719268",
+        "latitude": "10.24279848"
+    },
+    {
+        "region_id": "13",
+        "code": "13074",
+        "geoname_id": "13074000",
+        "region": "Bolívar",
+        "name": "Barranco De Loba",
+        "longitude": "-74.10522428",
+        "latitude": "8.947730158"
+    },
+    {
+        "region_id": "13",
+        "code": "13140",
+        "geoname_id": "13140000",
+        "region": "Bolívar",
+        "name": "Calamar",
+        "longitude": "-74.91362928",
+        "latitude": "10.25196336"
+    },
+    {
+        "region_id": "13",
+        "code": "13160",
+        "geoname_id": "13160000",
+        "region": "Bolívar",
+        "name": "Cantagallo",
+        "longitude": "-73.91465024",
+        "latitude": "7.3783156"
+    },
+    {
+        "region_id": "13",
+        "code": "13188",
+        "geoname_id": "13188000",
+        "region": "Bolívar",
+        "name": "Cicuco",
+        "longitude": "-74.64549419",
+        "latitude": "9.274745598"
+    },
+    {
+        "region_id": "13",
+        "code": "13212",
+        "geoname_id": "13212000",
+        "region": "Bolívar",
+        "name": "Córdoba",
+        "longitude": "-74.82746263",
+        "latitude": "9.586907918"
+    },
+    {
+        "region_id": "13",
+        "code": "13222",
+        "geoname_id": "13222000",
+        "region": "Bolívar",
+        "name": "Clemencia",
+        "longitude": "-75.32851201",
+        "latitude": "10.56754177"
+    },
+    {
+        "region_id": "13",
+        "code": "13244",
+        "geoname_id": "13244000",
+        "region": "Bolívar",
+        "name": "El Carmen De Bolívar",
+        "longitude": "-75.12121573",
+        "latitude": "9.718579864"
+    },
+    {
+        "region_id": "13",
+        "code": "13248",
+        "geoname_id": "13248000",
+        "region": "Bolívar",
+        "name": "El Guamo",
+        "longitude": "-74.97611357",
+        "latitude": "10.03091298"
+    },
+    {
+        "region_id": "13",
+        "code": "13268",
+        "geoname_id": "13268000",
+        "region": "Bolívar",
+        "name": "El Peñón",
+        "longitude": "-73.9494155",
+        "latitude": "8.988219476"
+    },
+    {
+        "region_id": "13",
+        "code": "13300",
+        "geoname_id": "13300000",
+        "region": "Bolívar",
+        "name": "Hatillo De Loba",
+        "longitude": "-74.07836471",
+        "latitude": "8.955614891"
+    },
+    {
+        "region_id": "13",
+        "code": "13430",
+        "geoname_id": "13430000",
+        "region": "Bolívar",
+        "name": "Magangué",
+        "longitude": "-74.77017457",
+        "latitude": "9.268563794"
+    },
+    {
+        "region_id": "13",
+        "code": "13433",
+        "geoname_id": "13433000",
+        "region": "Bolívar",
+        "name": "Mahates",
+        "longitude": "-75.19133659",
+        "latitude": "10.23325452"
+    },
+    {
+        "region_id": "13",
+        "code": "13440",
+        "geoname_id": "13440000",
+        "region": "Bolívar",
+        "name": "Margarita",
+        "longitude": "-74.28082176",
+        "latitude": "9.155550472"
+    },
+    {
+        "region_id": "13",
+        "code": "13442",
+        "geoname_id": "13442000",
+        "region": "Bolívar",
+        "name": "María La Baja",
+        "longitude": "-75.30075935",
+        "latitude": "9.982645517"
+    },
+    {
+        "region_id": "13",
+        "code": "13458",
+        "geoname_id": "13458000",
+        "region": "Bolívar",
+        "name": "Montecristo",
+        "longitude": "-74.47170385",
+        "latitude": "8.297136275"
+    },
+    {
+        "region_id": "13",
+        "code": "13468",
+        "geoname_id": "13468000",
+        "region": "Bolívar",
+        "name": "Mompós",
+        "longitude": "-74.42786642",
+        "latitude": "9.243883757"
+    },
+    {
+        "region_id": "13",
+        "code": "13473",
+        "geoname_id": "13473000",
+        "region": "Bolívar",
+        "name": "Morales",
+        "longitude": "-73.86814048",
+        "latitude": "8.276306771"
+    },
+    {
+        "region_id": "13",
+        "code": "13490",
+        "geoname_id": "13490000",
+        "region": "Bolívar",
+        "name": "Norosí",
+        "longitude": "-74.03805913",
+        "latitude": "8.525980787"
+    },
+    {
+        "region_id": "13",
+        "code": "13549",
+        "geoname_id": "13549000",
+        "region": "Bolívar",
+        "name": "Pinillos",
+        "longitude": "-74.46240354",
+        "latitude": "8.915452234"
+    },
+    {
+        "region_id": "13",
+        "code": "13580",
+        "geoname_id": "13580000",
+        "region": "Bolívar",
+        "name": "Regidor",
+        "longitude": "-73.82163802",
+        "latitude": "8.666257728"
+    },
+    {
+        "region_id": "13",
+        "code": "13600",
+        "geoname_id": "13600000",
+        "region": "Bolívar",
+        "name": "Río Viejo",
+        "longitude": "-73.83994549",
+        "latitude": "8.587627712"
+    },
+    {
+        "region_id": "13",
+        "code": "13620",
+        "geoname_id": "13620000",
+        "region": "Bolívar",
+        "name": "San Cristóbal",
+        "longitude": "-75.06553417",
+        "latitude": "10.39285577"
+    },
+    {
+        "region_id": "13",
+        "code": "13647",
+        "geoname_id": "13647000",
+        "region": "Bolívar",
+        "name": "San Estanislao",
+        "longitude": "-75.15325792",
+        "latitude": "10.3984757"
+    },
+    {
+        "region_id": "13",
+        "code": "13650",
+        "geoname_id": "13650000",
+        "region": "Bolívar",
+        "name": "San Fernando",
+        "longitude": "-74.32386665",
+        "latitude": "9.214179065"
+    },
+    {
+        "region_id": "13",
+        "code": "13654",
+        "geoname_id": "13654000",
+        "region": "Bolívar",
+        "name": "San Jacinto",
+        "longitude": "-75.1210888",
+        "latitude": "9.830219073"
+    },
+    {
+        "region_id": "13",
+        "code": "13655",
+        "geoname_id": "13655000",
+        "region": "Bolívar",
+        "name": "San Jacinto Del Cauca",
+        "longitude": "-74.72082643",
+        "latitude": "8.251739321"
+    },
+    {
+        "region_id": "13",
+        "code": "13657",
+        "geoname_id": "13657000",
+        "region": "Bolívar",
+        "name": "San Juan Nepomuceno",
+        "longitude": "-75.08135293",
+        "latitude": "9.953454388"
+    },
+    {
+        "region_id": "13",
+        "code": "13667",
+        "geoname_id": "13667000",
+        "region": "Bolívar",
+        "name": "San Martín De Loba",
+        "longitude": "-74.03901175",
+        "latitude": "8.937090811"
+    },
+    {
+        "region_id": "13",
+        "code": "13670",
+        "geoname_id": "13670000",
+        "region": "Bolívar",
+        "name": "San Pablo",
+        "longitude": "-73.92416855",
+        "latitude": "7.476720672"
+    },
+    {
+        "region_id": "13",
+        "code": "13673",
+        "geoname_id": "13673000",
+        "region": "Bolívar",
+        "name": "Santa Catalina",
+        "longitude": "-75.28776411",
+        "latitude": "10.60505605"
+    },
+    {
+        "region_id": "13",
+        "code": "13683",
+        "geoname_id": "13683000",
+        "region": "Bolívar",
+        "name": "Santa Rosa",
+        "longitude": "-75.36983166",
+        "latitude": "10.44439608"
+    },
+    {
+        "region_id": "13",
+        "code": "13688",
+        "geoname_id": "13688000",
+        "region": "Bolívar",
+        "name": "Santa Rosa Del Sur",
+        "longitude": "-74.05284001",
+        "latitude": "7.962854831"
+    },
+    {
+        "region_id": "13",
+        "code": "13744",
+        "geoname_id": "13744000",
+        "region": "Bolívar",
+        "name": "Simití",
+        "longitude": "-73.94731196",
+        "latitude": "7.954176376"
+    },
+    {
+        "region_id": "13",
+        "code": "13760",
+        "geoname_id": "13760000",
+        "region": "Bolívar",
+        "name": "Soplaviento",
+        "longitude": "-75.13642551",
+        "latitude": "10.38845743"
+    },
+    {
+        "region_id": "13",
+        "code": "13780",
+        "geoname_id": "13780000",
+        "region": "Bolívar",
+        "name": "Talaigua Nuevo",
+        "longitude": "-74.56762806",
+        "latitude": "9.304889329"
+    },
+    {
+        "region_id": "13",
+        "code": "13810",
+        "geoname_id": "13810000",
+        "region": "Bolívar",
+        "name": "Tiquisio",
+        "longitude": "-74.26354688",
+        "latitude": "8.557741117"
+    },
+    {
+        "region_id": "13",
+        "code": "13836",
+        "geoname_id": "13836000",
+        "region": "Bolívar",
+        "name": "Turbaco",
+        "longitude": "-75.42440917",
+        "latitude": "10.33276916"
+    },
+    {
+        "region_id": "13",
+        "code": "13838",
+        "geoname_id": "13838000",
+        "region": "Bolívar",
+        "name": "Turbaná",
+        "longitude": "-75.44250247",
+        "latitude": "10.27440205"
+    },
+    {
+        "region_id": "13",
+        "code": "13873",
+        "geoname_id": "13873000",
+        "region": "Bolívar",
+        "name": "Villanueva",
+        "longitude": "-75.27475439",
+        "latitude": "10.44449833"
+    },
+    {
+        "region_id": "13",
+        "code": "13894",
+        "geoname_id": "13894000",
+        "region": "Bolívar",
+        "name": "Zambrano",
+        "longitude": "-74.8138396",
+        "latitude": "9.7469139"
+    }
+  ]
+}

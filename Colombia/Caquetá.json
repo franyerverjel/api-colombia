@@ -1,0 +1,187 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "08",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-74",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Caquetá",
+    "fcl": "A",
+    "numberOfChildren": 16,
+    "name": "Departamento del Caquetá",
+    "fcode": "ADM1",
+    "geonameId": 3687479,
+    "lat": "0.75",
+    "adminName1": "Caquetá",
+    "population": 420337
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "18",
+        "code": "18001",
+        "geoname_id": "18001000",
+        "region": "Caquetá",
+        "name": "Florencia",
+        "longitude": "-75.60856043",
+        "latitude": "1.61792293"
+    },
+    {
+        "region_id": "18",
+        "code": "18029",
+        "geoname_id": "18029000",
+        "region": "Caquetá",
+        "name": "Albania",
+        "longitude": "-75.87837054",
+        "latitude": "1.328522088"
+    },
+    {
+        "region_id": "18",
+        "code": "18094",
+        "geoname_id": "18094000",
+        "region": "Caquetá",
+        "name": "Belén De Los Andaquíes",
+        "longitude": "-75.87247395",
+        "latitude": "1.415786446"
+    },
+    {
+        "region_id": "18",
+        "code": "18150",
+        "geoname_id": "18150000",
+        "region": "Caquetá",
+        "name": "Cartagena Del Chairá",
+        "longitude": "-74.84719837",
+        "latitude": "1.335134955"
+    },
+    {
+        "region_id": "18",
+        "code": "18205",
+        "geoname_id": "18205000",
+        "region": "Caquetá",
+        "name": "Curillo",
+        "longitude": "-75.91920435",
+        "latitude": "1.033473748"
+    },
+    {
+        "region_id": "18",
+        "code": "18247",
+        "geoname_id": "18247000",
+        "region": "Caquetá",
+        "name": "El Doncello",
+        "longitude": "-75.28356287",
+        "latitude": "1.679872476"
+    },
+    {
+        "region_id": "18",
+        "code": "18256",
+        "geoname_id": "18256000",
+        "region": "Caquetá",
+        "name": "El Paujíl",
+        "longitude": "-75.32612346",
+        "latitude": "1.570373283"
+    },
+    {
+        "region_id": "18",
+        "code": "18410",
+        "geoname_id": "18410000",
+        "region": "Caquetá",
+        "name": "La Montañita",
+        "longitude": "-75.43640776",
+        "latitude": "1.479172635"
+    },
+    {
+        "region_id": "18",
+        "code": "18460",
+        "geoname_id": "18460000",
+        "region": "Caquetá",
+        "name": "Milán",
+        "longitude": "-75.50696203",
+        "latitude": "1.290427202"
+    },
+    {
+        "region_id": "18",
+        "code": "18479",
+        "geoname_id": "18479000",
+        "region": "Caquetá",
+        "name": "Morelia",
+        "longitude": "-75.7245814",
+        "latitude": "1.487623369"
+    },
+    {
+        "region_id": "18",
+        "code": "18592",
+        "geoname_id": "18592000",
+        "region": "Caquetá",
+        "name": "Puerto Rico",
+        "longitude": "-75.15748874",
+        "latitude": "1.908935073"
+    },
+    {
+        "region_id": "18",
+        "code": "18610",
+        "geoname_id": "18610000",
+        "region": "Caquetá",
+        "name": "San José Del Fragua",
+        "longitude": "-75.9735381",
+        "latitude": "1.33194848"
+    },
+    {
+        "region_id": "18",
+        "code": "18753",
+        "geoname_id": "18753000",
+        "region": "Caquetá",
+        "name": "San Vicente Del Caguán",
+        "longitude": "-74.76734058",
+        "latitude": "2.119786131"
+    },
+    {
+        "region_id": "18",
+        "code": "18756",
+        "geoname_id": "18756000",
+        "region": "Caquetá",
+        "name": "Solano",
+        "longitude": "-75.25370431",
+        "latitude": "0.698977525"
+    },
+    {
+        "region_id": "18",
+        "code": "18785",
+        "geoname_id": "18785000",
+        "region": "Caquetá",
+        "name": "Solita",
+        "longitude": "-75.61973409",
+        "latitude": "0.876668003"
+    },
+    {
+        "region_id": "18",
+        "code": "18860",
+        "geoname_id": "18860000",
+        "region": "Caquetá",
+        "name": "Valparaíso",
+        "longitude": "-75.70658353",
+        "latitude": "1.194583032"
+    }
+  ]
+}

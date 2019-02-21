@@ -1,0 +1,268 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "10",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-73.5",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Cesar",
+    "fcl": "A",
+    "numberOfChildren": 25,
+    "name": "Departamento del Cesar",
+    "fcode": "ADM1",
+    "geonameId": 3686880,
+    "lat": "9.33333",
+    "adminName1": "Cesar",
+    "population": 903279
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "20",
+        "code": "20001",
+        "geoname_id": "20001000",
+        "region": "Cesar",
+        "name": "Valledupar",
+        "longitude": "-73.25938931",
+        "latitude": "10.46048122"
+    },
+    {
+        "region_id": "20",
+        "code": "20011",
+        "geoname_id": "20011000",
+        "region": "Cesar",
+        "name": "Aguachica",
+        "longitude": "-73.59902858",
+        "latitude": "8.310336958"
+    },
+    {
+        "region_id": "20",
+        "code": "20013",
+        "geoname_id": "20013000",
+        "region": "Cesar",
+        "name": "Agustín Codazzi",
+        "longitude": "-73.23839617",
+        "latitude": "10.04045799"
+    },
+    {
+        "region_id": "20",
+        "code": "20032",
+        "geoname_id": "20032000",
+        "region": "Cesar",
+        "name": "Astrea",
+        "longitude": "-73.9758638",
+        "latitude": "9.498161108"
+    },
+    {
+        "region_id": "20",
+        "code": "20045",
+        "geoname_id": "20045000",
+        "region": "Cesar",
+        "name": "Becerril",
+        "longitude": "-73.27923167",
+        "latitude": "9.704606116"
+    },
+    {
+        "region_id": "20",
+        "code": "20060",
+        "geoname_id": "20060000",
+        "region": "Cesar",
+        "name": "Bosconia",
+        "longitude": "-73.88876766",
+        "latitude": "9.9750947"
+    },
+    {
+        "region_id": "20",
+        "code": "20175",
+        "geoname_id": "20175000",
+        "region": "Cesar",
+        "name": "Chimichagua",
+        "longitude": "-73.81332845",
+        "latitude": "9.25827144"
+    },
+    {
+        "region_id": "20",
+        "code": "20178",
+        "geoname_id": "20178000",
+        "region": "Cesar",
+        "name": "Chiriguaná",
+        "longitude": "-73.60014444",
+        "latitude": "9.361189611"
+    },
+    {
+        "region_id": "20",
+        "code": "20228",
+        "geoname_id": "20228000",
+        "region": "Cesar",
+        "name": "Curumaní",
+        "longitude": "-73.54098652",
+        "latitude": "9.201810592"
+    },
+    {
+        "region_id": "20",
+        "code": "20238",
+        "geoname_id": "20238000",
+        "region": "Cesar",
+        "name": "El Copey",
+        "longitude": "-73.96271744",
+        "latitude": "10.14952543"
+    },
+    {
+        "region_id": "20",
+        "code": "20250",
+        "geoname_id": "20250000",
+        "region": "Cesar",
+        "name": "El Paso",
+        "longitude": "-73.74178848",
+        "latitude": "9.668470391"
+    },
+    {
+        "region_id": "20",
+        "code": "20295",
+        "geoname_id": "20295000",
+        "region": "Cesar",
+        "name": "Gamarra",
+        "longitude": "-73.74376",
+        "latitude": "8.320449051"
+    },
+    {
+        "region_id": "20",
+        "code": "20310",
+        "geoname_id": "20310000",
+        "region": "Cesar",
+        "name": "González",
+        "longitude": "-73.38003986",
+        "latitude": "8.389604097"
+    },
+    {
+        "region_id": "20",
+        "code": "20383",
+        "geoname_id": "20383000",
+        "region": "Cesar",
+        "name": "La Gloria",
+        "longitude": "-73.80321012",
+        "latitude": "8.619297878"
+    },
+    {
+        "region_id": "20",
+        "code": "20400",
+        "geoname_id": "20400000",
+        "region": "Cesar",
+        "name": "La Jagua De Ibirico",
+        "longitude": "-73.33422791",
+        "latitude": "9.5638873"
+    },
+    {
+        "region_id": "20",
+        "code": "20443",
+        "geoname_id": "20443000",
+        "region": "Cesar",
+        "name": "Manaure Balcón Del Cesar",
+        "longitude": "-73.02832046",
+        "latitude": "10.39089864"
+    },
+    {
+        "region_id": "20",
+        "code": "20517",
+        "geoname_id": "20517000",
+        "region": "Cesar",
+        "name": "Pailitas",
+        "longitude": "-73.62581668",
+        "latitude": "8.956033206"
+    },
+    {
+        "region_id": "20",
+        "code": "20550",
+        "geoname_id": "20550000",
+        "region": "Cesar",
+        "name": "Pelaya",
+        "longitude": "-73.66635487",
+        "latitude": "8.688650964"
+    },
+    {
+        "region_id": "20",
+        "code": "20570",
+        "geoname_id": "20570000",
+        "region": "Cesar",
+        "name": "Pueblo Bello",
+        "longitude": "-73.58901062",
+        "latitude": "10.4150616"
+    },
+    {
+        "region_id": "20",
+        "code": "20614",
+        "geoname_id": "20614000",
+        "region": "Cesar",
+        "name": "Río De Oro",
+        "longitude": "-73.3863952",
+        "latitude": "8.292287384"
+    },
+    {
+        "region_id": "20",
+        "code": "20621",
+        "geoname_id": "20621000",
+        "region": "Cesar",
+        "name": "La Paz",
+        "longitude": "-73.17136291",
+        "latitude": "10.38748954"
+    },
+    {
+        "region_id": "20",
+        "code": "20710",
+        "geoname_id": "20710000",
+        "region": "Cesar",
+        "name": "San Alberto",
+        "longitude": "-73.39422534",
+        "latitude": "7.76082642"
+    },
+    {
+        "region_id": "20",
+        "code": "20750",
+        "geoname_id": "20750000",
+        "region": "Cesar",
+        "name": "San Diego",
+        "longitude": "-73.18121808",
+        "latitude": "10.33303286"
+    },
+    {
+        "region_id": "20",
+        "code": "20770",
+        "geoname_id": "20770000",
+        "region": "Cesar",
+        "name": "San Martín",
+        "longitude": "-73.51097518",
+        "latitude": "7.999895459"
+    },
+    {
+        "region_id": "20",
+        "code": "20787",
+        "geoname_id": "20787000",
+        "region": "Cesar",
+        "name": "Tamalameque",
+        "longitude": "-73.8121728",
+        "latitude": "8.861724986"
+    }
+  ]
+}

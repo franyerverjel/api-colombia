@@ -1,0 +1,376 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "16",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75.58333",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento del Huila",
+    "fcl": "A",
+    "numberOfChildren": 37,
+    "name": "Departamento del Huila",
+    "fcode": "ADM1",
+    "geonameId": 3680692,
+    "lat": "2.5",
+    "adminName1": "Huila",
+    "population": 1011418
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "41",
+        "code": "41001",
+        "geoname_id": "41001000",
+        "region": "Huila",
+        "name": "Neiva",
+        "longitude": "-75.27772259",
+        "latitude": "2.935604415"
+    },
+    {
+        "region_id": "41",
+        "code": "41006",
+        "geoname_id": "41006000",
+        "region": "Huila",
+        "name": "Acevedo",
+        "longitude": "-75.88853156",
+        "latitude": "1.805263228"
+    },
+    {
+        "region_id": "41",
+        "code": "41013",
+        "geoname_id": "41013000",
+        "region": "Huila",
+        "name": "Agrado",
+        "longitude": "-75.77190358",
+        "latitude": "2.259729394"
+    },
+    {
+        "region_id": "41",
+        "code": "41016",
+        "geoname_id": "41016000",
+        "region": "Huila",
+        "name": "Aipe",
+        "longitude": "-75.23903118",
+        "latitude": "3.223597562"
+    },
+    {
+        "region_id": "41",
+        "code": "41020",
+        "geoname_id": "41020000",
+        "region": "Huila",
+        "name": "Algeciras",
+        "longitude": "-75.31537288",
+        "latitude": "2.522447597"
+    },
+    {
+        "region_id": "41",
+        "code": "41026",
+        "geoname_id": "41026000",
+        "region": "Huila",
+        "name": "Altamira",
+        "longitude": "-75.7883629",
+        "latitude": "2.063710886"
+    },
+    {
+        "region_id": "41",
+        "code": "41078",
+        "geoname_id": "41078000",
+        "region": "Huila",
+        "name": "Baraya",
+        "longitude": "-75.05427025",
+        "latitude": "3.153198541"
+    },
+    {
+        "region_id": "41",
+        "code": "41132",
+        "geoname_id": "41132000",
+        "region": "Huila",
+        "name": "Campoalegre",
+        "longitude": "-75.32573546",
+        "latitude": "2.686827401"
+    },
+    {
+        "region_id": "41",
+        "code": "41206",
+        "geoname_id": "41206000",
+        "region": "Huila",
+        "name": "Colombia",
+        "longitude": "-74.80281318",
+        "latitude": "3.376977129"
+    },
+    {
+        "region_id": "41",
+        "code": "41244",
+        "geoname_id": "41244000",
+        "region": "Huila",
+        "name": "Elías",
+        "longitude": "-75.93801084",
+        "latitude": "2.012697094"
+    },
+    {
+        "region_id": "41",
+        "code": "41298",
+        "geoname_id": "41298000",
+        "region": "Huila",
+        "name": "Garzón",
+        "longitude": "-75.62769374",
+        "latitude": "2.196994421"
+    },
+    {
+        "region_id": "41",
+        "code": "41306",
+        "geoname_id": "41306000",
+        "region": "Huila",
+        "name": "Gigante",
+        "longitude": "-75.54121989",
+        "latitude": "2.388235625"
+    },
+    {
+        "region_id": "41",
+        "code": "41319",
+        "geoname_id": "41319000",
+        "region": "Huila",
+        "name": "Guadalupe",
+        "longitude": "-75.75502825",
+        "latitude": "2.025157323"
+    },
+    {
+        "region_id": "41",
+        "code": "41349",
+        "geoname_id": "41349000",
+        "region": "Huila",
+        "name": "Hobo",
+        "longitude": "-75.45115097",
+        "latitude": "2.582867976"
+    },
+    {
+        "region_id": "41",
+        "code": "41357",
+        "geoname_id": "41357000",
+        "region": "Huila",
+        "name": "Íquira",
+        "longitude": "-75.63449748",
+        "latitude": "2.64935907"
+    },
+    {
+        "region_id": "41",
+        "code": "41359",
+        "geoname_id": "41359000",
+        "region": "Huila",
+        "name": "Isnos",
+        "longitude": "-76.21763745",
+        "latitude": "1.92946706"
+    },
+    {
+        "region_id": "41",
+        "code": "41378",
+        "geoname_id": "41378000",
+        "region": "Huila",
+        "name": "La Argentina",
+        "longitude": "-75.97976842",
+        "latitude": "2.198246252"
+    },
+    {
+        "region_id": "41",
+        "code": "41396",
+        "geoname_id": "41396000",
+        "region": "Huila",
+        "name": "La Plata",
+        "longitude": "-75.89145131",
+        "latitude": "2.389646694"
+    },
+    {
+        "region_id": "41",
+        "code": "41483",
+        "geoname_id": "41483000",
+        "region": "Huila",
+        "name": "Nátaga",
+        "longitude": "-75.80878532",
+        "latitude": "2.545352901"
+    },
+    {
+        "region_id": "41",
+        "code": "41503",
+        "geoname_id": "41503000",
+        "region": "Huila",
+        "name": "Oporapa",
+        "longitude": "-75.99517781",
+        "latitude": "2.025054002"
+    },
+    {
+        "region_id": "41",
+        "code": "41518",
+        "geoname_id": "41518000",
+        "region": "Huila",
+        "name": "Paicol",
+        "longitude": "-75.77299232",
+        "latitude": "2.449548949"
+    },
+    {
+        "region_id": "41",
+        "code": "41524",
+        "geoname_id": "41524000",
+        "region": "Huila",
+        "name": "Palermo",
+        "longitude": "-75.43371912",
+        "latitude": "2.888406236"
+    },
+    {
+        "region_id": "41",
+        "code": "41530",
+        "geoname_id": "41530000",
+        "region": "Huila",
+        "name": "Palestina",
+        "longitude": "-76.13312235",
+        "latitude": "1.723444181"
+    },
+    {
+        "region_id": "41",
+        "code": "41548",
+        "geoname_id": "41548000",
+        "region": "Huila",
+        "name": "Pital",
+        "longitude": "-75.80400492",
+        "latitude": "2.266679376"
+    },
+    {
+        "region_id": "41",
+        "code": "41551",
+        "geoname_id": "41551000",
+        "region": "Huila",
+        "name": "Pitalito",
+        "longitude": "-76.0487449",
+        "latitude": "1.852578355"
+    },
+    {
+        "region_id": "41",
+        "code": "41615",
+        "geoname_id": "41615000",
+        "region": "Huila",
+        "name": "Rivera",
+        "longitude": "-75.25854672",
+        "latitude": "2.777570516"
+    },
+    {
+        "region_id": "41",
+        "code": "41660",
+        "geoname_id": "41660000",
+        "region": "Huila",
+        "name": "Saladoblanco",
+        "longitude": "-76.04414126",
+        "latitude": "1.992494881"
+    },
+    {
+        "region_id": "41",
+        "code": "41668",
+        "geoname_id": "41668000",
+        "region": "Huila",
+        "name": "San Agustín",
+        "longitude": "-76.27035968",
+        "latitude": "1.881081298"
+    },
+    {
+        "region_id": "41",
+        "code": "41676",
+        "geoname_id": "41676000",
+        "region": "Huila",
+        "name": "Santa María",
+        "longitude": "-75.58611594",
+        "latitude": "2.939755223"
+    },
+    {
+        "region_id": "41",
+        "code": "41770",
+        "geoname_id": "41770000",
+        "region": "Huila",
+        "name": "Suaza",
+        "longitude": "-75.7950558",
+        "latitude": "1.97584609"
+    },
+    {
+        "region_id": "41",
+        "code": "41791",
+        "geoname_id": "41791000",
+        "region": "Huila",
+        "name": "Tarqui",
+        "longitude": "-75.82357508",
+        "latitude": "2.111321102"
+    },
+    {
+        "region_id": "41",
+        "code": "41797",
+        "geoname_id": "41797000",
+        "region": "Huila",
+        "name": "Tesalia",
+        "longitude": "-75.72984017",
+        "latitude": "2.486050264"
+    },
+    {
+        "region_id": "41",
+        "code": "41799",
+        "geoname_id": "41799000",
+        "region": "Huila",
+        "name": "Tello",
+        "longitude": "-75.13877304",
+        "latitude": "3.067538095"
+    },
+    {
+        "region_id": "41",
+        "code": "41801",
+        "geoname_id": "41801000",
+        "region": "Huila",
+        "name": "Teruel",
+        "longitude": "-75.56703425",
+        "latitude": "2.740968416"
+    },
+    {
+        "region_id": "41",
+        "code": "41807",
+        "geoname_id": "41807000",
+        "region": "Huila",
+        "name": "Timaná",
+        "longitude": "-75.932087",
+        "latitude": "1.974224443"
+    },
+    {
+        "region_id": "41",
+        "code": "41872",
+        "geoname_id": "41872000",
+        "region": "Huila",
+        "name": "Villavieja",
+        "longitude": "-75.21724434",
+        "latitude": "3.22076759"
+    },
+    {
+        "region_id": "41",
+        "code": "41885",
+        "geoname_id": "41885000",
+        "region": "Huila",
+        "name": "Yaguará",
+        "longitude": "-75.51802329",
+        "latitude": "2.664694213"
+    }
+  ]
+}

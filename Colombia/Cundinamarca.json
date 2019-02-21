@@ -1,0 +1,1087 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "33",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-74.16667",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Cundinamarca",
+    "fcl": "A",
+    "numberOfChildren": 116,
+    "name": "Cundinamarca",
+    "fcode": "ADM1",
+    "geonameId": 3685413,
+    "lat": "5",
+    "adminName1": "Cundinamarca",
+    "population": 2598245
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "25",
+        "code": "25001",
+        "geoname_id": "25001000",
+        "region": "Cundinamarca",
+        "name": "Agua De Dios",
+        "longitude": "-74.66921778",
+        "latitude": "4.375312017"
+    },
+    {
+        "region_id": "25",
+        "code": "25019",
+        "geoname_id": "25019000",
+        "region": "Cundinamarca",
+        "name": "Albán",
+        "longitude": "-74.43826109",
+        "latitude": "4.878022123"
+    },
+    {
+        "region_id": "25",
+        "code": "25035",
+        "geoname_id": "25035000",
+        "region": "Cundinamarca",
+        "name": "Anapoima",
+        "longitude": "-74.52851753",
+        "latitude": "4.562956175"
+    },
+    {
+        "region_id": "25",
+        "code": "25040",
+        "geoname_id": "25040000",
+        "region": "Cundinamarca",
+        "name": "Anolaima",
+        "longitude": "-74.46384203",
+        "latitude": "4.761695213"
+    },
+    {
+        "region_id": "25",
+        "code": "25053",
+        "geoname_id": "25053000",
+        "region": "Cundinamarca",
+        "name": "Arbeláez",
+        "longitude": "-74.41482562",
+        "latitude": "4.272481672"
+    },
+    {
+        "region_id": "25",
+        "code": "25086",
+        "geoname_id": "25086000",
+        "region": "Cundinamarca",
+        "name": "Beltrán",
+        "longitude": "-74.7418023",
+        "latitude": "4.802811459"
+    },
+    {
+        "region_id": "25",
+        "code": "25095",
+        "geoname_id": "25095000",
+        "region": "Cundinamarca",
+        "name": "Bituima",
+        "longitude": "-74.53961893",
+        "latitude": "4.872234339"
+    },
+    {
+        "region_id": "25",
+        "code": "25099",
+        "geoname_id": "25099000",
+        "region": "Cundinamarca",
+        "name": "Bojacá",
+        "longitude": "-74.34849164",
+        "latitude": "4.741758118"
+    },
+    {
+        "region_id": "25",
+        "code": "25120",
+        "geoname_id": "25120000",
+        "region": "Cundinamarca",
+        "name": "Cabrera",
+        "longitude": "-74.48418723",
+        "latitude": "3.98461914"
+    },
+    {
+        "region_id": "25",
+        "code": "25123",
+        "geoname_id": "25123000",
+        "region": "Cundinamarca",
+        "name": "Cachipay",
+        "longitude": "-74.4357071",
+        "latitude": "4.730954629"
+    },
+    {
+        "region_id": "25",
+        "code": "25126",
+        "geoname_id": "25126000",
+        "region": "Cundinamarca",
+        "name": "Cajicá",
+        "longitude": "-74.02345397",
+        "latitude": "4.920809059"
+    },
+    {
+        "region_id": "25",
+        "code": "25148",
+        "geoname_id": "25148000",
+        "region": "Cundinamarca",
+        "name": "Caparrapí",
+        "longitude": "-74.49111956",
+        "latitude": "5.347943295"
+    },
+    {
+        "region_id": "25",
+        "code": "25151",
+        "geoname_id": "25151000",
+        "region": "Cundinamarca",
+        "name": "Cáqueza",
+        "longitude": "-73.9464742",
+        "latitude": "4.40410106"
+    },
+    {
+        "region_id": "25",
+        "code": "25154",
+        "geoname_id": "25154000",
+        "region": "Cundinamarca",
+        "name": "Carmen De Carupa",
+        "longitude": "-73.90157376",
+        "latitude": "5.349115758"
+    },
+    {
+        "region_id": "25",
+        "code": "25168",
+        "geoname_id": "25168000",
+        "region": "Cundinamarca",
+        "name": "Chaguaní",
+        "longitude": "-74.59345529",
+        "latitude": "4.948915827"
+    },
+    {
+        "region_id": "25",
+        "code": "25175",
+        "geoname_id": "25175000",
+        "region": "Cundinamarca",
+        "name": "Chía",
+        "longitude": "-74.05034682",
+        "latitude": "4.866065424"
+    },
+    {
+        "region_id": "25",
+        "code": "25178",
+        "geoname_id": "25178000",
+        "region": "Cundinamarca",
+        "name": "Chipaque",
+        "longitude": "-74.04487563",
+        "latitude": "4.442671017"
+    },
+    {
+        "region_id": "25",
+        "code": "25181",
+        "geoname_id": "25181000",
+        "region": "Cundinamarca",
+        "name": "Choachí",
+        "longitude": "-73.92289448",
+        "latitude": "4.527047921"
+    },
+    {
+        "region_id": "25",
+        "code": "25183",
+        "geoname_id": "25183000",
+        "region": "Cundinamarca",
+        "name": "Chocontá",
+        "longitude": "-73.68352344",
+        "latitude": "5.145223894"
+    },
+    {
+        "region_id": "25",
+        "code": "25200",
+        "geoname_id": "25200000",
+        "region": "Cundinamarca",
+        "name": "Cogua",
+        "longitude": "-73.97849669",
+        "latitude": "5.061841798"
+    },
+    {
+        "region_id": "25",
+        "code": "25214",
+        "geoname_id": "25214000",
+        "region": "Cundinamarca",
+        "name": "Cota",
+        "longitude": "-74.10272646",
+        "latitude": "4.812987769"
+    },
+    {
+        "region_id": "25",
+        "code": "25224",
+        "geoname_id": "25224000",
+        "region": "Cundinamarca",
+        "name": "Cucunubá",
+        "longitude": "-73.76621533",
+        "latitude": "5.249767987"
+    },
+    {
+        "region_id": "25",
+        "code": "25245",
+        "geoname_id": "25245000",
+        "region": "Cundinamarca",
+        "name": "El Colegio",
+        "longitude": "-74.44255169",
+        "latitude": "4.579459662"
+    },
+    {
+        "region_id": "25",
+        "code": "25258",
+        "geoname_id": "25258000",
+        "region": "Cundinamarca",
+        "name": "El Peñón",
+        "longitude": "-74.29128594",
+        "latitude": "5.249141171"
+    },
+    {
+        "region_id": "25",
+        "code": "25260",
+        "geoname_id": "25260000",
+        "region": "Cundinamarca",
+        "name": "El Rosal",
+        "longitude": "-74.26366739",
+        "latitude": "4.852214275"
+    },
+    {
+        "region_id": "25",
+        "code": "25269",
+        "geoname_id": "25269000",
+        "region": "Cundinamarca",
+        "name": "Facatativá",
+        "longitude": "-74.35022793",
+        "latitude": "4.813064178"
+    },
+    {
+        "region_id": "25",
+        "code": "25279",
+        "geoname_id": "25279000",
+        "region": "Cundinamarca",
+        "name": "Fómeque",
+        "longitude": "-73.89252259",
+        "latitude": "4.485474345"
+    },
+    {
+        "region_id": "25",
+        "code": "25281",
+        "geoname_id": "25281000",
+        "region": "Cundinamarca",
+        "name": "Fosca",
+        "longitude": "-73.93902036",
+        "latitude": "4.339092845"
+    },
+    {
+        "region_id": "25",
+        "code": "25286",
+        "geoname_id": "25286000",
+        "region": "Cundinamarca",
+        "name": "Funza",
+        "longitude": "-74.211525",
+        "latitude": "4.712763015"
+    },
+    {
+        "region_id": "25",
+        "code": "25288",
+        "geoname_id": "25288000",
+        "region": "Cundinamarca",
+        "name": "Fúquene",
+        "longitude": "-73.79585543",
+        "latitude": "5.404040766"
+    },
+    {
+        "region_id": "25",
+        "code": "25290",
+        "geoname_id": "25290000",
+        "region": "Cundinamarca",
+        "name": "Fusagasugá",
+        "longitude": "-74.36633393",
+        "latitude": "4.338480851"
+    },
+    {
+        "region_id": "25",
+        "code": "25293",
+        "geoname_id": "25293000",
+        "region": "Cundinamarca",
+        "name": "Gachalá",
+        "longitude": "-73.52016136",
+        "latitude": "4.693578672"
+    },
+    {
+        "region_id": "25",
+        "code": "25295",
+        "geoname_id": "25295000",
+        "region": "Cundinamarca",
+        "name": "Gachancipá",
+        "longitude": "-73.87346922",
+        "latitude": "4.990918172"
+    },
+    {
+        "region_id": "25",
+        "code": "25297",
+        "geoname_id": "25297000",
+        "region": "Cundinamarca",
+        "name": "Gachetá",
+        "longitude": "-73.63700651",
+        "latitude": "4.817022162"
+    },
+    {
+        "region_id": "25",
+        "code": "25299",
+        "geoname_id": "25299000",
+        "region": "Cundinamarca",
+        "name": "Gama",
+        "longitude": "-73.61102894",
+        "latitude": "4.7633382"
+    },
+    {
+        "region_id": "25",
+        "code": "25307",
+        "geoname_id": "25307000",
+        "region": "Cundinamarca",
+        "name": "Girardot",
+        "longitude": "-74.79779459",
+        "latitude": "4.313078337"
+    },
+    {
+        "region_id": "25",
+        "code": "25312",
+        "geoname_id": "25312000",
+        "region": "Cundinamarca",
+        "name": "Granada",
+        "longitude": "-74.35076611",
+        "latitude": "4.519763473"
+    },
+    {
+        "region_id": "25",
+        "code": "25317",
+        "geoname_id": "25317000",
+        "region": "Cundinamarca",
+        "name": "Guachetá",
+        "longitude": "-73.68709822",
+        "latitude": "5.383741192"
+    },
+    {
+        "region_id": "25",
+        "code": "25320",
+        "geoname_id": "25320000",
+        "region": "Cundinamarca",
+        "name": "Guaduas",
+        "longitude": "-74.60295627",
+        "latitude": "5.071870533"
+    },
+    {
+        "region_id": "25",
+        "code": "25322",
+        "geoname_id": "25322000",
+        "region": "Cundinamarca",
+        "name": "Guasca",
+        "longitude": "-73.87714344",
+        "latitude": "4.866719147"
+    },
+    {
+        "region_id": "25",
+        "code": "25324",
+        "geoname_id": "25324000",
+        "region": "Cundinamarca",
+        "name": "Guataquí",
+        "longitude": "-74.78996878",
+        "latitude": "4.517417235"
+    },
+    {
+        "region_id": "25",
+        "code": "25326",
+        "geoname_id": "25326000",
+        "region": "Cundinamarca",
+        "name": "Guatavita",
+        "longitude": "-73.83287404",
+        "latitude": "4.934139703"
+    },
+    {
+        "region_id": "25",
+        "code": "25328",
+        "geoname_id": "25328000",
+        "region": "Cundinamarca",
+        "name": "Guayabal De Síquima",
+        "longitude": "-74.46743733",
+        "latitude": "4.877968134"
+    },
+    {
+        "region_id": "25",
+        "code": "25335",
+        "geoname_id": "25335000",
+        "region": "Cundinamarca",
+        "name": "Guayabetal",
+        "longitude": "-73.81509376",
+        "latitude": "4.215296629"
+    },
+    {
+        "region_id": "25",
+        "code": "25339",
+        "geoname_id": "25339000",
+        "region": "Cundinamarca",
+        "name": "Gutiérrez",
+        "longitude": "-74.0030419",
+        "latitude": "4.254678867"
+    },
+    {
+        "region_id": "25",
+        "code": "25368",
+        "geoname_id": "25368000",
+        "region": "Cundinamarca",
+        "name": "Jerusalén",
+        "longitude": "-74.69541923",
+        "latitude": "4.562308267"
+    },
+    {
+        "region_id": "25",
+        "code": "25372",
+        "geoname_id": "25372000",
+        "region": "Cundinamarca",
+        "name": "Junín",
+        "longitude": "-73.66292455",
+        "latitude": "4.790379974"
+    },
+    {
+        "region_id": "25",
+        "code": "25377",
+        "geoname_id": "25377000",
+        "region": "Cundinamarca",
+        "name": "La Calera",
+        "longitude": "-73.96974496",
+        "latitude": "4.720344521"
+    },
+    {
+        "region_id": "25",
+        "code": "25386",
+        "geoname_id": "25386000",
+        "region": "Cundinamarca",
+        "name": "La Mesa",
+        "longitude": "-74.46154474",
+        "latitude": "4.631044239"
+    },
+    {
+        "region_id": "25",
+        "code": "25394",
+        "geoname_id": "25394000",
+        "region": "Cundinamarca",
+        "name": "La Palma",
+        "longitude": "-74.39102017",
+        "latitude": "5.358816711"
+    },
+    {
+        "region_id": "25",
+        "code": "25398",
+        "geoname_id": "25398000",
+        "region": "Cundinamarca",
+        "name": "La Peña",
+        "longitude": "-74.39308873",
+        "latitude": "5.200211147"
+    },
+    {
+        "region_id": "25",
+        "code": "25402",
+        "geoname_id": "25402000",
+        "region": "Cundinamarca",
+        "name": "La Vega",
+        "longitude": "-74.33113821",
+        "latitude": "4.993077034"
+    },
+    {
+        "region_id": "25",
+        "code": "25407",
+        "geoname_id": "25407000",
+        "region": "Cundinamarca",
+        "name": "Lenguazaque",
+        "longitude": "-73.71149354",
+        "latitude": "5.306143499"
+    },
+    {
+        "region_id": "25",
+        "code": "25426",
+        "geoname_id": "25426000",
+        "region": "Cundinamarca",
+        "name": "Machetá",
+        "longitude": "-73.608325",
+        "latitude": "5.080198921"
+    },
+    {
+        "region_id": "25",
+        "code": "25430",
+        "geoname_id": "25430000",
+        "region": "Cundinamarca",
+        "name": "Madrid",
+        "longitude": "-74.26562577",
+        "latitude": "4.736129766"
+    },
+    {
+        "region_id": "25",
+        "code": "25436",
+        "geoname_id": "25436000",
+        "region": "Cundinamarca",
+        "name": "Manta",
+        "longitude": "-73.54050247",
+        "latitude": "5.009058389"
+    },
+    {
+        "region_id": "25",
+        "code": "25438",
+        "geoname_id": "25438000",
+        "region": "Cundinamarca",
+        "name": "Medina",
+        "longitude": "-73.34912272",
+        "latitude": "4.50661493"
+    },
+    {
+        "region_id": "25",
+        "code": "25473",
+        "geoname_id": "25473000",
+        "region": "Cundinamarca",
+        "name": "Mosquera",
+        "longitude": "-74.23177508",
+        "latitude": "4.711371201"
+    },
+    {
+        "region_id": "25",
+        "code": "25483",
+        "geoname_id": "25483000",
+        "region": "Cundinamarca",
+        "name": "Nariño",
+        "longitude": "-74.82473179",
+        "latitude": "4.399836799"
+    },
+    {
+        "region_id": "25",
+        "code": "25486",
+        "geoname_id": "25486000",
+        "region": "Cundinamarca",
+        "name": "Nemocón",
+        "longitude": "-73.87962974",
+        "latitude": "5.067364638"
+    },
+    {
+        "region_id": "25",
+        "code": "25488",
+        "geoname_id": "25488000",
+        "region": "Cundinamarca",
+        "name": "Nilo",
+        "longitude": "-74.61996587",
+        "latitude": "4.305801421"
+    },
+    {
+        "region_id": "25",
+        "code": "25489",
+        "geoname_id": "25489000",
+        "region": "Cundinamarca",
+        "name": "Nimaima",
+        "longitude": "-74.38600738",
+        "latitude": "5.126026248"
+    },
+    {
+        "region_id": "25",
+        "code": "25491",
+        "geoname_id": "25491000",
+        "region": "Cundinamarca",
+        "name": "Nocaima",
+        "longitude": "-74.37772796",
+        "latitude": "5.068933019"
+    },
+    {
+        "region_id": "25",
+        "code": "25506",
+        "geoname_id": "25506000",
+        "region": "Cundinamarca",
+        "name": "Venecia",
+        "longitude": "-74.47817821",
+        "latitude": "4.088960943"
+    },
+    {
+        "region_id": "25",
+        "code": "25513",
+        "geoname_id": "25513000",
+        "region": "Cundinamarca",
+        "name": "Pacho",
+        "longitude": "-74.15611662",
+        "latitude": "5.136942297"
+    },
+    {
+        "region_id": "25",
+        "code": "25518",
+        "geoname_id": "25518000",
+        "region": "Cundinamarca",
+        "name": "Paime",
+        "longitude": "-74.15221288",
+        "latitude": "5.37048741"
+    },
+    {
+        "region_id": "25",
+        "code": "25524",
+        "geoname_id": "25524000",
+        "region": "Cundinamarca",
+        "name": "Pandi",
+        "longitude": "-74.48664128",
+        "latitude": "4.190392561"
+    },
+    {
+        "region_id": "25",
+        "code": "25530",
+        "geoname_id": "25530000",
+        "region": "Cundinamarca",
+        "name": "Paratebueno",
+        "longitude": "-73.21282724",
+        "latitude": "4.374832781"
+    },
+    {
+        "region_id": "25",
+        "code": "25535",
+        "geoname_id": "25535000",
+        "region": "Cundinamarca",
+        "name": "Pasca",
+        "longitude": "-74.30545993",
+        "latitude": "4.309854412"
+    },
+    {
+        "region_id": "25",
+        "code": "25572",
+        "geoname_id": "25572000",
+        "region": "Cundinamarca",
+        "name": "Puerto Salgar",
+        "longitude": "-74.6528007",
+        "latitude": "5.464956044"
+    },
+    {
+        "region_id": "25",
+        "code": "25580",
+        "geoname_id": "25580000",
+        "region": "Cundinamarca",
+        "name": "Pulí",
+        "longitude": "-74.71447646",
+        "latitude": "4.681785104"
+    },
+    {
+        "region_id": "25",
+        "code": "25592",
+        "geoname_id": "25592000",
+        "region": "Cundinamarca",
+        "name": "Quebradanegra",
+        "longitude": "-74.48014501",
+        "latitude": "5.118071005"
+    },
+    {
+        "region_id": "25",
+        "code": "25594",
+        "geoname_id": "25594000",
+        "region": "Cundinamarca",
+        "name": "Quetame",
+        "longitude": "-73.86311388",
+        "latitude": "4.329825602"
+    },
+    {
+        "region_id": "25",
+        "code": "25596",
+        "geoname_id": "25596000",
+        "region": "Cundinamarca",
+        "name": "Quipile",
+        "longitude": "-74.53370501",
+        "latitude": "4.744809893"
+    },
+    {
+        "region_id": "25",
+        "code": "25599",
+        "geoname_id": "25599000",
+        "region": "Cundinamarca",
+        "name": "Apulo",
+        "longitude": "-74.59380454",
+        "latitude": "4.520347219"
+    },
+    {
+        "region_id": "25",
+        "code": "25612",
+        "geoname_id": "25612000",
+        "region": "Cundinamarca",
+        "name": "Ricaurte",
+        "longitude": "-74.78454297",
+        "latitude": "4.293949747"
+    },
+    {
+        "region_id": "25",
+        "code": "25645",
+        "geoname_id": "25645000",
+        "region": "Cundinamarca",
+        "name": "San Antonio Del Tequendama",
+        "longitude": "-74.35144269",
+        "latitude": "4.616138045"
+    },
+    {
+        "region_id": "25",
+        "code": "25649",
+        "geoname_id": "25649000",
+        "region": "Cundinamarca",
+        "name": "San Bernardo",
+        "longitude": "-74.42296242",
+        "latitude": "4.179432363"
+    },
+    {
+        "region_id": "25",
+        "code": "25653",
+        "geoname_id": "25653000",
+        "region": "Cundinamarca",
+        "name": "San Cayetano",
+        "longitude": "-74.02475397",
+        "latitude": "5.332937545"
+    },
+    {
+        "region_id": "25",
+        "code": "25658",
+        "geoname_id": "25658000",
+        "region": "Cundinamarca",
+        "name": "San Francisco",
+        "longitude": "-74.28967198",
+        "latitude": "4.97291694"
+    },
+    {
+        "region_id": "25",
+        "code": "25662",
+        "geoname_id": "25662000",
+        "region": "Cundinamarca",
+        "name": "San Juan De Rioseco",
+        "longitude": "-74.62191472",
+        "latitude": "4.847575999"
+    },
+    {
+        "region_id": "25",
+        "code": "25718",
+        "geoname_id": "25718000",
+        "region": "Cundinamarca",
+        "name": "Sasaima",
+        "longitude": "-74.43262795",
+        "latitude": "4.962166987"
+    },
+    {
+        "region_id": "25",
+        "code": "25736",
+        "geoname_id": "25736000",
+        "region": "Cundinamarca",
+        "name": "Sesquilé",
+        "longitude": "-73.79612783",
+        "latitude": "5.044729613"
+    },
+    {
+        "region_id": "25",
+        "code": "25740",
+        "geoname_id": "25740000",
+        "region": "Cundinamarca",
+        "name": "Sibaté",
+        "longitude": "-74.25899225",
+        "latitude": "4.489763593"
+    },
+    {
+        "region_id": "25",
+        "code": "25743",
+        "geoname_id": "25743000",
+        "region": "Cundinamarca",
+        "name": "Silvania",
+        "longitude": "-74.40552821",
+        "latitude": "4.381941157"
+    },
+    {
+        "region_id": "25",
+        "code": "25745",
+        "geoname_id": "25745000",
+        "region": "Cundinamarca",
+        "name": "Simijaca",
+        "longitude": "-73.85032035",
+        "latitude": "5.505428098"
+    },
+    {
+        "region_id": "25",
+        "code": "25754",
+        "geoname_id": "25754000",
+        "region": "Cundinamarca",
+        "name": "Soacha",
+        "longitude": "-74.21452753",
+        "latitude": "4.585491658"
+    },
+    {
+        "region_id": "25",
+        "code": "25758",
+        "geoname_id": "25758000",
+        "region": "Cundinamarca",
+        "name": "Sopó",
+        "longitude": "-73.94577489",
+        "latitude": "4.906330809"
+    },
+    {
+        "region_id": "25",
+        "code": "25769",
+        "geoname_id": "25769000",
+        "region": "Cundinamarca",
+        "name": "Subachoque",
+        "longitude": "-74.17270846",
+        "latitude": "4.929079289"
+    },
+    {
+        "region_id": "25",
+        "code": "25772",
+        "geoname_id": "25772000",
+        "region": "Cundinamarca",
+        "name": "Suesca",
+        "longitude": "-73.79828978",
+        "latitude": "5.103516839"
+    },
+    {
+        "region_id": "25",
+        "code": "25777",
+        "geoname_id": "25777000",
+        "region": "Cundinamarca",
+        "name": "Supatá",
+        "longitude": "-74.23540301",
+        "latitude": "5.061619547"
+    },
+    {
+        "region_id": "25",
+        "code": "25779",
+        "geoname_id": "25779000",
+        "region": "Cundinamarca",
+        "name": "Susa",
+        "longitude": "-73.81400325",
+        "latitude": "5.454868004"
+    },
+    {
+        "region_id": "25",
+        "code": "25781",
+        "geoname_id": "25781000",
+        "region": "Cundinamarca",
+        "name": "Sutatausa",
+        "longitude": "-73.85315889",
+        "latitude": "5.247482313"
+    },
+    {
+        "region_id": "25",
+        "code": "25785",
+        "geoname_id": "25785000",
+        "region": "Cundinamarca",
+        "name": "Tabio",
+        "longitude": "-74.09618339",
+        "latitude": "4.917202192"
+    },
+    {
+        "region_id": "25",
+        "code": "25793",
+        "geoname_id": "25793000",
+        "region": "Cundinamarca",
+        "name": "Tausa",
+        "longitude": "-73.88647267",
+        "latitude": "5.196555039"
+    },
+    {
+        "region_id": "25",
+        "code": "25797",
+        "geoname_id": "25797000",
+        "region": "Cundinamarca",
+        "name": "Tena",
+        "longitude": "-74.38953312",
+        "latitude": "4.655339153"
+    },
+    {
+        "region_id": "25",
+        "code": "25799",
+        "geoname_id": "25799000",
+        "region": "Cundinamarca",
+        "name": "Tenjo",
+        "longitude": "-74.14395621",
+        "latitude": "4.871960537"
+    },
+    {
+        "region_id": "25",
+        "code": "25805",
+        "geoname_id": "25805000",
+        "region": "Cundinamarca",
+        "name": "Tibacuy",
+        "longitude": "-74.45234352",
+        "latitude": "4.348314659"
+    },
+    {
+        "region_id": "25",
+        "code": "25807",
+        "geoname_id": "25807000",
+        "region": "Cundinamarca",
+        "name": "Tibirita",
+        "longitude": "-73.50451403",
+        "latitude": "5.052277838"
+    },
+    {
+        "region_id": "25",
+        "code": "25815",
+        "geoname_id": "25815000",
+        "region": "Cundinamarca",
+        "name": "Tocaima",
+        "longitude": "-74.63630492",
+        "latitude": "4.459270864"
+    },
+    {
+        "region_id": "25",
+        "code": "25817",
+        "geoname_id": "25817000",
+        "region": "Cundinamarca",
+        "name": "Tocancipá",
+        "longitude": "-73.91209121",
+        "latitude": "4.964786354"
+    },
+    {
+        "region_id": "25",
+        "code": "25823",
+        "geoname_id": "25823000",
+        "region": "Cundinamarca",
+        "name": "Topaipí",
+        "longitude": "-74.30268797",
+        "latitude": "5.33597335"
+    },
+    {
+        "region_id": "25",
+        "code": "25839",
+        "geoname_id": "25839000",
+        "region": "Cundinamarca",
+        "name": "Ubalá",
+        "longitude": "-73.53397993",
+        "latitude": "4.743901408"
+    },
+    {
+        "region_id": "25",
+        "code": "25841",
+        "geoname_id": "25841000",
+        "region": "Cundinamarca",
+        "name": "Ubaque",
+        "longitude": "-73.93346087",
+        "latitude": "4.483802095"
+    },
+    {
+        "region_id": "25",
+        "code": "25843",
+        "geoname_id": "25843000",
+        "region": "Cundinamarca",
+        "name": "Villa De San Diego De Ubaté",
+        "longitude": "-73.81434634",
+        "latitude": "5.307540984"
+    },
+    {
+        "region_id": "25",
+        "code": "25845",
+        "geoname_id": "25845000",
+        "region": "Cundinamarca",
+        "name": "Une",
+        "longitude": "-74.02518226",
+        "latitude": "4.402450393"
+    },
+    {
+        "region_id": "25",
+        "code": "25851",
+        "geoname_id": "25851000",
+        "region": "Cundinamarca",
+        "name": "Útica",
+        "longitude": "-74.48312029",
+        "latitude": "5.190590104"
+    },
+    {
+        "region_id": "25",
+        "code": "25862",
+        "geoname_id": "25862000",
+        "region": "Cundinamarca",
+        "name": "Vergara",
+        "longitude": "-74.34636043",
+        "latitude": "5.117304568"
+    },
+    {
+        "region_id": "25",
+        "code": "25867",
+        "geoname_id": "25867000",
+        "region": "Cundinamarca",
+        "name": "Vianí",
+        "longitude": "-74.56132662",
+        "latitude": "4.875205217"
+    },
+    {
+        "region_id": "25",
+        "code": "25871",
+        "geoname_id": "25871000",
+        "region": "Cundinamarca",
+        "name": "Villagómez",
+        "longitude": "-74.19514546",
+        "latitude": "5.273023755"
+    },
+    {
+        "region_id": "25",
+        "code": "25873",
+        "geoname_id": "25873000",
+        "region": "Cundinamarca",
+        "name": "Villapinzón",
+        "longitude": "-73.59535467",
+        "latitude": "5.216438372"
+    },
+    {
+        "region_id": "25",
+        "code": "25875",
+        "geoname_id": "25875000",
+        "region": "Cundinamarca",
+        "name": "Villeta",
+        "longitude": "-74.46970495",
+        "latitude": "5.012790639"
+    },
+    {
+        "region_id": "25",
+        "code": "25878",
+        "geoname_id": "25878000",
+        "region": "Cundinamarca",
+        "name": "Viotá",
+        "longitude": "-74.52316032",
+        "latitude": "4.439355814"
+    },
+    {
+        "region_id": "25",
+        "code": "25885",
+        "geoname_id": "25885000",
+        "region": "Cundinamarca",
+        "name": "Yacopí",
+        "longitude": "-74.33802435",
+        "latitude": "5.459290341"
+    },
+    {
+        "region_id": "25",
+        "code": "25898",
+        "geoname_id": "25898000",
+        "region": "Cundinamarca",
+        "name": "Zipacón",
+        "longitude": "-74.37959142",
+        "latitude": "4.759924886"
+    },
+    {
+        "region_id": "25",
+        "code": "25899",
+        "geoname_id": "25899000",
+        "region": "Cundinamarca",
+        "name": "Zipaquirá",
+        "longitude": "-73.99447124",
+        "latitude": "5.025471685"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "28",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75.25",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Tolima",
+    "fcl": "A",
+    "numberOfChildren": 47,
+    "name": "Departamento de Tolima",
+    "fcode": "ADM1",
+    "geonameId": 3666951,
+    "lat": "4",
+    "adminName1": "Tolima",
+    "population": 1365342
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "73",
+        "code": "73001",
+        "geoname_id": "73001000",
+        "region": "Tolima",
+        "name": "Ibagué",
+        "longitude": "-75.19371478",
+        "latitude": "4.439608991"
+    },
+    {
+        "region_id": "73",
+        "code": "73024",
+        "geoname_id": "73024000",
+        "region": "Tolima",
+        "name": "Alpujarra",
+        "longitude": "-74.93286382",
+        "latitude": "3.391731289"
+    },
+    {
+        "region_id": "73",
+        "code": "73026",
+        "geoname_id": "73026000",
+        "region": "Tolima",
+        "name": "Alvarado",
+        "longitude": "-74.95355714",
+        "latitude": "4.567343598"
+    },
+    {
+        "region_id": "73",
+        "code": "73030",
+        "geoname_id": "73030000",
+        "region": "Tolima",
+        "name": "Ambalema",
+        "longitude": "-74.76444089",
+        "latitude": "4.782633993"
+    },
+    {
+        "region_id": "73",
+        "code": "73043",
+        "geoname_id": "73043000",
+        "region": "Tolima",
+        "name": "Anzoátegui",
+        "longitude": "-75.09645074",
+        "latitude": "4.627473618"
+    },
+    {
+        "region_id": "73",
+        "code": "73055",
+        "geoname_id": "73055000",
+        "region": "Tolima",
+        "name": "Armero",
+        "longitude": "-74.884413",
+        "latitude": "5.030678392"
+    },
+    {
+        "region_id": "73",
+        "code": "73067",
+        "geoname_id": "73067000",
+        "region": "Tolima",
+        "name": "Ataco",
+        "longitude": "-75.38253426",
+        "latitude": "3.590635737"
+    },
+    {
+        "region_id": "73",
+        "code": "73124",
+        "geoname_id": "73124000",
+        "region": "Tolima",
+        "name": "Cajamarca",
+        "longitude": "-75.43548526",
+        "latitude": "4.436672762"
+    },
+    {
+        "region_id": "73",
+        "code": "73148",
+        "geoname_id": "73148000",
+        "region": "Tolima",
+        "name": "Carmen De Apicalá",
+        "longitude": "-74.71616942",
+        "latitude": "4.147912057"
+    },
+    {
+        "region_id": "73",
+        "code": "73152",
+        "geoname_id": "73152000",
+        "region": "Tolima",
+        "name": "Casabianca",
+        "longitude": "-75.12096615",
+        "latitude": "5.078464508"
+    },
+    {
+        "region_id": "73",
+        "code": "73168",
+        "geoname_id": "73168000",
+        "region": "Tolima",
+        "name": "Chaparral",
+        "longitude": "-75.48074305",
+        "latitude": "3.723068376"
+    },
+    {
+        "region_id": "73",
+        "code": "73200",
+        "geoname_id": "73200000",
+        "region": "Tolima",
+        "name": "Coello",
+        "longitude": "-74.89846435",
+        "latitude": "4.28727555"
+    },
+    {
+        "region_id": "73",
+        "code": "73217",
+        "geoname_id": "73217000",
+        "region": "Tolima",
+        "name": "Coyaima",
+        "longitude": "-75.1938783",
+        "latitude": "3.79802798"
+    },
+    {
+        "region_id": "73",
+        "code": "73226",
+        "geoname_id": "73226000",
+        "region": "Tolima",
+        "name": "Cunday",
+        "longitude": "-74.69222722",
+        "latitude": "4.059259258"
+    },
+    {
+        "region_id": "73",
+        "code": "73236",
+        "geoname_id": "73236000",
+        "region": "Tolima",
+        "name": "Dolores",
+        "longitude": "-74.89684475",
+        "latitude": "3.539036003"
+    },
+    {
+        "region_id": "73",
+        "code": "73268",
+        "geoname_id": "73268000",
+        "region": "Tolima",
+        "name": "Espinal",
+        "longitude": "-74.88544976",
+        "latitude": "4.151314221"
+    },
+    {
+        "region_id": "73",
+        "code": "73270",
+        "geoname_id": "73270000",
+        "region": "Tolima",
+        "name": "Falan",
+        "longitude": "-74.95300717",
+        "latitude": "5.123103863"
+    },
+    {
+        "region_id": "73",
+        "code": "73275",
+        "geoname_id": "73275000",
+        "region": "Tolima",
+        "name": "Flandes",
+        "longitude": "-74.81876746",
+        "latitude": "4.27637165"
+    },
+    {
+        "region_id": "73",
+        "code": "73283",
+        "geoname_id": "73283000",
+        "region": "Tolima",
+        "name": "Fresno",
+        "longitude": "-75.03562715",
+        "latitude": "5.153638261"
+    },
+    {
+        "region_id": "73",
+        "code": "73319",
+        "geoname_id": "73319000",
+        "region": "Tolima",
+        "name": "Guamo",
+        "longitude": "-74.96812715",
+        "latitude": "4.031003906"
+    },
+    {
+        "region_id": "73",
+        "code": "73347",
+        "geoname_id": "73347000",
+        "region": "Tolima",
+        "name": "Herveo",
+        "longitude": "-75.17715109",
+        "latitude": "5.080227525"
+    },
+    {
+        "region_id": "73",
+        "code": "73349",
+        "geoname_id": "73349000",
+        "region": "Tolima",
+        "name": "Honda",
+        "longitude": "-74.74157797",
+        "latitude": "5.201508899"
+    },
+    {
+        "region_id": "73",
+        "code": "73352",
+        "geoname_id": "73352000",
+        "region": "Tolima",
+        "name": "Icononzo",
+        "longitude": "-74.53197619",
+        "latitude": "4.176436205"
+    },
+    {
+        "region_id": "73",
+        "code": "73408",
+        "geoname_id": "73408000",
+        "region": "Tolima",
+        "name": "Lérida",
+        "longitude": "-74.91063435",
+        "latitude": "4.862025346"
+    },
+    {
+        "region_id": "73",
+        "code": "73411",
+        "geoname_id": "73411000",
+        "region": "Tolima",
+        "name": "Líbano",
+        "longitude": "-75.06342093",
+        "latitude": "4.923442374"
+    },
+    {
+        "region_id": "73",
+        "code": "73443",
+        "geoname_id": "73443000",
+        "region": "Tolima",
+        "name": "San Sebastián De Mariquita",
+        "longitude": "-74.88929482",
+        "latitude": "5.199691183"
+    },
+    {
+        "region_id": "73",
+        "code": "73449",
+        "geoname_id": "73449000",
+        "region": "Tolima",
+        "name": "Melgar",
+        "longitude": "-74.6298504",
+        "latitude": "4.208154892"
+    },
+    {
+        "region_id": "73",
+        "code": "73461",
+        "geoname_id": "73461000",
+        "region": "Tolima",
+        "name": "Murillo",
+        "longitude": "-75.17078682",
+        "latitude": "4.875071014"
+    },
+    {
+        "region_id": "73",
+        "code": "73483",
+        "geoname_id": "73483000",
+        "region": "Tolima",
+        "name": "Natagaima",
+        "longitude": "-75.093478",
+        "latitude": "3.624858538"
+    },
+    {
+        "region_id": "73",
+        "code": "73504",
+        "geoname_id": "73504000",
+        "region": "Tolima",
+        "name": "Ortega",
+        "longitude": "-75.2226011",
+        "latitude": "3.934916387"
+    },
+    {
+        "region_id": "73",
+        "code": "73520",
+        "geoname_id": "73520000",
+        "region": "Tolima",
+        "name": "Palocabildo",
+        "longitude": "-75.02219757",
+        "latitude": "5.120971969"
+    },
+    {
+        "region_id": "73",
+        "code": "73547",
+        "geoname_id": "73547000",
+        "region": "Tolima",
+        "name": "Piedras",
+        "longitude": "-74.87807399",
+        "latitude": "4.543908286"
+    },
+    {
+        "region_id": "73",
+        "code": "73555",
+        "geoname_id": "73555000",
+        "region": "Tolima",
+        "name": "Planadas",
+        "longitude": "-75.64396147",
+        "latitude": "3.197661469"
+    },
+    {
+        "region_id": "73",
+        "code": "73563",
+        "geoname_id": "73563000",
+        "region": "Tolima",
+        "name": "Prado",
+        "longitude": "-74.92745557",
+        "latitude": "3.751013234"
+    },
+    {
+        "region_id": "73",
+        "code": "73585",
+        "geoname_id": "73585000",
+        "region": "Tolima",
+        "name": "Purificación",
+        "longitude": "-74.92864619",
+        "latitude": "3.859379857"
+    },
+    {
+        "region_id": "73",
+        "code": "73616",
+        "geoname_id": "73616000",
+        "region": "Tolima",
+        "name": "Rioblanco",
+        "longitude": "-75.64438767",
+        "latitude": "3.52986323"
+    },
+    {
+        "region_id": "73",
+        "code": "73622",
+        "geoname_id": "73622000",
+        "region": "Tolima",
+        "name": "Roncesvalles",
+        "longitude": "-75.60600233",
+        "latitude": "4.01159776"
+    },
+    {
+        "region_id": "73",
+        "code": "73624",
+        "geoname_id": "73624000",
+        "region": "Tolima",
+        "name": "Rovira",
+        "longitude": "-75.2408683",
+        "latitude": "4.238932685"
+    },
+    {
+        "region_id": "73",
+        "code": "73671",
+        "geoname_id": "73671000",
+        "region": "Tolima",
+        "name": "Saldaña",
+        "longitude": "-75.016069",
+        "latitude": "3.926792658"
+    },
+    {
+        "region_id": "73",
+        "code": "73675",
+        "geoname_id": "73675000",
+        "region": "Tolima",
+        "name": "San Antonio",
+        "longitude": "-75.48090671",
+        "latitude": "3.912976052"
+    },
+    {
+        "region_id": "73",
+        "code": "73678",
+        "geoname_id": "73678000",
+        "region": "Tolima",
+        "name": "San Luis",
+        "longitude": "-75.09578719",
+        "latitude": "4.133720614"
+    },
+    {
+        "region_id": "73",
+        "code": "73686",
+        "geoname_id": "73686000",
+        "region": "Tolima",
+        "name": "Santa Isabel",
+        "longitude": "-75.09793439",
+        "latitude": "4.713605767"
+    },
+    {
+        "region_id": "73",
+        "code": "73770",
+        "geoname_id": "73770000",
+        "region": "Tolima",
+        "name": "Suárez",
+        "longitude": "-74.83188311",
+        "latitude": "4.048884259"
+    },
+    {
+        "region_id": "73",
+        "code": "73854",
+        "geoname_id": "73854000",
+        "region": "Tolima",
+        "name": "Valle De San Juan",
+        "longitude": "-75.11566923",
+        "latitude": "4.197493673"
+    },
+    {
+        "region_id": "73",
+        "code": "73861",
+        "geoname_id": "73861000",
+        "region": "Tolima",
+        "name": "Venadillo",
+        "longitude": "-74.92917085",
+        "latitude": "4.717966593"
+    },
+    {
+        "region_id": "73",
+        "code": "73870",
+        "geoname_id": "73870000",
+        "region": "Tolima",
+        "name": "Villahermosa",
+        "longitude": "-75.1177291",
+        "latitude": "5.030452282"
+    },
+    {
+        "region_id": "73",
+        "code": "73873",
+        "geoname_id": "73873000",
+        "region": "Tolima",
+        "name": "Villarrica",
+        "longitude": "-74.60029555",
+        "latitude": "3.936745138"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "region_data": {
+    "countryId": "3686110",
+    "adminCode1": "12",
+    "countryName": "Colombia",
+    "fclName": "country, state, region,...",
+    "countryCode": "CO",
+    "lng": "-75.66667",
+    "fcodeName": "first-order administrative division",
+    "toponymName": "Departamento de Córdoba",
+    "fcl": "A",
+    "numberOfChildren": 30,
+    "name": "Departamento de Córdoba",
+    "fcode": "ADM1",
+    "geonameId": 3685889,
+    "lat": "8.33333",
+    "adminName1": "Córdoba",
+    "population": 1467929
+  },
+  "country_data": {
+    "ISO": "CO",
+    "ISO3": "COL",
+    "ISO_Numeric": "170",
+    "fips": "CO",
+    "country": "Colombia",
+    "capital": "Bogota",
+    "area": "1138910",
+    "Population": "47790000",
+    "Continent": "SA",
+    "tld": ".co",
+    "CurrencyCode": "COP",
+    "CurrencyName": "Peso",
+    "Phone": "57",
+    "Postal_Code_Format": "",
+    "Postal_Code_Regex": "",
+    "Languages": "es-CO",
+    "geonameid": "3686110",
+    "neighbours": "EC,PE,PA,BR,VE",
+    "EquivalentFipsCode": ""
+  },
+  "cities": [
+    {
+        "region_id": "23",
+        "code": "23001",
+        "geoname_id": "23001000",
+        "region": "Córdoba",
+        "name": "Montería",
+        "longitude": "-75.87557791",
+        "latitude": "8.745132591"
+    },
+    {
+        "region_id": "23",
+        "code": "23068",
+        "geoname_id": "23068000",
+        "region": "Córdoba",
+        "name": "Ayapel",
+        "longitude": "-75.14629076",
+        "latitude": "8.314446629"
+    },
+    {
+        "region_id": "23",
+        "code": "23079",
+        "geoname_id": "23079000",
+        "region": "Córdoba",
+        "name": "Buenavista",
+        "longitude": "-75.48089871",
+        "latitude": "8.221165554"
+    },
+    {
+        "region_id": "23",
+        "code": "23090",
+        "geoname_id": "23090000",
+        "region": "Córdoba",
+        "name": "Canalete",
+        "longitude": "-76.24139652",
+        "latitude": "8.786944523"
+    },
+    {
+        "region_id": "23",
+        "code": "23162",
+        "geoname_id": "23162000",
+        "region": "Córdoba",
+        "name": "Cereté",
+        "longitude": "-75.79621652",
+        "latitude": "8.888611812"
+    },
+    {
+        "region_id": "23",
+        "code": "23168",
+        "geoname_id": "23168000",
+        "region": "Córdoba",
+        "name": "Chimá",
+        "longitude": "-75.62689551",
+        "latitude": "9.149480457"
+    },
+    {
+        "region_id": "23",
+        "code": "23182",
+        "geoname_id": "23182000",
+        "region": "Córdoba",
+        "name": "Chinú",
+        "longitude": "-75.39971962",
+        "latitude": "9.105294089"
+    },
+    {
+        "region_id": "23",
+        "code": "23189",
+        "geoname_id": "23189000",
+        "region": "Córdoba",
+        "name": "Ciénaga De Oro",
+        "longitude": "-75.62078664",
+        "latitude": "8.875502246"
+    },
+    {
+        "region_id": "23",
+        "code": "23300",
+        "geoname_id": "23300000",
+        "region": "Córdoba",
+        "name": "Cotorra",
+        "longitude": "-75.79914949",
+        "latitude": "9.037088051"
+    },
+    {
+        "region_id": "23",
+        "code": "23350",
+        "geoname_id": "23350000",
+        "region": "Córdoba",
+        "name": "La Apartada",
+        "longitude": "-75.33901631",
+        "latitude": "8.05245366"
+    },
+    {
+        "region_id": "23",
+        "code": "23417",
+        "geoname_id": "23417000",
+        "region": "Córdoba",
+        "name": "Lorica",
+        "longitude": "-75.8159954",
+        "latitude": "9.240855143"
+    },
+    {
+        "region_id": "23",
+        "code": "23419",
+        "geoname_id": "23419000",
+        "region": "Córdoba",
+        "name": "Los Córdobas",
+        "longitude": "-76.35519288",
+        "latitude": "8.892168997"
+    },
+    {
+        "region_id": "23",
+        "code": "23464",
+        "geoname_id": "23464000",
+        "region": "Córdoba",
+        "name": "Momil",
+        "longitude": "-75.67796062",
+        "latitude": "9.240711917"
+    },
+    {
+        "region_id": "23",
+        "code": "23466",
+        "geoname_id": "23466000",
+        "region": "Córdoba",
+        "name": "Montelíbano",
+        "longitude": "-75.41681813",
+        "latitude": "7.973777244"
+    },
+    {
+        "region_id": "23",
+        "code": "23500",
+        "geoname_id": "23500000",
+        "region": "Córdoba",
+        "name": "Moñitos",
+        "longitude": "-76.12939619",
+        "latitude": "9.245280293"
+    },
+    {
+        "region_id": "23",
+        "code": "23555",
+        "geoname_id": "23555000",
+        "region": "Córdoba",
+        "name": "Planeta Rica",
+        "longitude": "-75.58324299",
+        "latitude": "8.408202562"
+    },
+    {
+        "region_id": "23",
+        "code": "23570",
+        "geoname_id": "23570000",
+        "region": "Córdoba",
+        "name": "Pueblo Nuevo",
+        "longitude": "-75.50797138",
+        "latitude": "8.504003297"
+    },
+    {
+        "region_id": "23",
+        "code": "23574",
+        "geoname_id": "23574000",
+        "region": "Córdoba",
+        "name": "Puerto Escondido",
+        "longitude": "-76.26041108",
+        "latitude": "9.005372178"
+    },
+    {
+        "region_id": "23",
+        "code": "23580",
+        "geoname_id": "23580000",
+        "region": "Córdoba",
+        "name": "Puerto Libertador",
+        "longitude": "-75.67179975",
+        "latitude": "7.888834815"
+    },
+    {
+        "region_id": "23",
+        "code": "23586",
+        "geoname_id": "23586000",
+        "region": "Córdoba",
+        "name": "Purísima De La Concepción",
+        "longitude": "-75.72488526",
+        "latitude": "9.239299079"
+    },
+    {
+        "region_id": "23",
+        "code": "23660",
+        "geoname_id": "23660000",
+        "region": "Córdoba",
+        "name": "Sahagún",
+        "longitude": "-75.4459203",
+        "latitude": "8.943125416"
+    },
+    {
+        "region_id": "23",
+        "code": "23670",
+        "geoname_id": "23670000",
+        "region": "Córdoba",
+        "name": "San Andrés De Sotavento",
+        "longitude": "-75.5088939",
+        "latitude": "9.145162943"
+    },
+    {
+        "region_id": "23",
+        "code": "23672",
+        "geoname_id": "23672000",
+        "region": "Córdoba",
+        "name": "San Antero",
+        "longitude": "-75.76077297",
+        "latitude": "9.376217345"
+    },
+    {
+        "region_id": "23",
+        "code": "23675",
+        "geoname_id": "23675000",
+        "region": "Córdoba",
+        "name": "San Bernardo Del Viento",
+        "longitude": "-75.95474387",
+        "latitude": "9.352301989"
+    },
+    {
+        "region_id": "23",
+        "code": "23678",
+        "geoname_id": "23678000",
+        "region": "Córdoba",
+        "name": "San Carlos",
+        "longitude": "-75.69884549",
+        "latitude": "8.799106591"
+    },
+    {
+        "region_id": "23",
+        "code": "23682",
+        "geoname_id": "23682000",
+        "region": "Córdoba",
+        "name": "San José De Uré",
+        "longitude": "-75.5331329",
+        "latitude": "7.78718515"
+    },
+    {
+        "region_id": "23",
+        "code": "23686",
+        "geoname_id": "23686000",
+        "region": "Córdoba",
+        "name": "San Pelayo",
+        "longitude": "-75.83512552",
+        "latitude": "8.958010321"
+    },
+    {
+        "region_id": "23",
+        "code": "23807",
+        "geoname_id": "23807000",
+        "region": "Córdoba",
+        "name": "Tierralta",
+        "longitude": "-76.05969659",
+        "latitude": "8.170378684"
+    },
+    {
+        "region_id": "23",
+        "code": "23815",
+        "geoname_id": "23815000",
+        "region": "Córdoba",
+        "name": "Tuchín",
+        "longitude": "-75.55445092",
+        "latitude": "9.186965875"
+    },
+    {
+        "region_id": "23",
+        "code": "23855",
+        "geoname_id": "23855000",
+        "region": "Córdoba",
+        "name": "Valencia",
+        "longitude": "-76.15071869",
+        "latitude": "8.255016584"
+    }
+  ]
+}
